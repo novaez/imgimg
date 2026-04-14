@@ -1,0 +1,1889 @@
+
+<!doctype html>
+<!--[if lt IE 9]><html class="no-js no-svg ie lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 9]><html class="no-js no-svg ie ie9 lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js no-svg" lang="en-US"> <!--<![endif]-->
+<head>
+    <meta charset="UTF-8" />
+<script type="text/javascript">
+/* <![CDATA[ */
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+/* ]]> */
+</script>
+
+    <meta name="description" content="Risepoint partners with universities to develop, launch, and grow their high-quality, affordable, workforce-focused online programs.">
+    <link rel="stylesheet" href="https://risepoint.com/wp-content/themes/risepoint-corporate/style.css" type="text/css" media="screen" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="author" href="https://risepoint.com/wp-content/themes/risepoint-corporate/humans.txt" />
+    <link rel="pingback" href="https://risepoint.com/xmlrpc.php" />
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+        <script src="//fast.wistia.com/assets/external/E-v1.js" async></script>
+    <script>
+        window._wq = window._wq || [];
+    </script>
+
+    
+    
+                <link rel="alternate" hreflang="en-US" href="https://risepoint.com/" />
+        <link rel="alternate" hreflang="en-GB" href="https://risepoint.co.uk/" />
+        <link rel="alternate" hreflang="en-AU" href="https://risepoint.com.au/" />
+        <link rel="alternate" hreflang="x-default" href="https://risepoint.com/" />
+        
+    <link rel="dns-prefetch" href="//tags.tiqcdn.com">
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script type="text/javascript">
+var utag_data = {
+    "site_name": "Risepoint",
+    "site_description": "Risepoint partners with universities to develop, launch, and grow their high-quality, affordable, workforce-focused online programs.",
+    "page_type": "page",
+    "post_id": 5,
+    "post_title": "Home",
+    "post_author": "flarocca",
+    "post_date": "2024\/09\/19",
+    "edit_lock": [
+        "1775568712:5"
+    ],
+    "edit_last": [
+        "5"
+    ],
+    "footnotes": [
+        ""
+    ],
+    "header_button_color": [
+        "field_66f5617c899a7"
+    ],
+    "yoast_wpseo_content_score": [
+        "30"
+    ],
+    "yoast_wpseo_estimated-reading-time-minutes": [
+        "3"
+    ],
+    "yoast_indexnow_last_ping": [
+        "1775568469"
+    ],
+    "yoast_wpseo_focuskeywords": [
+        "[]"
+    ],
+    "yoast_wpseo_keywordsynonyms": [
+        "[\"\"]"
+    ],
+    "yoast_wpseo_metadesc": [
+        "Risepoint is a edtech company that helps universities develop, launch, and grow affordable, workforce-relevant online programs."
+    ],
+    "yoast_wpseo_opengraph-image": [
+        "https:\/\/risepoint.com\/wp-content\/uploads\/2024\/09\/image-3.jpg"
+    ],
+    "yoast_wpseo_opengraph-image-id": [
+        "349"
+    ],
+    "user_role": "guest"
+};
+</script>
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v23.8 (Yoast SEO v27.0) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->
+	<title>Home - Risepoint</title>
+	<meta name="description" content="Risepoint is a edtech company that helps universities develop, launch, and grow affordable, workforce-relevant online programs." />
+	<link rel="canonical" href="https://risepoint.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home" />
+	<meta property="og:description" content="Risepoint is a edtech company that helps universities develop, launch, and grow affordable, workforce-relevant online programs." />
+	<meta property="og:url" content="https://risepoint.com/" />
+	<meta property="og:site_name" content="Risepoint" />
+	<meta property="article:modified_time" content="2026-04-07T13:27:49+00:00" />
+	<meta property="og:image" content="https://risepoint.com/wp-content/uploads/2024/09/image-3.jpg" />
+	<meta property="og:image:width" content="784" />
+	<meta property="og:image:height" content="524" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://risepoint.com/","url":"https://risepoint.com/","name":"Home - Risepoint","isPartOf":{"@id":"https://risepoint.com/#website"},"primaryImageOfPage":{"@id":"https://risepoint.com/#primaryimage"},"image":{"@id":"https://risepoint.com/#primaryimage"},"thumbnailUrl":"https://risepoint.com/wp-content/uploads/2026/02/infographic-bubbles-2025.png","datePublished":"2024-09-19T17:41:32+00:00","dateModified":"2026-04-07T13:27:49+00:00","description":"Risepoint is a edtech company that helps universities develop, launch, and grow affordable, workforce-relevant online programs.","breadcrumb":{"@id":"https://risepoint.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://risepoint.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://risepoint.com/#primaryimage","url":"https://risepoint.com/wp-content/uploads/2026/02/infographic-bubbles-2025.png","contentUrl":"https://risepoint.com/wp-content/uploads/2026/02/infographic-bubbles-2025.png","width":1272,"height":1312},{"@type":"BreadcrumbList","@id":"https://risepoint.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://risepoint.com/#website","url":"https://risepoint.com/","name":"Risepoint","description":"Risepoint partners with universities to develop, launch, and grow their high-quality, affordable, workforce-focused online programs.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://risepoint.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//cmp.osano.com' />
+<link rel="alternate" type="application/rss+xml" title="Risepoint &raquo; Feed" href="https://risepoint.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Risepoint &raquo; Comments Feed" href="https://risepoint.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://risepoint.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frisepoint.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://risepoint.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frisepoint.com%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='wp-block-heading-inline-css' type='text/css'>
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://risepoint.com/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id='wp-block-image-inline-css' type='text/css'>
+.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:#5a5a5a40;border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto #5a5a5a40;outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:#5a5a5a40;border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .close-button{align-items:center;cursor:pointer;display:flex;justify-content:center;min-height:40px;min-width:40px;padding:0;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .close-button:focus,.wp-lightbox-overlay .close-button:hover,.wp-lightbox-overlay .close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:9999999999}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+/*# sourceURL=https://risepoint.com/wp-includes/blocks/image/style.min.css */
+</style>
+<style id='wp-block-media-text-inline-css' type='text/css'>
+.wp-block-media-text{box-sizing:border-box;
+  /*!rtl:begin:ignore*/direction:ltr;
+  /*!rtl:end:ignore*/display:grid;grid-template-columns:50% 1fr;grid-template-rows:auto}.wp-block-media-text.has-media-on-the-right{grid-template-columns:1fr 50%}.wp-block-media-text.is-vertically-aligned-top>.wp-block-media-text__content,.wp-block-media-text.is-vertically-aligned-top>.wp-block-media-text__media{align-self:start}.wp-block-media-text.is-vertically-aligned-center>.wp-block-media-text__content,.wp-block-media-text.is-vertically-aligned-center>.wp-block-media-text__media,.wp-block-media-text>.wp-block-media-text__content,.wp-block-media-text>.wp-block-media-text__media{align-self:center}.wp-block-media-text.is-vertically-aligned-bottom>.wp-block-media-text__content,.wp-block-media-text.is-vertically-aligned-bottom>.wp-block-media-text__media{align-self:end}.wp-block-media-text>.wp-block-media-text__media{
+  /*!rtl:begin:ignore*/grid-column:1;grid-row:1;
+  /*!rtl:end:ignore*/margin:0}.wp-block-media-text>.wp-block-media-text__content{direction:ltr;
+  /*!rtl:begin:ignore*/grid-column:2;grid-row:1;
+  /*!rtl:end:ignore*/padding:0 8%;word-break:break-word}.wp-block-media-text.has-media-on-the-right>.wp-block-media-text__media{
+  /*!rtl:begin:ignore*/grid-column:2;grid-row:1
+  /*!rtl:end:ignore*/}.wp-block-media-text.has-media-on-the-right>.wp-block-media-text__content{
+  /*!rtl:begin:ignore*/grid-column:1;grid-row:1
+  /*!rtl:end:ignore*/}.wp-block-media-text__media a{display:block}.wp-block-media-text__media img,.wp-block-media-text__media video{height:auto;max-width:unset;vertical-align:middle;width:100%}.wp-block-media-text.is-image-fill>.wp-block-media-text__media{background-size:cover;height:100%;min-height:250px}.wp-block-media-text.is-image-fill>.wp-block-media-text__media>a{display:block;height:100%}.wp-block-media-text.is-image-fill>.wp-block-media-text__media img{height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;clip:rect(0,0,0,0);border:0}.wp-block-media-text.is-image-fill-element>.wp-block-media-text__media{height:100%;min-height:250px;position:relative}.wp-block-media-text.is-image-fill-element>.wp-block-media-text__media>a{display:block;height:100%}.wp-block-media-text.is-image-fill-element>.wp-block-media-text__media img{height:100%;object-fit:cover;position:absolute;width:100%}@media (max-width:600px){.wp-block-media-text.is-stacked-on-mobile{grid-template-columns:100%!important}.wp-block-media-text.is-stacked-on-mobile>.wp-block-media-text__media{grid-column:1;grid-row:1}.wp-block-media-text.is-stacked-on-mobile>.wp-block-media-text__content{grid-column:1;grid-row:2}}
+/*# sourceURL=https://risepoint.com/wp-includes/blocks/media-text/style.min.css */
+</style>
+<style id='wp-block-columns-inline-css' type='text/css'>
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=https://risepoint.com/wp-includes/blocks/columns/style.min.css */
+</style>
+<style id='wp-block-group-inline-css' type='text/css'>
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+/*# sourceURL=https://risepoint.com/wp-includes/blocks/group/style.min.css */
+</style>
+<style id='wp-block-paragraph-inline-css' type='text/css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://risepoint.com/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--beige: #F2EAE1;--wp--preset--color--green: #5E927F;--wp--preset--color--green-dark: #005641;--wp--preset--color--green-light: #B1C77E;--wp--preset--color--purple: #4E1D39;--wp--preset--color--pink: #DC86BB;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--base: 1rem;--wp--preset--font-size--xl: clamp(1.25rem,1.667vw,1.5rem);--wp--preset--font-size--2-xl: clamp(1.375rem,1.85vw,2rem);--wp--preset--font-size--4-xl: 2.5rem;--wp--preset--font-size--5-xl: clamp(2.5rem, 3.75vw, 3.375rem);--wp--preset--font-size--6-xl: clamp(2.5rem, 4.44vw, 4rem);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--spacing--xs: clamp(0.5rem, 1.25vw, 1rem);--wp--preset--spacing--sm: clamp(1.5rem, 2.5vw, 2rem);--wp--preset--spacing--md: clamp(3rem, 5vw, 4rem);--wp--preset--spacing--lg: clamp(5rem, 12vw, 9rem);--wp--preset--spacing--xl: clamp(150px, 12.5vw, 180px);--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1000px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-beige-color{color: var(--wp--preset--color--beige) !important;}.has-green-color{color: var(--wp--preset--color--green) !important;}.has-green-dark-color{color: var(--wp--preset--color--green-dark) !important;}.has-green-light-color{color: var(--wp--preset--color--green-light) !important;}.has-purple-color{color: var(--wp--preset--color--purple) !important;}.has-pink-color{color: var(--wp--preset--color--pink) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-beige-background-color{background-color: var(--wp--preset--color--beige) !important;}.has-green-background-color{background-color: var(--wp--preset--color--green) !important;}.has-green-dark-background-color{background-color: var(--wp--preset--color--green-dark) !important;}.has-green-light-background-color{background-color: var(--wp--preset--color--green-light) !important;}.has-purple-background-color{background-color: var(--wp--preset--color--purple) !important;}.has-pink-background-color{background-color: var(--wp--preset--color--pink) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-beige-border-color{border-color: var(--wp--preset--color--beige) !important;}.has-green-border-color{border-color: var(--wp--preset--color--green) !important;}.has-green-dark-border-color{border-color: var(--wp--preset--color--green-dark) !important;}.has-green-light-border-color{border-color: var(--wp--preset--color--green-light) !important;}.has-purple-border-color{border-color: var(--wp--preset--color--purple) !important;}.has-pink-border-color{border-color: var(--wp--preset--color--pink) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-base-font-size{font-size: var(--wp--preset--font-size--base) !important;}.has-xl-font-size{font-size: var(--wp--preset--font-size--xl) !important;}.has-2-xl-font-size{font-size: var(--wp--preset--font-size--2-xl) !important;}.has-4-xl-font-size{font-size: var(--wp--preset--font-size--4-xl) !important;}.has-5-xl-font-size{font-size: var(--wp--preset--font-size--5-xl) !important;}.has-6-xl-font-size{font-size: var(--wp--preset--font-size--6-xl) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='main-css' href='https://risepoint.com/wp-content/themes/risepoint/dist/main.9e22fcdff80f2505546e.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://cmp.osano.com/6oqizU5hp8qD5wBL/3e2ebe22-f7d9-4ad3-b8fa-819bf01b49a0/osano.js" id="osano-consent-js"></script>
+<script type="text/javascript" src="https://risepoint.com/wp-content/plugins/osano-wes/inc/osano-wes.js" id="osano-wes-js"></script>
+<link rel="https://api.w.org/" href="https://risepoint.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://risepoint.com/wp-json/wp/v2/pages/5" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://risepoint.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.4" />
+<link rel='shortlink' href='https://risepoint.com/' />
+<link rel="icon" href="https://risepoint.com/wp-content/uploads/2024/10/Favicon-Light-1.svg" sizes="32x32" />
+<link rel="icon" href="https://risepoint.com/wp-content/uploads/2024/10/Favicon-Light-1.svg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://risepoint.com/wp-content/uploads/2024/10/Favicon-Light-1.svg" />
+<meta name="msapplication-TileImage" content="https://risepoint.com/wp-content/uploads/2024/10/Favicon-Light-1.svg" />
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+ (function(a,b,c,d){
+ a='//tags.tiqcdn.com/utag/deltak/risepoint/prod/utag.js';
+ b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+ a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+ })();
+</script>
+<!-- END: T-WP -->
+
+			<link rel='stylesheet' id='gravity_forms_theme_reset-css' href='https://risepoint.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=2.9.24' type='text/css' media='all' />
+<link rel='stylesheet' id='gravity_forms_theme_foundation-css' href='https://risepoint.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css?ver=2.9.24' type='text/css' media='all' />
+<link rel='stylesheet' id='gravity_forms_theme_framework-css' href='https://risepoint.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css?ver=2.9.24' type='text/css' media='all' />
+<link rel='stylesheet' id='gravity_forms_orbital_theme-css' href='https://risepoint.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=2.9.24' type='text/css' media='all' />
+<style id='core-block-supports-inline-css' type='text/css'>
+.wp-elements-58d15511a3d9cbe450f17c2501d0c72f a:where(:not(.wp-element-button)){color:var(--wp--preset--color--beige);}.wp-elements-2a67f162fdfbf38b8e7bc4c21b14dd2f a:where(:not(.wp-element-button)){color:var(--wp--preset--color--green-light);}.wp-container-core-columns-is-layout-9d6595d7{flex-wrap:nowrap;}.wp-elements-b2906cf67fdd6ad2887d284c2a30ee24 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--beige);}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+<link rel='stylesheet' id='osano-consent-css' href='https://risepoint.com/wp-content/plugins/osano-wes/inc/osano.css?ver=1.0.0' type='text/css' media='all' />
+
+</head>
+
+	<body class="home wp-singular page-template-default page page-id-5 wp-theme-risepoint wp-child-theme-risepoint-corporate antialiased flex flex-col min-h-screen overflow-x-clip bg-beige lg:text-lg text-green-dark" data-template="base.twig">
+		
+
+		
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<header class="header has-color-scheme- has-button-color-green-light">
+  <div class="header-search-bg"></div>
+  <div class="header-inner">
+        <a class="header-logo-link" href="https://risepoint.com" rel="home">
+        <svg viewBox="0 0 182 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_111_7713)">
+  <path d="M72.3582 5.95091H69.6422C69.4457 5.95091 69.2895 6.11215 69.2895 6.30363V9.01454C69.2895 9.21106 69.4508 9.36726 69.6422 9.36726H72.3582C72.5547 9.36726 72.7109 9.20602 72.7109 9.01454V6.30363C72.7109 6.10711 72.5497 5.95091 72.3582 5.95091ZM61.706 19.7776C64.2607 18.8252 65.9588 16.5527 65.9588 13.7057C65.9588 9.84595 62.9607 7.08969 58.9346 7.08969H51.1496C50.9531 7.08969 50.7969 7.25094 50.7969 7.44241V27.6432C50.7969 27.8398 50.9581 27.996 51.1496 27.996H53.8706C54.0671 27.996 54.2233 27.8347 54.2233 27.6432V20.2613H58.1889L62.5828 27.8246C62.6483 27.9355 62.7642 28.001 62.8901 28.001H65.9135C66.1856 28.001 66.3569 27.7037 66.2208 27.4669L61.706 19.7826V19.7776ZM58.7331 17.0515H54.2283V10.3045H58.7331C61.0056 10.3045 62.4669 11.7305 62.4669 13.6755C62.4669 15.6205 61.0056 17.0465 58.7331 17.0465V17.0515ZM82.6526 18.2709C80.7076 17.9535 79.0599 17.6713 79.0599 16.2453C79.0599 15.0662 80.1936 14.2902 82.0278 14.2902C83.8619 14.2902 84.9856 15.0058 85.1821 16.3511C85.2073 16.5225 85.3585 16.6484 85.5298 16.6484H87.9736C88.1853 16.6484 88.3465 16.467 88.3264 16.2554C88.0744 13.348 85.6961 11.4785 82.1034 11.4785C78.5107 11.4785 75.8501 13.4588 75.8501 16.3511C75.8501 20.09 79.0145 20.6997 81.7053 21.1633C83.6805 21.4958 85.4089 21.8435 85.4089 23.3753C85.4089 24.7207 84.0383 25.4765 82.2596 25.4765C80.4809 25.4765 79.0548 24.6854 78.8281 23.1738C78.8029 23.0024 78.6517 22.8815 78.4804 22.8815H75.9358C75.7242 22.8815 75.5629 23.0629 75.5831 23.2745C75.8552 26.3986 78.3796 28.394 82.1487 28.394C85.9178 28.394 88.6892 26.3634 88.6892 23.2292C88.6892 19.2535 85.3786 18.7244 82.6526 18.2709ZM72.3028 11.8716H69.6977C69.5012 11.8716 69.3449 12.0328 69.3449 12.2243V27.6432C69.3449 27.8398 69.5062 27.996 69.6977 27.996H72.3028C72.4993 27.996 72.6555 27.8347 72.6555 27.6432V12.2243C72.6555 12.0278 72.4942 11.8716 72.3028 11.8716ZM136.735 11.4785C131.802 11.4785 128.108 15.0612 128.108 19.9388C128.108 24.8164 131.802 28.3991 136.735 28.3991C141.658 28.3991 145.361 24.7912 145.361 19.9388C145.361 15.0864 141.663 11.4785 136.735 11.4785ZM136.735 25.2296C133.681 25.2296 131.484 23.0226 131.484 19.9388C131.484 16.855 133.681 14.648 136.735 14.648C139.788 14.648 141.985 16.855 141.985 19.9388C141.985 23.0226 139.788 25.2296 136.735 25.2296ZM163.073 11.5037C160.705 11.5037 158.709 12.4964 157.49 14.1189L156.921 12.1235C156.875 11.9724 156.739 11.8665 156.578 11.8665H154.89C154.693 11.8665 154.537 12.0278 154.537 12.2193V27.6382C154.537 27.8347 154.698 27.9909 154.89 27.9909H157.495C157.691 27.9909 157.848 27.8297 157.848 27.6382V19.3543C157.848 16.5023 159.647 14.4666 162.181 14.4666C164.716 14.4666 165.88 16.0236 165.88 18.9512V27.6332C165.88 27.8297 166.041 27.9859 166.232 27.9859H168.837C169.034 27.9859 169.19 27.8246 169.19 27.6332V18.276C169.19 14.3054 166.837 11.4886 163.063 11.4886L163.073 11.5037ZM150.713 5.95091H147.997C147.8 5.95091 147.644 6.11215 147.644 6.30363V9.01454C147.644 9.21106 147.805 9.36726 147.997 9.36726H150.713C150.909 9.36726 151.065 9.20602 151.065 9.01454V6.30363C151.065 6.10711 150.904 5.95091 150.713 5.95091ZM181.047 24.9827H179.56C177.605 24.9827 176.537 23.9145 176.537 21.9896V14.7034H180.956C181.152 14.7034 181.309 14.5422 181.309 14.3507V12.2193C181.309 12.0227 181.147 11.8665 180.956 11.8665H176.512V8.45523C176.512 8.25871 176.35 8.1025 176.159 8.1025H176.104C176.008 8.1025 175.912 8.14282 175.847 8.21336L170.44 13.605C170.374 13.6705 170.339 13.7561 170.339 13.8468V14.3507C170.339 14.5472 170.5 14.7034 170.692 14.7034H173.221V22.2517C173.221 25.8141 175.403 27.996 178.935 27.996H181.047C181.243 27.996 181.399 27.8347 181.399 27.6432V25.3405C181.399 25.144 181.238 24.9878 181.047 24.9878V24.9827ZM150.657 11.8716H148.052C147.856 11.8716 147.699 12.0328 147.699 12.2243V27.6432C147.699 27.8398 147.861 27.996 148.052 27.996H150.657C150.854 27.996 151.01 27.8347 151.01 27.6432V12.2243C151.01 12.0278 150.849 11.8716 150.657 11.8716ZM117.985 11.4785C115.662 11.4785 113.632 12.3654 112.17 13.8519L111.626 12.1185C111.581 11.9724 111.445 11.8716 111.289 11.8716H109.671C109.475 11.8716 109.318 12.0328 109.318 12.2243V33.4279C109.318 33.6244 109.48 33.7806 109.671 33.7806H112.276C112.473 33.7806 112.629 33.6193 112.629 33.4279V26.449C114.04 27.6785 115.894 28.4041 117.985 28.4041C122.812 28.4041 126.34 24.7711 126.34 19.9388C126.34 15.1065 122.812 11.4785 117.985 11.4785ZM117.723 25.2296C114.685 25.2296 112.437 22.9571 112.437 19.9388C112.437 16.9205 114.68 14.648 117.723 14.648C120.767 14.648 122.984 16.9004 122.984 19.9388C122.984 22.9773 120.762 25.2296 117.723 25.2296ZM98.7568 11.4785C94.0304 11.4785 90.4679 15.1116 90.4679 19.9388C90.4679 24.7661 94.0405 28.3991 98.7568 28.3991C102.178 28.3991 105.005 26.5347 106.381 23.4308C106.486 23.1939 106.315 22.9269 106.058 22.9269H103.297C103.176 22.9269 103.065 22.9924 103 23.0931C102.128 24.4637 100.616 25.2851 98.7619 25.2851C96.1215 25.2851 94.237 23.6777 93.8238 21.0625H106.592C106.774 21.0625 106.93 20.9214 106.945 20.74C106.965 20.483 106.98 20.226 106.98 19.9741C106.98 15.2779 103.695 11.4785 98.7568 11.4785ZM93.9044 18.3667C94.4486 15.9732 96.2626 14.4716 98.7568 14.4716C101.216 14.4716 103.06 15.9178 103.655 18.3667H93.8994H93.9044ZM17.5 0C7.83545 0 0 7.83545 0 17.5C0 27.1646 7.83545 35 17.5 35C27.1646 35 35 27.1646 35 17.5C35 7.83545 27.1646 0 17.5 0ZM27.5173 28.001L18.3868 28.0111C18.1349 28.0111 17.9333 27.8095 17.9333 27.5576V19.8431L19.0772 18.6993L27.7591 27.4115C27.9758 27.6281 27.8196 28.001 27.5173 28.001ZM27.7692 7.68428L7.48776 27.9103C7.27109 28.127 6.89821 27.9758 6.89821 27.6634V7.54319C6.89821 7.29125 7.09977 7.08969 7.35171 7.08969H27.5274C27.8347 7.08969 27.9909 7.46257 27.7743 7.67924L27.7692 7.68428Z" fill="currentColor"/>
+  </g>
+  <defs>
+  <clipPath id="clip0_111_7713">
+  <rect width="181.399" height="35" fill="white"/>
+  </clipPath>
+  </defs>
+  </svg>
+      <div class="header-site-name">Risepoint</div>
+    </a>
+        <div class="header-nav hidden flex-col justify-between lg:flex lg:flex-row gap-x-5 pt-36 pb-5 lg:p-0">
+      <nav id="nav-main" class="nav-main" role="navigation">
+        
+	<ul class="header-menu-items hidden lg:flex flex-col lg:flex-row gap-10 lg:gap-12">
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-450 group font-semibold lg:font-normal relative ">
+				<a 
+					href="https://risepoint.com/" 
+					class="flex gap-x-2.5 items-center text-lg lg:text-[15px] transition-colors hover:lg:text-green-light "
+					target="_self"
+				>
+					<div>Home</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48 menu-item-has-children group font-semibold lg:font-normal relative ">
+				<a 
+					href="https://risepoint.com/about/" 
+					class="flex gap-x-2.5 items-center text-lg lg:text-[15px] transition-colors hover:lg:text-green-light "
+					target="_self"
+				>
+					<div>About</div>
+																	<svg class="fill-current menu-disclosure-icon w-2 h-2 transition-transform group-hover:lg:-rotate-90" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-down"></use>
+</svg>												<div class="hidden lg:block absolute bottom-0 inset-x-0 h-px bg-current scale-x-0 transition-transform origin-left group-hover:scale-x-100"></div>
+									</a>
+									
+	<ul class="submenu hidden lg:block lg:absolute top-full left-0 lg:w-[200px] space-y-5 lg:space-y-2 pt-6 pl-2.5 lg:pl-0 lg:opacity-0 lg:pointer-events-none group-hover:opacity-100 group-hover:pointer-events-auto transition-opacity">
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-920  ">
+				<a 
+					href="https://risepoint.com/about/" 
+					class="text-sm font-normal transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>About Us</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-919  ">
+				<a 
+					href="https://risepoint.com/partners/" 
+					class="text-sm font-normal transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Partners</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-968  ">
+				<a 
+					href="https://risepoint.com/team/" 
+					class="text-sm font-normal transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Team</div>
+									</a>
+							</li>
+			</ul>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49 group font-semibold lg:font-normal relative ">
+				<a 
+					href="https://risepoint.com/services/" 
+					class="flex gap-x-2.5 items-center text-lg lg:text-[15px] transition-colors hover:lg:text-green-light "
+					target="_self"
+				>
+					<div>Services</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072 menu-item-has-children group font-semibold lg:font-normal relative ">
+				<a 
+					href="https://risepoint.com/impact/" 
+					class="flex gap-x-2.5 items-center text-lg lg:text-[15px] transition-colors hover:lg:text-green-light "
+					target="_self"
+				>
+					<div>Impact</div>
+																	<svg class="fill-current menu-disclosure-icon w-2 h-2 transition-transform group-hover:lg:-rotate-90" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-down"></use>
+</svg>												<div class="hidden lg:block absolute bottom-0 inset-x-0 h-px bg-current scale-x-0 transition-transform origin-left group-hover:scale-x-100"></div>
+									</a>
+									
+	<ul class="submenu hidden lg:block lg:absolute top-full left-0 lg:w-[200px] space-y-5 lg:space-y-2 pt-6 pl-2.5 lg:pl-0 lg:opacity-0 lg:pointer-events-none group-hover:opacity-100 group-hover:pointer-events-auto transition-opacity">
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073  ">
+				<a 
+					href="https://risepoint.com/impact/" 
+					class="text-sm font-normal transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Our Impact</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-810  ">
+				<a 
+					href="https://risepoint.com/success-stories/" 
+					class="text-sm font-normal transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Success stories</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246  ">
+				<a 
+					href="https://risepoint.com/student-roi/" 
+					class="text-sm font-normal transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Student ROI</div>
+									</a>
+							</li>
+			</ul>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812 group font-semibold lg:font-normal relative ">
+				<a 
+					href="https://risepoint.com/insights/" 
+					class="flex gap-x-2.5 items-center text-lg lg:text-[15px] transition-colors hover:lg:text-green-light "
+					target="_self"
+				>
+					<div>Insights</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-811 group font-semibold lg:font-normal relative ">
+				<a 
+					href="https://risepoint.com/newsroom/" 
+					class="flex gap-x-2.5 items-center text-lg lg:text-[15px] transition-colors hover:lg:text-green-light "
+					target="_self"
+				>
+					<div>Newsroom</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-967 group font-semibold lg:font-normal relative ">
+				<a 
+					href="https://risepoint.com/careers/" 
+					class="flex gap-x-2.5 items-center text-lg lg:text-[15px] transition-colors hover:lg:text-green-light "
+					target="_self"
+				>
+					<div>Careers</div>
+									</a>
+							</li>
+			</ul>
+      </nav>
+                        
+  <button
+    class="modal-open btn is-small !leading-none font-semibold lg:min-w-[134px] lg:h-11 is-green-light lg:hidden"
+    data-selector="#contact-modal"
+  >
+    Get in Touch
+  </button>
+    </div>
+        <div class="flex items-center">
+                        
+  <button
+    class="modal-open btn is-small !leading-none font-semibold lg:min-w-[134px] lg:h-11 is-green-light hidden lg:flex"
+    data-selector="#contact-modal"
+  >
+    Get in Touch
+  </button>
+            
+  <button
+    class="menu-toggle transition-colors duration-300 focus:outline-none header-menu-toggle"
+    aria-label="Toggle Menu Visibility"
+  >
+    <span class="bg-white"></span>
+    <span class="bg-white"></span>
+    <span class="bg-white"></span>
+  </button>
+    </div>
+        <button class="header-menu-closer" type="button">
+      <svg viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <line x1="0.646447" y1="17.6171" x2="17.617" y2="0.646587" stroke="currentColor"/>
+        <line x1="0.869178" y1="0.646447" x2="17.8397" y2="17.617" stroke="currentColor"/>
+      </svg>
+    </button>
+  </div>
+  </header>
+
+		<main id="content" role="main" class="">
+				<article class="post-type-page" id="post-5">
+		<div class="gutenberg-content">
+			
+    
+
+
+<div id="block_c0dd6598d3e16c382caeb1541e09ce5a" class="rp-block-hero mt-0 mb-0   block-hero  is-slide-fade-section first:mt-0" style="">
+  <div class="">
+      <div class="h-screen relative text-beige flex flex-col justify-between overflow-hidden py-12 md:py-16">
+    <div></div>
+        <div class="container-fluid relative z-10">
+      <div class="rp-grid">
+        <div class="col-span-6 md:col-span-12 has-slide-fade">
+          <h1 class="hero__heading text-center text-balance mx-auto h2">Helping universities and<br>students reach new heights</h1>
+                  </div>
+      </div>
+    </div>
+        
+<div class="scroll-cue flex justify-center relative z-10">
+  <div class="flex items-center gap-x-2.5">
+    <div>Scroll</div>
+    <div class="overflow-hidden w-3 h-5 relative">
+      <div class="scroll-cue__arrows-wrap absolute bottom-0 text-green-light">
+        <div class="flex items-center w-3 h-5">
+          <svg class="fill-current size-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-down"></use>
+</svg>        </div>
+        <div class="flex items-center w-3 h-5">
+          <svg class="fill-current size-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-down"></use>
+</svg>        </div>
+      </div>
+    </div>
+  </div>
+</div>        <div class="hero__video-wrap absolute inset-0">
+      <div class=" wistia-object-cover absolute left-1/2 -translate-x-1/2 inset-y-0 w-full h-full"><script src="https://fast.wistia.com/embed/medias/y8jtgjmjcb.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_y8jtgjmjcb seo=true videoFoam=true" style="height:100%;position:relative;width:100%">&nbsp;</div></div></div></div>
+    </div>
+  </div>
+  </div>
+</div>
+
+
+    
+
+
+<div id="block_e5d4044016fda0904bb6e6ea793f5a61" class="rp-block-media-text-and-data-callouts mt-0 mb-0   bg-purple text-beige py-block is-slide-fade-section first:mt-0" style="">
+  <div class="">
+      <div>
+        <div class="container-fluid">
+      <div class="rp-grid gap-y-16 items-center">
+                <div class="col-span-6">
+                      <div class="relative aspect-square overflow-hidden">
+                            <div class="absolute -inset-0.5 xl:-inset-1 z-10 svg-fill text-purple">
+                <svg width="718" height="718" viewBox="0 0 718 718" class="fill-current" xmlns="http://www.w3.org/2000/svg">
+<path d="M718 718H0V0H718V718ZM377.646 436.896V698.637C377.646 707.172 384.456 714 392.969 714L702.033 713.545V713.658C712.475 713.658 717.582 701.14 710.318 693.743L416.351 398.091L377.646 436.896ZM19.3223 4C10.9233 4.00021 4 10.8284 4 19.3633V702.165C4.00024 712.634 16.599 717.869 23.9766 710.473L710.546 24.0293C717.923 16.6323 712.702 4 702.26 4H19.3223Z"/>
+</svg>
+              </div>
+                            <div class="absolute aspect-square h-full left-1/2 -translate-x-1/2 scale-[1.5] md:scale-[2] lg:scale-[1.5]">
+                <div class="media-text-data-callouts__video-wrap">
+                  <script src="https://fast.wistia.com/embed/medias/knizuzdxzu.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:100.0% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_knizuzdxzu seo=true videoFoam=true" style="height:100%;position:relative;width:100%">&nbsp;</div></div></div>
+                </div>
+              </div>
+            </div>
+                  </div>
+                <div class="col-span-6 md:col-span-5 md:col-start-8 lg:col-span-4 lg:col-start-8">
+                    <h2 class="h4 xl:-mr-16 has-slide-fade ">On a mission to create enduring growth through accessible education</h2>
+          <div class="h4 lg:h5 has-slide-fade"></div>
+          <div class="mt-5 has-slide-fade"><p>We’re Risepoint and we partner with universities to expand access to affordable, workforce-focused programs that deliver a high return on investment for students.</p>
+</div>
+                      <div class="flex mt-8 has-slide-fade">
+              
+    
+        
+                                      
+  
+    
+    
+  <a 
+    href="/about" 
+    target=""
+    rel=""
+    data-selector="" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors  is-style-arrow-only text-sm lg:text-lg font-semibold lg:font-normal gap-x-2 py-1 !text-pink hover:!text-beige"
+  > 
+        <div>About Risepoint</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+            </div>
+                  </div>
+      </div>
+    </div>
+              <div class="ticker flex overflow-hidden mt-32" data-duration="70">
+        <ul class="ticker__items flex shrink-0">
+                      <li class="ticker__item shrink-0 ml-16 md:ml-44">
+              <div class="h1 text-center">100+</div>
+              <div class="text-pink text-center text-xs lg:text-base lg:mt-2">university partners</div>
+            </li>
+                      <li class="ticker__item shrink-0 ml-16 md:ml-44">
+              <div class="h1 text-center">25k+</div>
+              <div class="text-pink text-center text-xs lg:text-base lg:mt-2">courses launched</div>
+            </li>
+                      <li class="ticker__item shrink-0 ml-16 md:ml-44">
+              <div class="h1 text-center">22k+</div>
+              <div class="text-pink text-center text-xs lg:text-base lg:mt-2">faculty supported</div>
+            </li>
+                      <li class="ticker__item shrink-0 ml-16 md:ml-44">
+              <div class="h1 text-center">1.5 yrs</div>
+              <div class="text-pink text-center text-xs lg:text-base lg:mt-2">average student payback time</div>
+            </li>
+                      <li class="ticker__item shrink-0 ml-16 md:ml-44">
+              <div class="h1 text-center">40</div>
+              <div class="text-pink text-center text-xs lg:text-base lg:mt-2">states</div>
+            </li>
+                      <li class="ticker__item shrink-0 ml-16 md:ml-44">
+              <div class="h1 text-center">05</div>
+              <div class="text-pink text-center text-xs lg:text-base lg:mt-2">countries</div>
+            </li>
+                  </ul>
+      </div>
+      </div>
+  </div>
+</div>
+
+
+<div id="what-we-do" class="wp-block-group what-we-do has-beige-color has-green-dark-background-color has-text-color has-background has-link-color wp-elements-58d15511a3d9cbe450f17c2501d0c72f is-layout-constrained wp-block-group-is-layout-constrained" style="padding-bottom:0">
+<div class="wp-block-columns is-slide-fade-section is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-style-text-center-mobile is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-slide-fade has-green-light-color has-text-color has-link-color wp-elements-2a67f162fdfbf38b8e7bc4c21b14dd2f" style="margin-bottom:var(--wp--preset--spacing--xs)">What we do</p>
+
+
+
+<h2 class="wp-block-heading has-slide-fade has-2-xl-font-size" id="h-we-support-university-partners-throughout-their-entire-journey-offering-services-that-adapt-to-their-needs-every-step-of-the-way">We support university partners throughout their entire journey, offering services that adapt to their needs every step of the way.</h2>
+
+
+
+    
+<div id="block_93baddae135d38ea5663464116cdee88" class="rp-block-button-with-arrow scroll-margin-navbar mt-0 mb-0 block-button-with-arrow  has-slide-fade flex first:mt-0" style="">
+    
+    
+        
+          
+                  
+    
+    
+                        
+  
+    
+    
+  <a 
+    href="https://risepoint.com/services/" 
+    target=""
+    rel=""
+    data-selector="" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors block-button-with-arrow  has-slide-fade flex border rounded-[4px] lg:min-w-[203px] gap-x-5 pl-[22px] pr-[18px] py-[18px] bg-green-dark text-beige hover:bg-green-light hover:border-green-light hover:text-green-dark active:bg-green-light active:border-green-light  border-green-light"
+  > 
+        <div>Our Services</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+</div></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:10%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+    
+
+
+<div id="block_14500c6e456368bbe957926b9781798d" class="rp-block-icon-grid mt-0 mb-0   block-icon-grid   first:mt-0" style="">
+  <div class="">
+      <div class="pt-12 lg:pt-0">
+          <ul class="grid grid-cols-2 gap-4 lg:gap-8">
+                  <li class="relative z-10 border border-green-light rounded-xl flex flex-col items-center justify-between aspect-[168/194] md:aspect-[286/298] gap-4 px-5 pt-7 pb-5 lg:py-7 has-animation-in">
+            <div></div>
+            <img loading="lazy" decoding="async" width="100" height="100" src="https://risepoint.com/wp-content/uploads/2024/09/marketing-services.svg" class="w-[62.5%] md:w-1/3 lg:w-[40.7%] h-auto" alt="" />
+            <div class="font-semibold text-lg leading-snug text-center">Marketing Services</div>
+          </li>
+                  <li class="relative z-10 border border-green-light rounded-xl flex flex-col items-center justify-between aspect-[168/194] md:aspect-[286/298] gap-4 px-5 pt-7 pb-5 lg:py-7 has-animation-in">
+            <div></div>
+            <img loading="lazy" decoding="async" width="100" height="100" src="https://risepoint.com/wp-content/uploads/2024/09/partner-success.svg" class="w-[62.5%] md:w-1/3 lg:w-[40.7%] h-auto" alt="" />
+            <div class="font-semibold text-lg leading-snug text-center">Partner Success</div>
+          </li>
+                  <li class="relative z-10 border border-green-light rounded-xl flex flex-col items-center justify-between aspect-[168/194] md:aspect-[286/298] gap-4 px-5 pt-7 pb-5 lg:py-7 has-animation-in">
+            <div></div>
+            <img loading="lazy" decoding="async" width="100" height="100" src="https://risepoint.com/wp-content/uploads/2024/09/student-support.svg" class="w-[62.5%] md:w-1/3 lg:w-[40.7%] h-auto" alt="" />
+            <div class="font-semibold text-lg leading-snug text-center">Student Support</div>
+          </li>
+                  <li class="relative z-10 border border-green-light rounded-xl flex flex-col items-center justify-between aspect-[168/194] md:aspect-[286/298] gap-4 px-5 pt-7 pb-5 lg:py-7 has-animation-in">
+            <div></div>
+            <img loading="lazy" decoding="async" width="100" height="100" src="https://risepoint.com/wp-content/uploads/2024/09/faculty-support.svg" class="w-[62.5%] md:w-1/3 lg:w-[40.7%] h-auto" alt="" />
+            <div class="font-semibold text-lg leading-snug text-center">Faculty Support</div>
+          </li>
+              </ul>
+      </div>
+  </div>
+</div></div>
+</div>
+</div>
+
+
+
+    
+    
+
+<div id="block_de910ad1faaf771c43b80f0d40d999ad" class="rp-block-testimonials-carousel mt-0 mb-0 !pt- !pb-0 has-parallax-color-bg py-block relative bg-green-dark first:mt-0" style="">
+  <div class="">
+      <div class="container-fluid relative z-10">
+        <div class="text-beige">
+      <h2 class="h4 text-center">Hear from our partners and their students</h2>
+          </div>
+              <div class="testimonials-carousel embla relative z-10 overflow-hidden mt-10 bg-green-darkish rounded-l-3xl rounded-tr-3xl">
+        <div class="embla__container flex relative z-50">
+                      <div class="embla__slide relative z-50 flex flex-col justify-center text-white rounded-3xl overflow-hidden mr-2 last:mr-0 min-w-0 grow-0 shrink-0 basis-full px-4 lg:px-0 pt-10 lg:pt-24 pb-16 lg:pb-20">
+              <div class="rp-grid">
+                <div class="col-span-6 md:col-span-10 md:col-start-2 lg:col-span-8 lg:col-start-3">
+                  <div class="relative z-10 flex flex-col items-center gap-5 lg:gap-10">
+                                        <div class="w-[150px] h-[150px] child-crop mask-circle">
+                      <img loading="lazy" decoding="async" width="300" height="300" src="https://risepoint.com/wp-content/uploads/2024/10/arkansas-state-testimonial.jpg" class="attachment-large size-large" alt="" />
+                    </div>
+                                        <div class="text-lg font-semibold text-center lg:text-2.5xl text-balance">“We are now the state’s largest provider of graduate degrees in education&#8230; our institution does not have, nor could we build the in-house resources and expertise necessary to achieve these results.”</div>
+                                        <div class="max-w-[400px]">
+                      <div class="text-lg font-semibold text-center text-green-light">Todd Shields</div>
+                      <div class="text-xs leading-snug text-center lg:text-sm mt-1.5">Ph.D., Chancellor<br />
+Arkansas State University</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>                       <div class="embla__slide relative z-50 flex flex-col justify-center text-white rounded-3xl overflow-hidden mr-2 last:mr-0 min-w-0 grow-0 shrink-0 basis-full px-4 lg:px-0 pt-10 lg:pt-24 pb-16 lg:pb-20">
+              <div class="rp-grid">
+                <div class="col-span-6 md:col-span-10 md:col-start-2 lg:col-span-8 lg:col-start-3">
+                  <div class="relative z-10 flex flex-col items-center gap-5 lg:gap-10">
+                                        <div class="w-[150px] h-[150px] child-crop mask-circle">
+                      <img loading="lazy" decoding="async" width="150" height="150" src="https://risepoint.com/wp-content/uploads/2024/10/Southern-Oregon-University.svg" class="attachment-large size-large" alt="" />
+                    </div>
+                                        <div class="text-lg font-semibold text-center lg:text-2.5xl text-balance">“The online MBA and MSEd degrees that we offer in partnership with [Risepoint] have increased our ability to be more nimble and flexible with adult learners. The majority of our online students are place-bound Oregonians who would otherwise have to look out-of-state for an advanced degree.”</div>
+                                        <div class="max-w-[400px]">
+                      <div class="text-lg font-semibold text-center text-green-light">Dr. Susan Walsh</div>
+                      <div class="text-xs leading-snug text-center lg:text-sm mt-1.5">Provost and Vice President for Academic Affairs (Retired)<br />
+Southern Oregon University</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>                       <div class="embla__slide relative z-50 flex flex-col justify-center text-white rounded-3xl overflow-hidden mr-2 last:mr-0 min-w-0 grow-0 shrink-0 basis-full px-4 lg:px-0 pt-10 lg:pt-24 pb-16 lg:pb-20">
+              <div class="rp-grid">
+                <div class="col-span-6 md:col-span-10 md:col-start-2 lg:col-span-8 lg:col-start-3">
+                  <div class="relative z-10 flex flex-col items-center gap-5 lg:gap-10">
+                                        <div class="w-[150px] h-[150px] child-crop mask-circle">
+                      <img loading="lazy" decoding="async" width="316" height="316" src="https://risepoint.com/wp-content/uploads/2024/10/southeastern-oklahoma-state2.jpg" class="attachment-large size-large" alt="" />
+                    </div>
+                                        <div class="text-lg font-semibold text-center lg:text-2.5xl text-balance">“With my degree… I was able to become more confident in myself and then that got me to this manager position that I am in now. I love being able to reach out to the kids in my community and let them know that you can be proud to be First American, you can be proud to be Chickasaw.”</div>
+                                        <div class="max-w-[400px]">
+                      <div class="text-lg font-semibold text-center text-green-light">Lori White Buffalo</div>
+                      <div class="text-xs leading-snug text-center lg:text-sm mt-1.5">Southeastern Oklahoma State University<br />
+BA in Communication &#8211; Organizational and Strategic Communication</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>                       <div class="embla__slide relative z-50 flex flex-col justify-center text-white rounded-3xl overflow-hidden mr-2 last:mr-0 min-w-0 grow-0 shrink-0 basis-full px-4 lg:px-0 pt-10 lg:pt-24 pb-16 lg:pb-20">
+              <div class="rp-grid">
+                <div class="col-span-6 md:col-span-10 md:col-start-2 lg:col-span-8 lg:col-start-3">
+                  <div class="relative z-10 flex flex-col items-center gap-5 lg:gap-10">
+                                        <div class="w-[150px] h-[150px] child-crop mask-circle">
+                      <img loading="lazy" decoding="async" width="300" height="300" src="https://risepoint.com/wp-content/uploads/2024/10/campbellsville2.png" class="attachment-large size-large" alt="" />
+                    </div>
+                                        <div class="text-lg font-semibold text-center lg:text-2.5xl text-balance">“The partnership breathed life into our campus attitudes. We stagnated. We were stuck. Our total enrollment could not move past a 3,200 head count. The boost from online gave the whole campus a lift. It made us hopeful again.”</div>
+                                        <div class="max-w-[400px]">
+                      <div class="text-lg font-semibold text-center text-green-light">Dr. Shane Garrison</div>
+                      <div class="text-xs leading-snug text-center lg:text-sm mt-1.5">Dean of Online Education, Professor of Educational Ministries<br />
+Campbellsville University</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>                   </div>         <div class="embla__dots absolute bottom-1 z-50 w-full h-7 flex gap-x-2 justify-center"></div>
+        
+      <div class="absolute inset-x-0 bottom-0 w-full aspect-[350/57] md:aspect-[1240/184] bg-beige"></div>
+    <div class="absolute inset-x-0 z-10 bottom-0 w-full svg-contain text-green-darkish">
+        <svg viewBox="0 0 350 69" class="md:hidden" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M1 0C0.447715 0 0 0.447715 0 1V68C0 68.5523 0.447717 69 1 69H293.881C299.201 69 304.302 66.8803 308.055 63.1099L344.174 26.8259C347.905 23.0778 350 18.0046 350 12.716V1C350 0.447715 349.552 0 349 0H1Z"/>
+    </svg>
+        <svg viewBox="0 0 1240 202" class="hidden md:block" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M1 0C0.447715 0 0 0.447721 0 1.00001V201C0 201.552 0.447714 202 0.999999 202H1070.56C1077.18 202 1083.51 199.261 1088.05 194.432L1233.49 39.6047C1237.67 35.1545 1240 29.2783 1240 23.1725V1C1240 0.447715 1239.55 0 1239 0H1Z"/>
+    </svg>
+  </div>
+      </div>                   <div class="flex justify-center relative z-10 mt-12 lg:mt-20">
+        
+    
+        
+          
+                  
+    
+    
+                              
+  
+    
+    
+  <a 
+    href="https://risepoint.com/success-stories/" 
+    target=""
+    rel=""
+    data-selector="" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors  border rounded-[4px] lg:min-w-[203px] gap-x-5 pl-[22px] pr-[18px] py-[18px] bg-green-dark text-beige hover:bg-green-light hover:border-green-light hover:text-green-dark active:bg-green-light active:border-green-light  border-green-dark"
+  > 
+        <div>Success stories</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+      </div>
+      </div>
+    <div class="parallax-color-bg__bottom absolute inset-x-0 -bottom-px h-3/4 bg-beige origin-bottom"></div>
+  </div>
+</div>
+
+
+    
+
+
+<div id="block_1b9efae9da3c3a846df295efc6536495" class="rp-block-logos-ticker mt-0 mb-0   block-logos-ticker   is-slide-fade-section slide-fade-start-bottom pt-block pb-block first:mt-0" style="">
+  <div class="">
+        <div class="container-fluid">
+    <div class="rp-grid">
+      <div class="col-span-6 md:col-span-10 md:col-start-2">
+        <h2 class="h4 text-center has-slide-fade">Your success is our success</h2>
+        <div class="text-center mt-5 has-slide-fade">We partner with a diverse range of over 100 regional public and private universities, helping them reach new students, increase their enrollments, and serve the workforce with relevant education.</div>
+      </div>
+    </div>
+  </div>
+    <div class="ticker flex overflow-hidden has-slide-fade" data-duration="120">
+          <ul class="ticker__items shrink-0 flex items-center mt-20">
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/A-State_Horiz_2C_Light.svg" title="A-State_Horiz_2C_Light" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/nku.svg" title="nku" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="Southern-Oregon-University" src="https://risepoint.com/wp-content/uploads/2025/02/Southern-Oregon-University.webp" title="Southern-Oregon-University" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/wpu.svg" title="wpu" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/uwa.svg" title="uwa" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/stu.svg" title="stu" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/New_SEOSU_Logo_050522.svg" title="New_SEOSU_Logo_050522" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/aurora-u.svg" title="aurora-u" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2025/02/lamar-logo.svg" title="lamar-logo" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/Campbellsville-University.svg" title="Campbellsville University" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/YSU-logo.svg" title="YSU logo" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/smu.svg" title="smu" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/suu.svg" title="suu" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2025/02/TEXAS-state-logo.svg" title="TEXAS-state-logo" class="h-[50px]" />
+          </li>
+                  <li class="ticker__item shrink-0 ml-14 md:ml-24">
+            <img decoding="async" alt="" src="https://risepoint.com/wp-content/uploads/2024/09/northwest-missouri-state.svg" title="northwest-missouri-state" class="h-[50px]" />
+          </li>
+              </ul>
+      </div>
+    <div class="container-fluid flex justify-center mt-20 has-slide-fade">
+          
+    
+        
+          
+                  
+    
+    
+                              
+  
+    
+    
+  <a 
+    href="https://risepoint.com/partners/" 
+    target=""
+    rel=""
+    data-selector="" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors  border rounded-[4px] lg:min-w-[203px] gap-x-5 pl-[22px] pr-[18px] py-[18px] bg-green-dark text-beige hover:bg-green-light hover:border-green-light hover:text-green-dark active:bg-green-light active:border-green-light  border-green-dark"
+  > 
+        <div>Our Partners</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+     
+  </div>
+  </div>
+</div>
+
+
+<div class="wp-block-columns are-vertically-aligned-center is-style-reverse-order-mobile-no-stacking-tablet is-slide-fade-section is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex" id="student-roi-preview">
+<div class="wp-block-column is-vertically-aligned-center is-style-text-center-mobile is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:37%">
+<h2 class="wp-block-heading has-slide-fade" id="h-delivering-real-value-for-nbsp-students">Delivering real value for&nbsp;students</h2>
+
+
+
+<p class="has-slide-fade">Our annual ROI study shows that the programs we support put the power of education in students’ hands, helping more working adults shape their futures through learning that delivers.</p>
+
+
+
+    
+<div id="block_2bc1d5c4954699f9321d460aad2a6c10" class="rp-block-button-with-arrow scroll-margin-navbar mt-0 mb-0 block-button-with-arrow  has-slide-fade flex first:mt-0" style="">
+    
+    
+        
+          
+                  
+    
+    
+                              
+  
+    
+    
+  <a 
+    href="https://risepoint.com/student-roi/" 
+    target=""
+    rel=""
+    data-selector="" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors block-button-with-arrow  has-slide-fade flex border rounded-[4px] lg:min-w-[203px] gap-x-5 pl-[22px] pr-[18px] py-[18px] bg-green-dark text-beige hover:bg-green-light hover:border-green-light hover:text-green-dark active:bg-green-light active:border-green-light  border-green-dark"
+  > 
+        <div>Student ROI</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+</div></div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:10%"></div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:53%">
+<figure class="wp-block-image size-large desktop has-slide-fade"><img decoding="async" src="https://risepoint.com/wp-content/uploads/2026/02/infographic-bubbles-2025.png" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-large mobile has-slide-fade"><img decoding="async" src="https://risepoint.com/wp-content/uploads/2026/02/infographic-bubbles-xs-2025.png" alt=""/></figure>
+</div>
+</div>
+
+
+
+    
+
+
+<div id="block_803295a7758048f79861090116876ba5" class="rp-block-featured-download mt-0 mb-0   block-featured-download   is-slide-fade-section bg-beige pt-block pb-block first:mt-0" style="">
+  <div class="">
+      <div class="container-fluid">
+    
+<div class="relative">
+    <div class="text-beige bg-purple rounded-xl md:bg-transparent relative md:w-3/4 md:aspect-[929/429]">
+        <div class="h-full px-5 pt-5 pb-10 lg:pl-12 xl:pl-24 md:pr-[32%] 2xl:pr-[36%] md:py-16">
+                    <div class="pb-5 md:hidden">
+          <img loading="lazy" decoding="async" width="618" height="401" src="https://risepoint.com/wp-content/uploads/2024/09/featured-download-mobile.png" class="rounded-[5px]" alt="" srcset="https://risepoint.com/wp-content/uploads/2024/09/featured-download-mobile.png 618w, https://risepoint.com/wp-content/uploads/2024/09/featured-download-mobile-400x260.png 400w, https://risepoint.com/wp-content/uploads/2024/09/featured-download-mobile-340x221.png 340w" sizes="auto, (max-width: 618px) 100vw, 618px" />
+        </div>
+          
+      <div class="relative z-30 h-full flex flex-col justify-center">
+        <h2 class="h4 has-slide-fade">Announcing Voice of the Online Learner 2026</h2>
+                  <div class="text-base md:text-sm lg:text-base text-balance mt-4 lg:mt-5 has-slide-fade">In this industry report, which surveyed over 4,000 learners across the US, you’ll gain a deeper understanding of who online learners are, what they need, and how institutions can better serve them.</div>
+                                  <div class="flex mt-10 md:mt-5 lg:mt-9 has-slide-fade">
+            
+    
+        
+                                      
+  
+    
+    
+  <a 
+    href="https://risepoint.com/insights/voice-of-the-online-learner-2026/" 
+    target="_blank"
+    rel=""
+    data-selector="" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors featured-download__btn is-style-arrow-only text-sm lg:text-lg font-semibold lg:font-normal gap-x-2 py-1 !text-pink hover:!text-beige"
+  > 
+        <div>Get the report</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+          </div>
+              </div>
+
+            <div class="absolute hidden md:block left-0 top-0 w-full svg-fill text-purple">
+        <svg width="929" height="429" viewBox="0 0 929 429" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 420.863L0.0013361 8.17471C0.0013361 3.65809 3.67569 0 8.2124 0H920.78C928.092 0 931.766 8.8466 926.554 13.9605L517.46 417.988C510.299 425.043 500.626 429 490.54 429H8.21106C3.67436 429 0 425.342 0 420.825V420.863Z"/>
+        </svg>
+      </div>
+    </div>
+  </div>
+
+    <div class="block md:hidden absolute inset-x-0 z-10 bottom-0 w-full aspect-[350/76] bg-beige"></div>
+    <div class="block md:hidden absolute inset-x-0 z-20 bottom-px w-full svg-contain text-purple">
+    <svg viewBox="0 0 350 76" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M350 0H0V64C0 70.6274 5.37259 76 12 76H280.904C286.379 76 291.614 73.7554 295.389 69.79L344.486 18.2188C348.026 14.5 350 9.5625 350 4.42822V0Z"/>
+    </svg>
+  </div>
+
+        <div class="featured-download__img-desktop hidden md:block absolute right-0 inset-y-0 w-[55.6%]">
+      <img loading="lazy" decoding="async" width="1300" height="811" src="https://risepoint.com/wp-content/uploads/2024/09/featured-download-1300x811.png" class="transition-transform duration-700" alt="" srcset="https://risepoint.com/wp-content/uploads/2024/09/featured-download-1300x811.png 1300w, https://risepoint.com/wp-content/uploads/2024/09/featured-download-800x499.png 800w, https://risepoint.com/wp-content/uploads/2024/09/featured-download-400x249.png 400w, https://risepoint.com/wp-content/uploads/2024/09/featured-download-768x479.png 768w, https://risepoint.com/wp-content/uploads/2024/09/featured-download-340x212.png 340w, https://risepoint.com/wp-content/uploads/2024/09/featured-download.png 1376w" sizes="auto, (max-width: 1300px) 100vw, 1300px" />
+    </div>
+  </div>
+
+  </div>
+  </div>
+</div>
+
+
+    
+    
+
+<div id="block_61e4da8cc22a7e74f63c9f58001e1dde" class="rp-block-related-posts mt-0 mb-0 !pt-0 !pb-block-md block-related-posts   is-slide-fade-section overflow-hidden first:mt-0" style="">
+  <div class="">
+      <div class="container-fluid">
+        <div class="flex justify-between has-slide-fade">
+      <h2 class="h6">Stay up to date</h2>
+              
+    
+        
+                                      
+  
+    
+    
+  <a 
+    href="https://risepoint.com/newsroom/" 
+    target=""
+    rel=""
+    data-selector="" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors  is-style-arrow-only text-sm lg:text-lg font-semibold lg:font-normal gap-x-2 py-1 text-green-dark hover:text-green-mid"
+  > 
+        <div>View all</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+          </div>
+          <div class="related-posts-carousel embla mt-9">
+        <div class="embla__container flex relative z-50">
+                      <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/news/risepoint-2026-voice-of-the-online-learner-report-highlights-changing-learner-expectations-in-a-digital-first-era/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="Voice of the Online Learner 2026" srcset="https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Risepoint 2026 Voice of the Online Learner Report Highlights Changing Learner Expectations in a Digital-First Era</h3>
+        <div class="caveat opacity-70 mt-1">
+              April 7, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/news/new-partnership-between-goldsmiths-university-of-london-and-risepoint-expands-access-to-flexible-online-learning/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/02/Goldsmiths-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/02/Goldsmiths-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/02/Goldsmiths-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/02/Goldsmiths-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/02/Goldsmiths-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/02/Goldsmiths-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/02/Goldsmiths-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/02/Goldsmiths.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">New Partnership Between Goldsmiths, University of London and Risepoint Expands Access to Flexible Online Learning</h3>
+        <div class="caveat opacity-70 mt-1">
+              February 5, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/news/2025-risepoint-impact-report-shows-strong-student-outcomes-and-community-impact-across-university-partnerships/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/02/Impact-Report-2025-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/02/Impact-Report-2025-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/02/Impact-Report-2025-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/02/Impact-Report-2025-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/02/Impact-Report-2025-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/02/Impact-Report-2025-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/02/Impact-Report-2025-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/02/Impact-Report-2025.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">2025 Risepoint Impact Report Shows Strong Student Outcomes and Community Impact Across University Partnerships</h3>
+        <div class="caveat opacity-70 mt-1">
+              February 5, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/news/northwest-missouri-state-university-expanding-partnership-with-risepoint-support-of-three-online-graduate-programs/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/01/NWMS-800x533.png" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/01/NWMS-800x533.png 800w, https://risepoint.com/wp-content/uploads/2026/01/NWMS-1300x867.png 1300w, https://risepoint.com/wp-content/uploads/2026/01/NWMS-400x267.png 400w, https://risepoint.com/wp-content/uploads/2026/01/NWMS-768x512.png 768w, https://risepoint.com/wp-content/uploads/2026/01/NWMS-1536x1024.png 1536w, https://risepoint.com/wp-content/uploads/2026/01/NWMS-340x227.png 340w, https://risepoint.com/wp-content/uploads/2026/01/NWMS.png 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Northwest Missouri State University expanding partnership with Risepoint, support of three online graduate programs</h3>
+        <div class="caveat opacity-70 mt-1">
+              January 29, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/news/university-of-south-carolina-upstate-partners-with-risepoint-to-launch-ten-new-online-programs/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/01/USC-Upstate-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/01/USC-Upstate-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/01/USC-Upstate-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/01/USC-Upstate-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/01/USC-Upstate-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/01/USC-Upstate-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/01/USC-Upstate-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/01/USC-Upstate.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">University of South Carolina Upstate Partners with Risepoint to Launch Ten New Online Programs</h3>
+        <div class="caveat opacity-70 mt-1">
+              January 13, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/news/delaware-state-university-partners-with-risepoint-to-expand-online-degree-access-to-hbcus/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2025/12/DSU-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2025/12/DSU-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2025/12/DSU-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2025/12/DSU-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2025/12/DSU-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2025/12/DSU-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2025/12/DSU-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2025/12/DSU.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Delaware State University Partners with Risepoint to Expand Online Degree Access to HBCUs</h3>
+        <div class="caveat opacity-70 mt-1">
+              December 4, 2025
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/news/nku-adds-new-mba-options-in-artificial-intelligence-and-supply-chain-analytics/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2025/12/NKU-MBA-AI_1.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2025/12/NKU-MBA-AI_1.jpg 800w, https://risepoint.com/wp-content/uploads/2025/12/NKU-MBA-AI_1-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2025/12/NKU-MBA-AI_1-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2025/12/NKU-MBA-AI_1-340x227.jpg 340w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">NKU Adds New MBA Options in Artificial Intelligence and Supply Chain Analytics</h3>
+        <div class="caveat opacity-70 mt-1">
+              December 2, 2025
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/news/southeastern-oklahoma-state-university-expands-special-education-offerings-with-new-graduate-concentration-in-autism-and-developmental-disabilities/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2025/10/SE.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2025/10/SE.jpg 800w, https://risepoint.com/wp-content/uploads/2025/10/SE-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2025/10/SE-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2025/10/SE-340x227.jpg 340w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Southeastern Oklahoma State University Expands Special Education Offerings with New Graduate Concentration in Autism and Developmental Disabilities</h3>
+        <div class="caveat opacity-70 mt-1">
+              October 23, 2025
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/news/where-innovation-meets-impact-eastern-washington-university-debuts-new-graduate-programs-in-leadership-and-cybersecurity/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2025/10/EWU-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2025/10/EWU-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2025/10/EWU-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2025/10/EWU-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2025/10/EWU-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2025/10/EWU-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2025/10/EWU-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2025/10/EWU.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Where Innovation Meets Impact: Eastern Washington University Debuts New Graduate Programs in Leadership and Cybersecurity</h3>
+        <div class="caveat opacity-70 mt-1">
+              October 8, 2025
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/news/graduates-report-strong-roi-through-risepoint-supported-programs/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2025/10/Ipsos-ROI-2025-Press-Release.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2025/10/Ipsos-ROI-2025-Press-Release.jpg 800w, https://risepoint.com/wp-content/uploads/2025/10/Ipsos-ROI-2025-Press-Release-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2025/10/Ipsos-ROI-2025-Press-Release-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2025/10/Ipsos-ROI-2025-Press-Release-340x227.jpg 340w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Graduates Report Strong ROI Through Risepoint-Supported Programs</h3>
+        <div class="caveat opacity-70 mt-1">
+              October 7, 2025
+          </div>
+  </a>
+            </div>                   </div>       </div>       </div>
+  </div>
+</div>
+
+
+    
+    
+
+<div id="block_e577eac2190ce367f92f26a564e613f3" class="rp-block-related-posts mt-0 mb-0 !pt-0 !pb- block-related-posts  slide-fade-start-bottom is-slide-fade-section overflow-hidden pb-24 pb-44 first:mt-0" style="">
+  <div class="">
+      <div class="container-fluid">
+        <div class="flex justify-between has-slide-fade">
+      <h2 class="h6">Be in the know</h2>
+              
+    
+        
+                                      
+  
+    
+    
+  <a 
+    href="https://risepoint.com/insights/" 
+    target=""
+    rel=""
+    data-selector="" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors  is-style-arrow-only text-sm lg:text-lg font-semibold lg:font-normal gap-x-2 py-1 text-green-dark hover:text-green-mid"
+  > 
+        <div>View all</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+          </div>
+          <div class="related-posts-carousel embla mt-9">
+        <div class="embla__container flex relative z-50">
+                      <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/insights/voice-of-the-online-learner-2026/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="Voice of the Online Learner 2026" srcset="https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/03/2026-Voice-Online-Learner.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Voice of the Online Learner 2026</h3>
+        <div class="caveat opacity-70 mt-1">
+              April 7, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/insights/designing-nursing-education-for-the-learner-we-have-and-the-workforce-we-need/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/03/Nursing-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/03/Nursing-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/03/Nursing-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/03/Nursing-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/03/Nursing-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/03/Nursing-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/03/Nursing-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/03/Nursing.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Designing nursing education for the learner we have and the workforce we need</h3>
+        <div class="caveat opacity-70 mt-1">
+              March 24, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/insights/purpose-perception-and-the-future-of-regional-public-universities-research-brief/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/02/CHE-RPU-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/02/CHE-RPU-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/02/CHE-RPU-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/02/CHE-RPU-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/02/CHE-RPU-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/02/CHE-RPU-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/02/CHE-RPU-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/02/CHE-RPU.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Purpose, perception, and the future of regional public universities [research brief]</h3>
+        <div class="caveat opacity-70 mt-1">
+              March 2, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/insights/extending-access-anchored-in-mission-how-catholic-universities-leverage-innovation-to-fulfill-their-purpose/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/02/ACCU-1-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/02/ACCU-1-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/02/ACCU-1-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/02/ACCU-1-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/02/ACCU-1-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/02/ACCU-1-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/02/ACCU-1-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/02/ACCU-1.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Extending access, anchored in mission: How Catholic universities leverage innovation to fulfill their purpose</h3>
+        <div class="caveat opacity-70 mt-1">
+              February 12, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/insights/who-are-todays-online-learners-and-what-do-they-want/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/01/OlderOnlineStudent-800x533.png" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/01/OlderOnlineStudent-800x533.png 800w, https://risepoint.com/wp-content/uploads/2026/01/OlderOnlineStudent-1300x867.png 1300w, https://risepoint.com/wp-content/uploads/2026/01/OlderOnlineStudent-400x267.png 400w, https://risepoint.com/wp-content/uploads/2026/01/OlderOnlineStudent-768x512.png 768w, https://risepoint.com/wp-content/uploads/2026/01/OlderOnlineStudent-1536x1024.png 1536w, https://risepoint.com/wp-content/uploads/2026/01/OlderOnlineStudent-340x227.png 340w, https://risepoint.com/wp-content/uploads/2026/01/OlderOnlineStudent.png 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Who are today&#8217;s online learners, and what do they want?</h3>
+        <div class="caveat opacity-70 mt-1">
+              February 12, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/insights/the-evolving-regional-university-jeff-selingos-recent-webinar/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/02/Selingo-Next-Office-Hour_2-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/02/Selingo-Next-Office-Hour_2-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/02/Selingo-Next-Office-Hour_2-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/02/Selingo-Next-Office-Hour_2-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/02/Selingo-Next-Office-Hour_2-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/02/Selingo-Next-Office-Hour_2-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/02/Selingo-Next-Office-Hour_2-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/02/Selingo-Next-Office-Hour_2.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">The evolving regional university: Jeff Selingo&#8217;s recent webinar</h3>
+        <div class="caveat opacity-70 mt-1">
+              February 3, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/insights/how-risepoint-leverages-ai-to-improve-the-student-experience/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/01/3-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/01/3-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/01/3-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/01/3-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/01/3-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/01/3-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/01/3-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/01/3.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">How Risepoint leverages AI to improve the student experience</h3>
+        <div class="caveat opacity-70 mt-1">
+              January 16, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/insights/insights-from-aascu-how-universities-are-evolving-to-deliver-on-online-learner-expectations/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2026/01/AASCU_1-7-26-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2026/01/AASCU_1-7-26-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2026/01/AASCU_1-7-26-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2026/01/AASCU_1-7-26-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2026/01/AASCU_1-7-26-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2026/01/AASCU_1-7-26-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2026/01/AASCU_1-7-26-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2026/01/AASCU_1-7-26.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Insights from AASCU: How universities are evolving to deliver on online learner expectations</h3>
+        <div class="caveat opacity-70 mt-1">
+              January 7, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/insights/p3edu-highlights-how-strategic-partnerships-are-shaping-the-future-of-higher-ed/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2025/12/P3EDU-800x533.jpg" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2025/12/P3EDU-800x533.jpg 800w, https://risepoint.com/wp-content/uploads/2025/12/P3EDU-1300x867.jpg 1300w, https://risepoint.com/wp-content/uploads/2025/12/P3EDU-400x267.jpg 400w, https://risepoint.com/wp-content/uploads/2025/12/P3EDU-768x512.jpg 768w, https://risepoint.com/wp-content/uploads/2025/12/P3EDU-1536x1024.jpg 1536w, https://risepoint.com/wp-content/uploads/2025/12/P3EDU-340x227.jpg 340w, https://risepoint.com/wp-content/uploads/2025/12/P3EDU.jpg 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">P3•EDU highlights: How strategic partnerships are shaping the future of higher ed</h3>
+        <div class="caveat opacity-70 mt-1">
+              January 5, 2026
+          </div>
+  </a>
+            </div>                       <div class="embla__slide ml-4 lg:ml-8 first:ml-0 last:mr-5 last:lg:mr-16 has-slide-fade">
+              
+<a href="https://risepoint.com/insights/bringing-the-future-to-all-how-regional-universities-can-lead-the-next-era-of-higher-education/" class="post-item is-post-type-${postType} group block">
+    <div class="aspect-3/2 child-crop rounded-2xl overflow-hidden relative mb-3.5">
+        <div class="flex gap-[5px] absolute z-10 top-3 left-3">
+          </div>
+        <img loading="lazy" decoding="async" width="800" height="533" src="https://risepoint.com/wp-content/uploads/2025/12/RegionalCampus-800x533.png" class="transition-transform duration-700 group-hover:scale-105" alt="" srcset="https://risepoint.com/wp-content/uploads/2025/12/RegionalCampus-800x533.png 800w, https://risepoint.com/wp-content/uploads/2025/12/RegionalCampus-1300x867.png 1300w, https://risepoint.com/wp-content/uploads/2025/12/RegionalCampus-400x267.png 400w, https://risepoint.com/wp-content/uploads/2025/12/RegionalCampus-768x512.png 768w, https://risepoint.com/wp-content/uploads/2025/12/RegionalCampus-1536x1024.png 1536w, https://risepoint.com/wp-content/uploads/2025/12/RegionalCampus-340x227.png 340w, https://risepoint.com/wp-content/uploads/2025/12/RegionalCampus.png 1950w" sizes="auto, (max-width: 800px) 100vw, 800px" /> 
+  </div>
+        <h3 class="font-semibold text-base leading-[1.4]">Bringing the future to all: How regional universities can lead the next era of higher education</h3>
+        <div class="caveat opacity-70 mt-1">
+              December 18, 2025
+          </div>
+  </a>
+            </div>                   </div>       </div>       </div>
+  </div>
+</div>
+
+
+<div class="wp-block-group has-beige-color has-purple-background-color has-text-color has-background has-link-color wp-elements-b2906cf67fdd6ad2887d284c2a30ee24 is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-media-text is-stacked-on-mobile is-centered-on-mobile is-slide-fade-section" style="padding-top:0;grid-template-columns:53% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1300" height="784" src="https://risepoint.com/wp-content/uploads/2025/02/about-careers-1300x784.webp" alt="" class="wp-image-1103 size-full" srcset="https://risepoint.com/wp-content/uploads/2025/02/about-careers-1300x784.webp 1300w, https://risepoint.com/wp-content/uploads/2025/02/about-careers-800x482.webp 800w, https://risepoint.com/wp-content/uploads/2025/02/about-careers-400x241.webp 400w, https://risepoint.com/wp-content/uploads/2025/02/about-careers-768x463.webp 768w, https://risepoint.com/wp-content/uploads/2025/02/about-careers-340x205.webp 340w, https://risepoint.com/wp-content/uploads/2025/02/about-careers.webp 1420w" sizes="auto, (max-width: 1300px) 100vw, 1300px" /></figure><div class="wp-block-media-text__content">
+<h2 class="wp-block-heading has-slide-fade">A culture built<br>on values</h2>
+
+
+
+<p class="has-slide-fade">We&#8217;re proud to drive change through the strengths, experience, and culture of our&nbsp;people.</p>
+
+
+
+    
+<div id="block_7ec06ba67887bd4ce3eb561735914539" class="rp-block-button-with-arrow scroll-margin-navbar mt-block-md mb-0 block-button-with-arrow  has-slide-fade flex first:mt-0" style="">
+    
+    
+        
+                                      
+  
+    
+    
+  <a 
+    href="https://risepoint.com/careers/" 
+    target=""
+    rel=""
+    data-selector="" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors block-button-with-arrow  has-slide-fade flex is-style-arrow-only text-sm lg:text-lg font-semibold lg:font-normal gap-x-2 py-1 !text-pink hover:!text-beige"
+  > 
+        <div>Careers at Risepoint</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+</div></div></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-style-text-center-mobile is-layout-flow wp-block-column-is-layout-flow" style="padding-right:var(--wp--preset--spacing--sm);flex-basis:30%">
+<h2 class="wp-block-heading" id="h-popular-faqs">Popular FAQs</h2>
+
+
+
+<p>Here are some of our most frequently asked questions. If your question isn’t here, don’t hesitate to <a href="/cdn-cgi/l/email-protection#6b030e0707042b1902180e1b0402051f45080406" target="_blank" rel="noreferrer noopener">contact us.</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:10%"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%"><div class="lightweight-accordion has-background"><details><summary class="lightweight-accordion-title" style="background:#4E1D39;"><span>Who is Risepoint?</span></summary><div class="lightweight-accordion-body" style="border-color:#4E1D39;">
+
+<p>Risepoint is an education technology company that provides world-class support and trusted expertise to more than 100 not-for-profit universities and colleges. We primarily work with regional universities and colleges, helping them launch and grow their high-ROI, workforce-focused online degree programs in critical areas such as nursing, teaching, business, and public service.</p>
+
+</div></details></div>
+
+<div class="lightweight-accordion has-background"><details><summary class="lightweight-accordion-title" style="background:#4E1D39;"><span>How does Risepoint work with its university partners?</span></summary><div class="lightweight-accordion-body" style="border-color:#4E1D39;">
+
+<p>Risepoint offers an array of services to its university partners, including marketing and prospective student outreach, student support and retention services, technology implementations, performance monitoring, research around student ROI, and more.</p>
+
+</div></details></div>
+
+<div class="lightweight-accordion has-background"><details><summary class="lightweight-accordion-title" style="background:#4E1D39;"><span>Who teaches the online programs that are supported by Risepoint?</span></summary><div class="lightweight-accordion-body" style="border-color:#4E1D39;">
+
+<p>All instruction in programs supported by Risepoint is handled by the university partner’s faculty and instructors.</p>
+
+</div></details></div>
+
+<div class="lightweight-accordion has-background"><details><summary class="lightweight-accordion-title" style="background:#4E1D39;"><span>Who develops the curriculum for online programs that are supported by Risepoint?</span></summary><div class="lightweight-accordion-body" style="border-color:#4E1D39;">
+
+<p>All curriculum is developed and owned by the university and its faculty. Risepoint does not create curriculum.</p>
+
+</div></details></div>
+
+<div class="lightweight-accordion has-background"><details><summary class="lightweight-accordion-title" style="background:#4E1D39;"><span>Who owns the course content? </span></summary><div class="lightweight-accordion-body" style="border-color:#4E1D39;">
+
+<p>The intellectual property remains 100% with the faculty and universities that Risepoint partners with.</p>
+
+</div></details></div>
+
+<div class="lightweight-accordion has-background"><details><summary class="lightweight-accordion-title" style="background:#4E1D39;"><span>What role does Risepoint have in the admissions process?</span></summary><div class="lightweight-accordion-body" style="border-color:#4E1D39;">
+
+<p>Risepoint does not have a role in admissions decisions, financial aid awards, grading, or graduation decisions; students are admitted by, taught by, and graduate from our university partners.</p>
+
+</div></details></div>
+
+<div class="lightweight-accordion has-background"><details><summary class="lightweight-accordion-title" style="background:#4E1D39;"><span>What types of students are enrolled in Risepoint-supported programs?</span></summary><div class="lightweight-accordion-body" style="border-color:#4E1D39;">
+
+<p>Approximately 95% of students in Risepoint-supported programs are working adults, which reflects our focus on workforce-relevant programs in healthcare, business, education, and technology.</p>
+
+</div></details></div>
+
+<div class="lightweight-accordion has-background"><details><summary class="lightweight-accordion-title" style="background:#4E1D39;"><span>How is Risepoint different from its competitors? </span></summary><div class="lightweight-accordion-body" style="border-color:#4E1D39;">
+
+<p>From its inception, almost two decades ago, Risepoint was intentionally designed to partner with regional public universities that focus on affordability and have high-value degree programs that provide a strong return on investment, such as in nursing, teaching, and business.</p>
+
+</div></details></div>
+
+<div class="lightweight-accordion has-background"><details><summary class="lightweight-accordion-title" style="background:#4E1D39;"><span>How many employees does Risepoint have?</span></summary><div class="lightweight-accordion-body" style="border-color:#4E1D39;">
+
+<p>We have over 1,500 employees across the US, UK, and Australia.</p>
+
+</div></details></div>
+
+<div class="lightweight-accordion has-background"><details><summary class="lightweight-accordion-title" style="background:#4E1D39;"><span>How is Risepoint compensated for its services?</span></summary><div class="lightweight-accordion-body" style="border-color:#4E1D39;">
+
+<p>Risepoint offers two business models – a fee-for-persistence model and a fee-for-service model.</p>
+
+</div></details></div></div>
+</div>
+</div>
+
+
+
+    
+
+
+<div id="block_742bbbed1e59b79101552e7478828abe" class="rp-block-cta-section mt-0 mb-0   block-cta-section   is-slide-fade-section has-parallax-color-bg relative bg-purple first:mt-0" style="">
+  <div class="">
+      <div class="container-fluid relative z-10">
+    <div class="relative rounded-l-xl rounded-tr-xl lg:aspect-[1240/480] overflow-hidden">
+            <div class="relative z-10 h-full px-5 lg:px-0 pt-24 pb-28 lg:py-4 rp-grid">
+        <div class="col-span-6 md:col-span-10 md:col-start-2 xl:col-span-6 xl:col-start-4 px-5 xl:px-0 flex flex-col items-center justify-center">
+                                        <h4 class="h4 text-beige text-center has-slide-fade">Find out how you can help your<br>students reach new heights</h4>
+                                        <div class="container-fluid flex justify-center mt-10 lg:mt-12 has-slide-fade">
+                                        
+    
+        
+          
+        
+    
+              
+                        
+  
+    
+    
+  <a 
+    href="" 
+    target=""
+    rel=""
+    data-selector="#contact-modal" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors modal-open border rounded-[4px] lg:min-w-[203px] gap-x-5 pl-[22px] pr-[18px] py-[18px] hover:bg-beige hover:border-beige  bg-green-light border-green-light text-green-dark"
+  > 
+        <div>Get in touch</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+                      </div>
+        </div>
+      </div>
+
+            <div class="absolute inset-0 *:w-full *:h-[140%] lg:*:h-full *:object-cover *:object-left-top lg:*:object-center">
+        <img loading="lazy" decoding="async" width="1300" height="731" src="https://risepoint.com/wp-content/uploads/2024/09/risepoint-hero3-green-1300x731.jpeg" class="attachment-large size-large" alt="" srcset="https://risepoint.com/wp-content/uploads/2024/09/risepoint-hero3-green-1300x731.jpeg 1300w, https://risepoint.com/wp-content/uploads/2024/09/risepoint-hero3-green-800x450.jpeg 800w, https://risepoint.com/wp-content/uploads/2024/09/risepoint-hero3-green-400x225.jpeg 400w, https://risepoint.com/wp-content/uploads/2024/09/risepoint-hero3-green-768x432.jpeg 768w, https://risepoint.com/wp-content/uploads/2024/09/risepoint-hero3-green-1536x864.jpeg 1536w, https://risepoint.com/wp-content/uploads/2024/09/risepoint-hero3-green-2048x1152.jpeg 2048w, https://risepoint.com/wp-content/uploads/2024/09/risepoint-hero3-green-340x191.jpeg 340w" sizes="auto, (max-width: 1300px) 100vw, 1300px" />
+      </div>
+
+            <div class="absolute z-20 bottom-[-1px] right-0 w-[90px] h-[90px]">
+        <svg viewBox="0 0 99 99" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5802 91.3609C13.0793 95.8618 6.97481 98.3904 0.609619 98.3904H99V0C99 6.3652 96.4715 12.4697 91.9706 16.9706L17.5802 91.3609Z" />
+        </svg>
+      </div>
+
+    </div>
+  </div>
+
+    <div class="parallax-color-bg__bottom block absolute inset-x-0 bottom-0 h-3/4 bg-green-dark origin-bottom"></div>
+  </div>
+</div>
+
+
+<p></p>
+
+		</div>
+	</article>
+		</main>
+
+				<div id="contact-modal" class="modal-window fixed z-50 inset-0 overflow-y-auto opacity-0 pointer-events-none ">
+  <div class="scroll-container flex items-center justify-center h-screen md:px-5 lg:px-10 md:py-14 lg:pt-28 lg:pb-20">
+        <div class="modal-overlay fixed inset-0" aria-hidden="true">
+      <div class="absolute inset-0 bg-black/60"></div>
+    </div>
+        <div class="modal-window-inner relative text-beige md:rounded-2xl overflow-hidden transform w-full h-full flex flex-col" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="overflow-auto h-full relative flex flex-col justify-between z-10 px-4 lg:px-18 py-12 lg:py-14">
+        <div></div>             <div class="modal-content" id="modal-content">
+      <div class="rp-grid items-center gap-y-12">
+        <div class="col-span-6 order-1 md:order-none">
+                                <div class="rp-form">
+              
+                <div class='gf_browser_unknown gform_wrapper gform-theme gform-theme--foundation gform-theme--framework gform-theme--orbital' data-form-theme='orbital' data-form-index='0' id='gform_wrapper_1' ><style>#gform_wrapper_1[data-form-index="0"].gform-theme,[data-parent-form="1_0"]{--gf-color-primary: #204ce5;--gf-color-primary-rgb: 32, 76, 229;--gf-color-primary-contrast: #fff;--gf-color-primary-contrast-rgb: 255, 255, 255;--gf-color-primary-darker: #001AB3;--gf-color-primary-lighter: #527EFF;--gf-color-secondary: #fff;--gf-color-secondary-rgb: 255, 255, 255;--gf-color-secondary-contrast: #112337;--gf-color-secondary-contrast-rgb: 17, 35, 55;--gf-color-secondary-darker: #F5F5F5;--gf-color-secondary-lighter: #FFFFFF;--gf-color-out-ctrl-light: rgba(17, 35, 55, 0.1);--gf-color-out-ctrl-light-rgb: 17, 35, 55;--gf-color-out-ctrl-light-darker: rgba(104, 110, 119, 0.35);--gf-color-out-ctrl-light-lighter: #F5F5F5;--gf-color-out-ctrl-dark: #585e6a;--gf-color-out-ctrl-dark-rgb: 88, 94, 106;--gf-color-out-ctrl-dark-darker: #112337;--gf-color-out-ctrl-dark-lighter: rgba(17, 35, 55, 0.65);--gf-color-in-ctrl: #fff;--gf-color-in-ctrl-rgb: 255, 255, 255;--gf-color-in-ctrl-contrast: #112337;--gf-color-in-ctrl-contrast-rgb: 17, 35, 55;--gf-color-in-ctrl-darker: #F5F5F5;--gf-color-in-ctrl-lighter: #FFFFFF;--gf-color-in-ctrl-primary: #204ce5;--gf-color-in-ctrl-primary-rgb: 32, 76, 229;--gf-color-in-ctrl-primary-contrast: #fff;--gf-color-in-ctrl-primary-contrast-rgb: 255, 255, 255;--gf-color-in-ctrl-primary-darker: #001AB3;--gf-color-in-ctrl-primary-lighter: #527EFF;--gf-color-in-ctrl-light: rgba(17, 35, 55, 0.1);--gf-color-in-ctrl-light-rgb: 17, 35, 55;--gf-color-in-ctrl-light-darker: rgba(104, 110, 119, 0.35);--gf-color-in-ctrl-light-lighter: #F5F5F5;--gf-color-in-ctrl-dark: #585e6a;--gf-color-in-ctrl-dark-rgb: 88, 94, 106;--gf-color-in-ctrl-dark-darker: #112337;--gf-color-in-ctrl-dark-lighter: rgba(17, 35, 55, 0.65);--gf-radius: 3px;--gf-font-size-secondary: 14px;--gf-font-size-tertiary: 13px;--gf-icon-ctrl-number: url("data:image/svg+xml,%3Csvg width='8' height='14' viewBox='0 0 8 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4 0C4.26522 5.96046e-08 4.51957 0.105357 4.70711 0.292893L7.70711 3.29289C8.09763 3.68342 8.09763 4.31658 7.70711 4.70711C7.31658 5.09763 6.68342 5.09763 6.29289 4.70711L4 2.41421L1.70711 4.70711C1.31658 5.09763 0.683417 5.09763 0.292893 4.70711C-0.0976311 4.31658 -0.097631 3.68342 0.292893 3.29289L3.29289 0.292893C3.48043 0.105357 3.73478 0 4 0ZM0.292893 9.29289C0.683417 8.90237 1.31658 8.90237 1.70711 9.29289L4 11.5858L6.29289 9.29289C6.68342 8.90237 7.31658 8.90237 7.70711 9.29289C8.09763 9.68342 8.09763 10.3166 7.70711 10.7071L4.70711 13.7071C4.31658 14.0976 3.68342 14.0976 3.29289 13.7071L0.292893 10.7071C-0.0976311 10.3166 -0.0976311 9.68342 0.292893 9.29289Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-select: url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.292893 0.292893C0.683417 -0.097631 1.31658 -0.097631 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976311 9.31658 -0.0976311 9.70711 0.292893C10.0976 0.683417 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976311 1.31658 -0.0976311 0.683418 0.292893 0.292893Z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-icon-ctrl-search: url("data:image/svg+xml,%3Csvg width='640' height='640' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M256 128c-70.692 0-128 57.308-128 128 0 70.691 57.308 128 128 128 70.691 0 128-57.309 128-128 0-70.692-57.309-128-128-128zM64 256c0-106.039 85.961-192 192-192s192 85.961 192 192c0 41.466-13.146 79.863-35.498 111.248l154.125 154.125c12.496 12.496 12.496 32.758 0 45.254s-32.758 12.496-45.254 0L367.248 412.502C335.862 434.854 297.467 448 256 448c-106.039 0-192-85.962-192-192z' fill='rgba(17, 35, 55, 0.65)'/%3E%3C/svg%3E");--gf-label-space-y-secondary: var(--gf-label-space-y-md-secondary);--gf-ctrl-border-color: #686e77;--gf-ctrl-size: var(--gf-ctrl-size-md);--gf-ctrl-label-color-primary: #112337;--gf-ctrl-label-color-secondary: #112337;--gf-ctrl-choice-size: var(--gf-ctrl-choice-size-md);--gf-ctrl-checkbox-check-size: var(--gf-ctrl-checkbox-check-size-md);--gf-ctrl-radio-check-size: var(--gf-ctrl-radio-check-size-md);--gf-ctrl-btn-font-size: var(--gf-ctrl-btn-font-size-md);--gf-ctrl-btn-padding-x: var(--gf-ctrl-btn-padding-x-md);--gf-ctrl-btn-size: var(--gf-ctrl-btn-size-md);--gf-ctrl-btn-border-color-secondary: #686e77;--gf-ctrl-file-btn-bg-color-hover: #EBEBEB;--gf-field-img-choice-size: var(--gf-field-img-choice-size-md);--gf-field-img-choice-card-space: var(--gf-field-img-choice-card-space-md);--gf-field-img-choice-check-ind-size: var(--gf-field-img-choice-check-ind-size-md);--gf-field-img-choice-check-ind-icon-size: var(--gf-field-img-choice-check-ind-icon-size-md);--gf-field-pg-steps-number-color: rgba(17, 35, 55, 0.8);}</style><div id='gf_1' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+                            <p class='gform_description'></p>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/#gf_1' data-formid='1' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_1_11" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_1_11'>LinkedIn</label><div class='ginput_container'><input name='input_11' id='input_1_11' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_1_11'>This field is for validation purposes and should be left unchanged.</div></div><div id="field_1_1" class="gfield gfield--type-text gfield--input-type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_1_1'>First Name<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_text'><input name='input_1' id='input_1_1' type='text' value='' class='large'    placeholder='First Name*' aria-required="true" aria-invalid="false"   /></div></div><div id="field_1_3" class="gfield gfield--type-text gfield--input-type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_1_3'>Last Name<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_text'><input name='input_3' id='input_1_3' type='text' value='' class='large'    placeholder='Last Name*' aria-required="true" aria-invalid="false"   /></div></div><div id="field_1_4" class="gfield gfield--type-text gfield--input-type-text gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_1_4'>Organization<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_text'><input name='input_4' id='input_1_4' type='text' value='' class='large'    placeholder='Organization*' aria-required="true" aria-invalid="false"   /></div></div><div id="field_1_5" class="gfield gfield--type-text gfield--input-type-text gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_1_5'>Job Title<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_text'><input name='input_5' id='input_1_5' type='text' value='' class='large'    placeholder='Job Title*' aria-required="true" aria-invalid="false"   /></div></div><div id="field_1_6" class="gfield gfield--type-email gfield--input-type-email gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_1_6'>Email<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_6' id='input_1_6' type='email' value='' class='large'   placeholder='Email*' aria-required="true" aria-invalid="false"  />
+                        </div></div><fieldset id="field_1_7" class="gfield gfield--type-address gfield--input-type-address gfield--width-full gfield_contains_required field_sublabel_hidden_label gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Address<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></legend>    
+                    <div class='ginput_complex ginput_container has_country ginput_container_address gform-grid-row' id='input_1_7' >
+                        <input type='hidden' class='gform_hidden' name='input_7.4' id='input_1_7_4' value=''/><span class='ginput_left address_country ginput_address_country gform-grid-col' id='input_1_7_6_container' >
+                                        <select name='input_7.6' id='input_1_7_6'   aria-required='true'    ><option value='' selected='selected'>Country*</option><option value='Afghanistan' >Afghanistan</option><option value='Albania' >Albania</option><option value='Algeria' >Algeria</option><option value='American Samoa' >American Samoa</option><option value='Andorra' >Andorra</option><option value='Angola' >Angola</option><option value='Anguilla' >Anguilla</option><option value='Antarctica' >Antarctica</option><option value='Antigua and Barbuda' >Antigua and Barbuda</option><option value='Argentina' >Argentina</option><option value='Armenia' >Armenia</option><option value='Aruba' >Aruba</option><option value='Australia' >Australia</option><option value='Austria' >Austria</option><option value='Azerbaijan' >Azerbaijan</option><option value='Bahamas' >Bahamas</option><option value='Bahrain' >Bahrain</option><option value='Bangladesh' >Bangladesh</option><option value='Barbados' >Barbados</option><option value='Belarus' >Belarus</option><option value='Belgium' >Belgium</option><option value='Belize' >Belize</option><option value='Benin' >Benin</option><option value='Bermuda' >Bermuda</option><option value='Bhutan' >Bhutan</option><option value='Bolivia' >Bolivia</option><option value='Bonaire, Sint Eustatius and Saba' >Bonaire, Sint Eustatius and Saba</option><option value='Bosnia and Herzegovina' >Bosnia and Herzegovina</option><option value='Botswana' >Botswana</option><option value='Bouvet Island' >Bouvet Island</option><option value='Brazil' >Brazil</option><option value='British Indian Ocean Territory' >British Indian Ocean Territory</option><option value='Brunei Darussalam' >Brunei Darussalam</option><option value='Bulgaria' >Bulgaria</option><option value='Burkina Faso' >Burkina Faso</option><option value='Burundi' >Burundi</option><option value='Cabo Verde' >Cabo Verde</option><option value='Cambodia' >Cambodia</option><option value='Cameroon' >Cameroon</option><option value='Canada' >Canada</option><option value='Cayman Islands' >Cayman Islands</option><option value='Central African Republic' >Central African Republic</option><option value='Chad' >Chad</option><option value='Chile' >Chile</option><option value='China' >China</option><option value='Christmas Island' >Christmas Island</option><option value='Cocos Islands' >Cocos Islands</option><option value='Colombia' >Colombia</option><option value='Comoros' >Comoros</option><option value='Congo' >Congo</option><option value='Congo, Democratic Republic of the' >Congo, Democratic Republic of the</option><option value='Cook Islands' >Cook Islands</option><option value='Costa Rica' >Costa Rica</option><option value='Croatia' >Croatia</option><option value='Cuba' >Cuba</option><option value='Curaçao' >Curaçao</option><option value='Cyprus' >Cyprus</option><option value='Czechia' >Czechia</option><option value='Côte d&#039;Ivoire' >Côte d&#039;Ivoire</option><option value='Denmark' >Denmark</option><option value='Djibouti' >Djibouti</option><option value='Dominica' >Dominica</option><option value='Dominican Republic' >Dominican Republic</option><option value='Ecuador' >Ecuador</option><option value='Egypt' >Egypt</option><option value='El Salvador' >El Salvador</option><option value='Equatorial Guinea' >Equatorial Guinea</option><option value='Eritrea' >Eritrea</option><option value='Estonia' >Estonia</option><option value='Eswatini' >Eswatini</option><option value='Ethiopia' >Ethiopia</option><option value='Falkland Islands' >Falkland Islands</option><option value='Faroe Islands' >Faroe Islands</option><option value='Fiji' >Fiji</option><option value='Finland' >Finland</option><option value='France' >France</option><option value='French Guiana' >French Guiana</option><option value='French Polynesia' >French Polynesia</option><option value='French Southern Territories' >French Southern Territories</option><option value='Gabon' >Gabon</option><option value='Gambia' >Gambia</option><option value='Georgia' >Georgia</option><option value='Germany' >Germany</option><option value='Ghana' >Ghana</option><option value='Gibraltar' >Gibraltar</option><option value='Greece' >Greece</option><option value='Greenland' >Greenland</option><option value='Grenada' >Grenada</option><option value='Guadeloupe' >Guadeloupe</option><option value='Guam' >Guam</option><option value='Guatemala' >Guatemala</option><option value='Guernsey' >Guernsey</option><option value='Guinea' >Guinea</option><option value='Guinea-Bissau' >Guinea-Bissau</option><option value='Guyana' >Guyana</option><option value='Haiti' >Haiti</option><option value='Heard Island and McDonald Islands' >Heard Island and McDonald Islands</option><option value='Holy See' >Holy See</option><option value='Honduras' >Honduras</option><option value='Hong Kong' >Hong Kong</option><option value='Hungary' >Hungary</option><option value='Iceland' >Iceland</option><option value='India' >India</option><option value='Indonesia' >Indonesia</option><option value='Iran' >Iran</option><option value='Iraq' >Iraq</option><option value='Ireland' >Ireland</option><option value='Isle of Man' >Isle of Man</option><option value='Israel' >Israel</option><option value='Italy' >Italy</option><option value='Jamaica' >Jamaica</option><option value='Japan' >Japan</option><option value='Jersey' >Jersey</option><option value='Jordan' >Jordan</option><option value='Kazakhstan' >Kazakhstan</option><option value='Kenya' >Kenya</option><option value='Kiribati' >Kiribati</option><option value='Korea, Democratic People&#039;s Republic of' >Korea, Democratic People&#039;s Republic of</option><option value='Korea, Republic of' >Korea, Republic of</option><option value='Kuwait' >Kuwait</option><option value='Kyrgyzstan' >Kyrgyzstan</option><option value='Lao People&#039;s Democratic Republic' >Lao People&#039;s Democratic Republic</option><option value='Latvia' >Latvia</option><option value='Lebanon' >Lebanon</option><option value='Lesotho' >Lesotho</option><option value='Liberia' >Liberia</option><option value='Libya' >Libya</option><option value='Liechtenstein' >Liechtenstein</option><option value='Lithuania' >Lithuania</option><option value='Luxembourg' >Luxembourg</option><option value='Macao' >Macao</option><option value='Madagascar' >Madagascar</option><option value='Malawi' >Malawi</option><option value='Malaysia' >Malaysia</option><option value='Maldives' >Maldives</option><option value='Mali' >Mali</option><option value='Malta' >Malta</option><option value='Marshall Islands' >Marshall Islands</option><option value='Martinique' >Martinique</option><option value='Mauritania' >Mauritania</option><option value='Mauritius' >Mauritius</option><option value='Mayotte' >Mayotte</option><option value='Mexico' >Mexico</option><option value='Micronesia' >Micronesia</option><option value='Moldova' >Moldova</option><option value='Monaco' >Monaco</option><option value='Mongolia' >Mongolia</option><option value='Montenegro' >Montenegro</option><option value='Montserrat' >Montserrat</option><option value='Morocco' >Morocco</option><option value='Mozambique' >Mozambique</option><option value='Myanmar' >Myanmar</option><option value='Namibia' >Namibia</option><option value='Nauru' >Nauru</option><option value='Nepal' >Nepal</option><option value='Netherlands' >Netherlands</option><option value='New Caledonia' >New Caledonia</option><option value='New Zealand' >New Zealand</option><option value='Nicaragua' >Nicaragua</option><option value='Niger' >Niger</option><option value='Nigeria' >Nigeria</option><option value='Niue' >Niue</option><option value='Norfolk Island' >Norfolk Island</option><option value='North Macedonia' >North Macedonia</option><option value='Northern Mariana Islands' >Northern Mariana Islands</option><option value='Norway' >Norway</option><option value='Oman' >Oman</option><option value='Pakistan' >Pakistan</option><option value='Palau' >Palau</option><option value='Palestine, State of' >Palestine, State of</option><option value='Panama' >Panama</option><option value='Papua New Guinea' >Papua New Guinea</option><option value='Paraguay' >Paraguay</option><option value='Peru' >Peru</option><option value='Philippines' >Philippines</option><option value='Pitcairn' >Pitcairn</option><option value='Poland' >Poland</option><option value='Portugal' >Portugal</option><option value='Puerto Rico' >Puerto Rico</option><option value='Qatar' >Qatar</option><option value='Romania' >Romania</option><option value='Russian Federation' >Russian Federation</option><option value='Rwanda' >Rwanda</option><option value='Réunion' >Réunion</option><option value='Saint Barthélemy' >Saint Barthélemy</option><option value='Saint Helena, Ascension and Tristan da Cunha' >Saint Helena, Ascension and Tristan da Cunha</option><option value='Saint Kitts and Nevis' >Saint Kitts and Nevis</option><option value='Saint Lucia' >Saint Lucia</option><option value='Saint Martin' >Saint Martin</option><option value='Saint Pierre and Miquelon' >Saint Pierre and Miquelon</option><option value='Saint Vincent and the Grenadines' >Saint Vincent and the Grenadines</option><option value='Samoa' >Samoa</option><option value='San Marino' >San Marino</option><option value='Sao Tome and Principe' >Sao Tome and Principe</option><option value='Saudi Arabia' >Saudi Arabia</option><option value='Senegal' >Senegal</option><option value='Serbia' >Serbia</option><option value='Seychelles' >Seychelles</option><option value='Sierra Leone' >Sierra Leone</option><option value='Singapore' >Singapore</option><option value='Sint Maarten' >Sint Maarten</option><option value='Slovakia' >Slovakia</option><option value='Slovenia' >Slovenia</option><option value='Solomon Islands' >Solomon Islands</option><option value='Somalia' >Somalia</option><option value='South Africa' >South Africa</option><option value='South Georgia and the South Sandwich Islands' >South Georgia and the South Sandwich Islands</option><option value='South Sudan' >South Sudan</option><option value='Spain' >Spain</option><option value='Sri Lanka' >Sri Lanka</option><option value='Sudan' >Sudan</option><option value='Suriname' >Suriname</option><option value='Svalbard and Jan Mayen' >Svalbard and Jan Mayen</option><option value='Sweden' >Sweden</option><option value='Switzerland' >Switzerland</option><option value='Syria Arab Republic' >Syria Arab Republic</option><option value='Taiwan' >Taiwan</option><option value='Tajikistan' >Tajikistan</option><option value='Tanzania, the United Republic of' >Tanzania, the United Republic of</option><option value='Thailand' >Thailand</option><option value='Timor-Leste' >Timor-Leste</option><option value='Togo' >Togo</option><option value='Tokelau' >Tokelau</option><option value='Tonga' >Tonga</option><option value='Trinidad and Tobago' >Trinidad and Tobago</option><option value='Tunisia' >Tunisia</option><option value='Turkmenistan' >Turkmenistan</option><option value='Turks and Caicos Islands' >Turks and Caicos Islands</option><option value='Tuvalu' >Tuvalu</option><option value='Türkiye' >Türkiye</option><option value='US Minor Outlying Islands' >US Minor Outlying Islands</option><option value='Uganda' >Uganda</option><option value='Ukraine' >Ukraine</option><option value='United Arab Emirates' >United Arab Emirates</option><option value='United Kingdom' >United Kingdom</option><option value='United States' >United States</option><option value='Uruguay' >Uruguay</option><option value='Uzbekistan' >Uzbekistan</option><option value='Vanuatu' >Vanuatu</option><option value='Venezuela' >Venezuela</option><option value='Viet Nam' >Viet Nam</option><option value='Virgin Islands, British' >Virgin Islands, British</option><option value='Virgin Islands, U.S.' >Virgin Islands, U.S.</option><option value='Wallis and Futuna' >Wallis and Futuna</option><option value='Western Sahara' >Western Sahara</option><option value='Yemen' >Yemen</option><option value='Zambia' >Zambia</option><option value='Zimbabwe' >Zimbabwe</option><option value='Åland Islands' >Åland Islands</option></select>
+                                        <label for='input_1_7_6' id='input_1_7_6_label' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>Country</label>
+                                    </span>
+                    <div class='gf_clear gf_clear_complex'></div>
+                </div></fieldset><div id="field_1_8" class="gfield gfield--type-textarea gfield--input-type-textarea gfield--width-full field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_1_8'>Message</label><div class='ginput_container ginput_container_textarea'><textarea name='input_8' id='input_1_8' class='textarea medium'    placeholder='How can we help you?'  aria-invalid="false"   rows='10' cols='50'></textarea></div></div><div id="field_1_9" class="gfield gfield--type-html gfield--input-type-html gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  >By submitting this form, I agree to the processing of my personal data in accordance with the Risepoint <a href="https://policies.risepoint.com/privacy-main/" target="_blank">Privacy Policy</a> and consent to be contacted by email.</div><div id="field_1_10" class="gfield gfield--type-captcha gfield--input-type-captcha gfield--width-full field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_1_10'>CAPTCHA</label><div id='input_1_10' class='ginput_container ginput_recaptcha' data-sitekey='6LeF100rAAAAALlGNasIV3oKmtNyeJwxEOUXESpx'  data-theme='light' data-tabindex='0'  data-badge=''></div></div></div></div>
+        <div class='gform-footer gform_footer top_label'> <button id="gform_submit_button_1" type="submit" class="gform_button button" onclick="gform.submission.handleButtonClick(this);">Submit</button> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=1&amp;tabindex=0&amp;theme=orbital&amp;styles=[]&amp;hash=398e0c258d71f6ee9b0be42ae6318f0f' />
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_1' value='iframe' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_1' id='gform_theme_1' value='orbital' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_1' id='gform_style_settings_1' value='[]' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImJiYWFlY2I1NjA1NzU3MDc5YmQ4MDRhYzY1NmZiNDY1Il0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://risepoint.com/wp-content/plugins/gravityforms/images/spinner.svg', false );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://risepoint.com/wp-content/plugins/gravityforms/images/spinner.svg', false );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 1, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+
+            </div>
+                              <div class="md:hidden wysiwyg-content text-sm mt-6"><p>Prefer to send an email? Reach out:</p>
+<p>General Inquiries: <a href="/cdn-cgi/l/email-protection#dab2bfb6b6b59aa8b3a9bfaab5b3b4aef4b9b5b7" target="_blank" rel="noopener"><span class="__cf_email__" data-cfemail="7d15181111123d0f140e180d12141309531e1210">[email&#160;protected]</span></a><br />
+Media Related Inquiries: <a href="/cdn-cgi/l/email-protection#600d050409012012091305100f090e144e030f0d" target="_blank" rel="noopener"><span class="__cf_email__" data-cfemail="056860616c6445776c7660756a6c6b712b666a68">[email&#160;protected]</span></a><br />
+Career Inquiries: <a href="/cdn-cgi/l/email-protection#94e4f1fbe4f8f1f7f1fae0f1e6d4e6fde7f1e4fbfdfae0baf7fbf9" target="_blank" rel="noopener"><span class="__cf_email__" data-cfemail="4232272d322e2721272c36273002302b3127322d2b2c366c212d2f">[email&#160;protected]</span></a></p>
+</div>
+        </div>
+        <div class="col-span-6 lg:col-span-5 lg:col-start-8">
+                    <h2 class="h4">So, how can we help your institution grow?</h2>
+          <div class="wysiwyg-content mt-5"><p>Our experienced team is just a click away to answer any questions, respond to requests for RFP submissions, or even help with a complimentary market assessment. Tell us how we can help and a member of our team will be in touch.</p>
+</div>
+                    <div class="hidden md:block wysiwyg-content text-sm mt-12"><p>Prefer to send an email? Reach out:</p>
+<p>General Inquiries: <a href="/cdn-cgi/l/email-protection#38505d545457784a514b5d485751564c165b5755" target="_blank" rel="noopener"><span class="__cf_email__" data-cfemail="224a474e4e4d62504b5147524d4b4c560c414d4f">[email&#160;protected]</span></a><br />
+Media Related Inquiries: <a href="/cdn-cgi/l/email-protection#c3aea6a7aaa283b1aab0a6b3acaaadb7eda0acae" target="_blank" rel="noopener"><span class="__cf_email__" data-cfemail="7b161e1f121a3b0912081e0b1412150f55181416">[email&#160;protected]</span></a><br />
+Career Inquiries: <a href="/cdn-cgi/l/email-protection#e8988d8798848d8b8d869c8d9aa89a819b8d988781869cc68b8785" target="_blank" rel="noopener"><span class="__cf_email__" data-cfemail="16667379667a7375737862736456647f657366797f78623875797b">[email&#160;protected]</span></a></p>
+</div>
+        </div>
+      </div>
+    </div>
+          <div></div>       </div>
+            <button class="modal-close absolute z-10 top-5 lg:top-8 right-5 lg:right-8 text-gray-500"><svg class="fill-current size-5" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#close"></use>
+</svg></button>
+            <div class="modal-window__bg-top bg-green-dark absolute inset-x-0 top-0"></div>             <div class="hidden md:block absolute inset-x-0 bottom-0">
+        <svg class="w-full" viewBox="0 0 1380 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M1380 0H0V115C0 126.046 8.95433 135 20 135H1252.65C1257.96 135 1263.05 132.893 1266.8 129.142L1374.14 21.7969C1377.89 18.0461 1380 12.959 1380 7.65479V0Z" fill="#005641"/>
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>			
+		
+<footer class="content-info mt-auto bg-green-dark text-beige pt-28 md:pt-16 lg:pt-28 pb-5 md:pb-16 lg:pb-20">
+  <div class="container-fluid">
+    <div class="rp-grid gap-y-14">
+            <div class="col-span-6 md:col-span-5 lg:col-span-3 flex flex-col justify-between">
+        <a href="https://risepoint.com" rel="home" class="mx-auto md:mx-0">
+                      <img src="https://risepoint.com/wp-content/themes/risepoint/src/images/logo-beige.svg" alt="Risepoint logo" class="md:max-w-[220px] lg:max-w-[286px]" />
+                  </a>
+        <div class="mt-24 md:mt-0 px-14 md:px-0">
+          <div class="text-[22px] md:text-2xl font-semibold tracking-tight text-center md:text-left">Visit our faculty resources</div>
+          <div class="flex justify-center md:justify-start mt-4 lg:mt-6">
+                          
+    
+        
+          
+                  
+    
+    
+                        
+  
+    
+    
+  <a 
+    href="https://faculty.risepoint.com/" 
+    target=""
+    rel=""
+    data-selector="" 
+    class="btn-with-arrow2 group flex justify-between items-center text-base leading-tight cursor-pointer transition-colors  border rounded-[4px] lg:min-w-[203px] gap-x-5 pl-[22px] pr-[18px] py-[18px] bg-green-dark text-beige hover:bg-green-light hover:border-green-light hover:text-green-dark active:bg-green-light active:border-green-light  border-green-light"
+  > 
+        <div>Faculty login</div>
+                    <div class="overflow-hidden w-4 h-3 relative">
+        <div class="btn-with-arrow__arrows-wrap flex absolute top-0 right-0">
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+                    <div class="flex justify-center w-4 h-3">
+            <svg class="fill-current w-2.5 h-3" style="">
+  <use xlink:href="https://risepoint.com/wp-content/themes/risepoint/src/images/svg-assets-005.svg#triangle-right"></use>
+</svg>          </div>
+        </div>
+      </div>
+      </a>
+                      </div>
+        </div>
+      </div>
+            <div class="col-span-6 md:col-start-7">
+                <div class="grid grid-cols-6 rp-grid-gap gap-y-8 md:gap-y-8 lg:gap-y-18">
+                    <div class="col-span-6 md:col-span-2 ">
+            <h3 class="text-green-light font-semibold">About</h3>
+            
+	<ul class="text-sm space-y-3 mt-5 pl-2.5 md:pl-0">
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51  ">
+				<a 
+					href="https://risepoint.com/about/" 
+					class="transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>About</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50  ">
+				<a 
+					href="https://risepoint.com/services/" 
+					class="transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Services</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-921  ">
+				<a 
+					href="https://risepoint.com/partners/" 
+					class="transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Partners</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-970  ">
+				<a 
+					href="https://risepoint.com/team/" 
+					class="transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Team</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-969  ">
+				<a 
+					href="https://risepoint.com/careers/" 
+					class="transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Careers</div>
+									</a>
+							</li>
+			</ul>
+          </div>
+                    <div class="col-span-6 md:col-span-2">
+                          <h3 class="text-green-light font-semibold">Impact</h3>
+              
+	<ul class="text-sm space-y-3 mt-5 pl-2.5 md:pl-0">
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1071  ">
+				<a 
+					href="https://risepoint.com/impact/" 
+					class="transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Impact</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-806  ">
+				<a 
+					href="https://risepoint.com/success-stories/" 
+					class="transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Success stories</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247  ">
+				<a 
+					href="https://risepoint.com/student-roi/" 
+					class="transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Student ROI</div>
+									</a>
+							</li>
+			</ul>
+                      </div>
+                    <div class="col-span-6 md:col-span-2">
+            <h3 class="text-green-light font-semibold">Legal</h3>
+            
+	<ul class="text-sm space-y-3 mt-5 pl-2.5 md:pl-0">
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-616  ">
+				<a 
+					href="https://policies.risepoint.com/student-disclosure" 
+					class="transition-colors hover:text-green-light "
+					target="_blank"
+				>
+					<div>Student disclosure</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-536  ">
+				<a 
+					href="https://policies.risepoint.com/privacy-main/" 
+					class="transition-colors hover:text-green-light "
+					target="_blank"
+				>
+					<div>Privacy policy</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-535  ">
+				<a 
+					href="https://policies.risepoint.com/terms-main/" 
+					class="transition-colors hover:text-green-light "
+					target="_blank"
+				>
+					<div>Terms of use</div>
+									</a>
+							</li>
+			</ul>
+                          <div class="text-xs mt-4 pl-2.5 md:pl-0">
+                <p>This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank" rel="noopener">Terms of Service</a> apply.</p>
+
+              </div>
+                      </div>
+                    <div class="col-span-6 md:col-span-2">
+            <h3 class="text-green-light font-semibold">Learn</h3>
+            
+	<ul class="text-sm space-y-3 mt-5 pl-2.5 md:pl-0">
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-808  ">
+				<a 
+					href="https://risepoint.com/insights/" 
+					class="transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Insights</div>
+									</a>
+							</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-807  ">
+				<a 
+					href="https://risepoint.com/newsroom/" 
+					class="transition-colors hover:text-green-light "
+					target="_self"
+				>
+					<div>Newsroom</div>
+									</a>
+							</li>
+			</ul>
+          </div>
+                    <div class="col-span-6 md:col-span-4">
+            <h3 class="text-green-light font-semibold">Contact</h3>
+            <div class="footer__contact-text text-sm mt-5"><p>General Inquiries: <a href="/cdn-cgi/l/email-protection#3d55585151527d4f544e584d52545349135e5250"><span class="__cf_email__" data-cfemail="5f373a3333301f2d362c3a2f3036312b713c3032">[email&#160;protected]</span></a></p>
+<p>Media Inquiries: <a href="/cdn-cgi/l/email-protection#d9b4bcbdb0b899abb0aabca9b6b0b7adf7bab6b4"><span class="__cf_email__" data-cfemail="87eae2e3eee6c7f5eef4e2f7e8eee9f3a9e4e8ea">[email&#160;protected]</span></a></p>
+<p>Career Inquiries: <a href="/cdn-cgi/l/email-protection#a5d5c0cad5c9c0c6c0cbd1c0d7e5d7ccd6c0d5cacccbd18bc6cac8" target="_blank" rel="noopener"><span class="__cf_email__" data-cfemail="d4a4b1bba4b8b1b7b1baa0b1a694a6bda7b1a4bbbdbaa0fab7bbb9">[email&#160;protected]</span></a></p>
+</div>
+          </div>
+                    <div class="col-span-6 md:col-span-2">
+            <div class="text-sm">
+              <a href="https://www.linkedin.com/company/risepoint/" target="_blank" rel="noopener noreferrer" class="transition-colors hover:text-green-light">LinkedIn</a>
+            </div>
+          </div>
+                    <div class="col-span-6 md:col-span-4">
+            <div class="text-sm">&copy; 2026 Risepoint</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+			
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/risepoint-corporate/*","/wp-content/themes/risepoint/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://risepoint.com/wp-content/themes/risepoint/dist/main.9e22fcdff80f2505546e.js?ver=1.0.0" id="main-js"></script>
+<script type="text/javascript" src="https://risepoint.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://risepoint.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://risepoint.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://risepoint.com/wp-includes/js/dist/a11y.min.js?ver=cb460b4676c94bd228ed" id="wp-a11y-js"></script>
+<script type="text/javascript" src="https://risepoint.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://risepoint.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" defer='defer' src="https://risepoint.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.24" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled","error":"Error","message":"Message"},"vars":{"images_url":"https://risepoint.com/wp-content/plugins/gravityforms/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https://risepoint.com/wp-content/plugins/gravityforms","number_formats":[],"spinnerUrl":"https://risepoint.com/wp-content/plugins/gravityforms/images/spinner.svg","version_hash":"bb8f416728f3767ffbdd3f66812630f2","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+//# sourceURL=gform_gravityforms-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://risepoint.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.24" id="gform_gravityforms-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.google.com/recaptcha/api.js?hl=en&amp;ver=6.9.4#038;render=explicit" id="gform_recaptcha-js"></script>
+<script type="text/javascript" defer='defer' src="https://risepoint.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.9.24" id="gform_placeholder-js"></script>
+<script type="text/javascript" defer='defer' src="https://risepoint.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=48a3755090e76a154853db28fc254681" id="gform_gravityforms_utils-js"></script>
+<script type="text/javascript" defer='defer' src="https://risepoint.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=8673c9a2ff188de55f9073009ba56f5e" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"bb8f416728f3767ffbdd3f66812630f2"},"ajax":{"ajaxurl":"https://risepoint.com/wp-admin/admin-ajax.php","ajax_submission_nonce":"c23723eb41","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again."}}}},"hmr_dev":"","public_path":"https://risepoint.com/wp-content/plugins/gravityforms/assets/js/dist/","config_nonce":"70b0d813e1"};
+//# sourceURL=gform_gravityforms_theme-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://risepoint.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=1546762cd067873f438f559b1e819128" id="gform_gravityforms_theme-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://risepoint.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://risepoint.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "1", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 1, 1 );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+
+	</body>
+</html>
+
