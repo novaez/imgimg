@@ -1,0 +1,798 @@
+<!doctype html>
+<html lang="de-DE" class="no-js">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+			<script>
+			document.documentElement.classList.remove("no-js");
+		</script>
+	
+	<meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="dlm-version" content="5.1.3">
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO Premium plugin v26.0 (Yoast SEO v26.0) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Seite nicht gefunden &#8211; Zewo</title>
+	<meta name="description" content="Entschuldigung! Die gesuchte Seite existiert nicht (mehr). Eventuell haben Sie eine falsche oder eine veraltete URL aufgerufen. www.zewo.ch" />
+	<meta property="og:locale" content="de_DE" />
+	<meta property="og:site_name" content="Zewo" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://zewo.ch/de/#website","url":"https://zewo.ch/de/","name":"Zewo","description":"Ihre Spende in guten Händen.","publisher":{"@id":"https://zewo.ch/de/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://zewo.ch/de/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"de"},{"@type":"Organization","@id":"https://zewo.ch/de/#organization","name":"Stiftung Zewo","url":"https://zewo.ch/de/","logo":{"@type":"ImageObject","inLanguage":"de","@id":"https://zewo.ch/de/#/schema/logo/image/","url":"https://zewo.ch/wp-content/uploads/2019/08/Zewo_Logo_Claim_D.svg","contentUrl":"https://zewo.ch/wp-content/uploads/2019/08/Zewo_Logo_Claim_D.svg","width":1,"height":1,"caption":"Stiftung Zewo"},"image":{"@id":"https://zewo.ch/de/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/Stiftung.ZEWO/","https://x.com/stiftung_zewo","https://www.linkedin.com/company/stiftung-zewo","https://www.youtube.com/channel/UCzjsVJro12OXcvvx1LQP8tw","https://de.wikipedia.org/wiki/Zewo"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Zewo &raquo; Feed" href="https://zewo.ch/de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Zewo &raquo; Kommentar-Feed" href="https://zewo.ch/de/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/zewo.ch\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.5"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='formidable-css' href='https://zewo.ch/wp-content/plugins/formidable/css/formidableforms.css?ver=1021124' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://zewo.ch/wp-includes/css/dist/block-library/style.min.css?ver=6.8.5' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='wp-components-css' href='https://zewo.ch/wp-includes/css/dist/components/style.min.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-preferences-css' href='https://zewo.ch/wp-includes/css/dist/preferences/style.min.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='https://zewo.ch/wp-includes/css/dist/block-editor/style.min.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-reusable-blocks-css' href='https://zewo.ch/wp-includes/css/dist/reusable-blocks/style.min.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-patterns-css' href='https://zewo.ch/wp-includes/css/dist/patterns/style.min.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css' href='https://zewo.ch/wp-includes/css/dist/editor/style.min.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo_block_columns_container-cgb-style-css-css' href='https://zewo.ch/wp-content/plugins/zewo-block-columns-container/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo_block_wrapper-cgb-style-css-css' href='https://zewo.ch/wp-content/plugins/zewo-block-wrapper/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='block-gallery-frontend-css' href='https://zewo.ch/wp-content/plugins/zewo-block-image-slider/dist/blocks.style.build.css?ver=1.1.6' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #322A2A;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #D20915;--wp--preset--color--secondary: #305578;--wp--preset--color--success: #229C65;--wp--preset--color--warning: #F6BD6B;--wp--preset--color--background: #fafafa;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='advanced-popups-css' href='https://zewo.ch/wp-content/plugins/advanced-popups/public/css/advanced-popups-public.css?ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://zewo.ch/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='css/e2pdf.frontend.global-css' href='https://zewo.ch/wp-content/plugins/e2pdf/css/e2pdf.frontend.global.css?ver=1.28.11' type='text/css' media='all' />
+<link rel='stylesheet' id='related-posts-by-taxonomy-css' href='https://zewo.ch/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-icons-file-css' href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.ttf?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-icons-css-css' href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.min.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo_block_calculator-css-css' href='https://zewo.ch/wp-content/plugins/zewo-block-calculator/frontend/calculator.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css' href='https://zewo.ch/wp-content/plugins/zewo-cookie-notice/css/front.min.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo-event-page-style-css' href='https://zewo.ch/wp-content/plugins/zewo-event-page//css/zewo-events-page.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo-fonts-css' href='https://fonts.googleapis.com/css?family=Bitter%3A700&#038;subset=latin%2Clatin-ext&#038;ver=20190321' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo-sass-style-css' href='https://zewo.ch/wp-content/themes/zewo/css/main.css?ver=20190321' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo-algolia-css-css' href='https://cdn.jsdelivr.net/npm/instantsearch.css@7.1.0/themes/algolia.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo-clear-selectize-css' href='https://zewo.ch/wp-content/themes/zewo/css/selectize-plugin-clear.css?ver=20190321' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo-algolia-theme-css' href='https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/algolia-min.css?ver=6.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo-selectize-css' href='https://cdn.jsdelivr.net/npm/selectize@0.12.6/dist/css/selectize.css?ver=20180820' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo-font-awesome-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css?ver=20190912' type='text/css' media='all' />
+<link rel='stylesheet' id='zewo-sass-print-style-css' href='https://zewo.ch/wp-content/themes/zewo/css/print.css?ver=20190925' type='text/css' media='print' />
+<link rel='stylesheet' id='algolia-autocomplete-css' href='https://zewo.ch/wp-content/plugins/wp-search-with-algolia/css/algolia-autocomplete.css?ver=2.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://zewo.ch/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<link rel='stylesheet' id='mo_customer_validation_form_main_css-css' href='https://zewo.ch/wp-content/plugins/miniorange-otp-verification/includes/css/mo_forms_css.min.css?version=5.3.8&#038;ver=5.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='timed-content-css-css' href='https://zewo.ch/wp-content/plugins/timed-content/css/timed-content.css?ver=2.95' type='text/css' media='all' />
+<script type="text/javascript" id="wpml-cookie-js-extra">
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=482900" id="wpml-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Teilen",
+	Save: "Speichern",
+	Subscribe: "Abonnieren",
+	Email: "E-Mail",
+	Bookmark: "Lesezeichen",
+	ShowAll: "Alle anzeigen",
+	ShowLess: "Weniger anzeigen",
+	FindServices: "Dienst(e) suchen",
+	FindAnyServiceToAddTo: "Um weitere Dienste ergänzen",
+	PoweredBy: "Präsentiert von",
+	ShareViaEmail: "Teilen via E-Mail",
+	SubscribeViaEmail: "Via E-Mail abonnieren",
+	BookmarkInYourBrowser: "Lesezeichen in deinem Browser",
+	BookmarkInstructions: "Drücke Ctrl+D oder \u2318+D um diese Seite bei den Lesenzeichen zu speichern.",
+	AddToYourFavorites: "Zu deinen Favoriten hinzufügen",
+	SendFromWebOrProgram: "Senden von jeder E-Mail Adresse oder E-Mail-Programm",
+	EmailProgram: "E-Mail-Programm",
+	More: "Mehr&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" defer src="https://zewo.ch/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/advanced-popups/public/js/advanced-popups-public.js?ver=1.2.2" id="advanced-popups-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/e2pdf/js/e2pdf.frontend.js?ver=1.28.11" id="js/e2pdf.frontend-js"></script>
+<script type="text/javascript" id="moOtpTimerScript-js-extra">
+/* <![CDATA[ */
+var moOtpTimerScript = {"siteURL":"https:\/\/zewo.ch\/wp-admin\/admin-ajax.php","action":"mo_control_otp_block","otpControlTimerTime":"60","otpControlBlockTime":"0","isUserBlocked":null,"limit_otp_sent_message":"Your OTP has been sent. The next OTP can be sent after {minutes}:{seconds} minutes","user_blocked_message":"You have exceeded the limit to send OTP. Please wait for {minutes}:{seconds} minutes","error_otp_verify_message":"The next OTP can be sent after {minutes}:{seconds} minutes"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/miniorange-otp-verification/addons/resendcontrol/includes/js/moOtpTimerScript.min.js?ver=5.3.8" id="moOtpTimerScript-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/zewo-block-calculator/frontend/jquery.fileDownload.min.js?ver=6.8.5" id="zewo_block_calculator-filedownload-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/timed-content/js/timed-content.js?ver=2.95" id="timed-content_js-js"></script>
+<link rel="https://api.w.org/" href="https://zewo.ch/de/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://zewo.ch/de/wp-json/wp/v2/pages/370873" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://zewo.ch/xmlrpc.php?rsd" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://zewo.ch/de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzewo.ch%2Fde%2F404-seite-nicht-gefunden%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://zewo.ch/de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzewo.ch%2Fde%2F404-seite-nicht-gefunden%2F&#038;format=xml" />
+		<link rel="preload" href="https://zewo.ch/wp-content/plugins/advanced-popups/fonts/advanced-popups-icons.woff" as="font" type="font/woff" crossorigin>
+		<meta name="generator" content="WPML ver:4.8.2 stt:1,4,3;" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to footer -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"404-error","pagePostType2":"single-page","pagePostAuthor":"Annemarie Widmer"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PP6MGB');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style>
+			.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}
+		</style>
+		<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><link rel="icon" href="https://zewo.ch/wp-content/uploads/2019/10/cropped-Zewo-Favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://zewo.ch/wp-content/uploads/2019/10/cropped-Zewo-Favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://zewo.ch/wp-content/uploads/2019/10/cropped-Zewo-Favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://zewo.ch/wp-content/uploads/2019/10/cropped-Zewo-Favicon-270x270.png" />
+	<!-- Xandr Universal Pixel - Initialization (include only once per page) -->
+	<script>
+		!function(e,i){if(!e.pixie){var n=e.pixie=function(e,i,a){n.actionQueue.push({action:e,actionValue:i,params:a})};n.actionQueue=[];var a=i.createElement("script");a.async=!0,a.src="//acdn.adnxs.com/dmp/up/pixie.js";var t=i.getElementsByTagName("head")[0];t.insertBefore(a,t.firstChild)}}(window,document);
+		pixie('init', 'e4183154-fc69-4a1c-a69b-6618f51d5d7e');
+	</script>
+
+	<!-- Xandr Universal Pixel - PageView Event -->
+	<script>
+		pixie('event', 'PageView');
+	</script>
+	<noscript><img src="https://ib.adnxs.com/pixie?pi=e4183154-fc69-4a1c-a69b-6618f51d5d7e&e=PageView&script=0" width="1" height="1" style="display:none"/></noscript>
+
+</head>
+
+<body class="wp-singular page-template-default page page-id-370873 wp-theme-zewo cookies-not-set has-sidebar error404 pp404-wpml">
+
+	<a class="show-on-focus" href="#primary">Skip to content</a>
+	<style>header.bg-color-secondary {
+						background: url("https://zewo.ch/wp-content/uploads/2019/07/einbahnstrasse-768x154.jpg") no-repeat center center;
+						background-size:cover; }@media screen and (min-width: 40em) {
+						header.bg-color-secondary {
+							background: url("https://zewo.ch/wp-content/uploads/2019/07/einbahnstrasse.jpg") no-repeat center center;
+							background-size:cover; }}</style>	<header class="bg-color-secondary grid-y is--header-shadow ">
+		<span role="img" aria-label="Einbahnstrasse"></span>
+		
+		<div class="top-bar cell" data-sticky data-options="marginTop:0;" data-sticky-on="small">
+			<div class="top-bar-left">
+				<div class="site-branding">
+																	<div class="site-logo">
+							<a href="https://zewo.ch/de/">
+								<img class="sitelogo" src="https://zewo.ch/wp-content/themes/zewo/images/zewo-logo-weiss-de.svg" alt="site logo" />
+								<img class="sitelogo sitelogo-sticky" src="https://zewo.ch/wp-content/themes/zewo/images/zewo-logo-rotschwarz-de.svg" alt="site logo" />
+							</a>
+						</div>
+									</div><!-- .site-branding -->
+			</div><!-- .top-bar-left -->
+			<div class="top-bar-right">
+				<div class="title-bar float-right">
+					<button type="button" class="button small" data-toggle="offCanvasRightOverlap"><span class="icon icon-hamburger-white"></span></button>
+				</div>
+
+				<div class="title-bar float-right" data-responsive-toggle="main-search" data-hide-for="xxxlarge">
+					<button type="button" class="button small global-search-icon" data-toggle><span class="icon icon-search-white"></span></button>
+				</div>
+
+				<div class="show-for-large float-right">
+					<ul id="top-menu" class="menu"><li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://zewo.ch/de/fuer-spendende/">Für Spendende</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="https://zewo.ch/de/fuer-npo/">Für NPO</a></li>
+</ul>				</div>
+			</div><!-- .top-bar-right -->
+		</div><!-- .top-bar -->
+
+		<div class="cell cell-align-bottom">
+			<div class="grid-container header-title">
+				<h1 class="entry-title is--header-bg-img">404 – Seite nicht gefunden</h1>											</div>
+		</div>
+				<!-- If the post type = relief_organization then display the back button -->
+		
+				
+	</header>
+
+	
+	<!--Off-canvas content or search modal goes here -->
+	<div class="off-canvas position-right" id="offCanvasRightOverlap" data-off-canvas data-transition="overlap">
+		<button class="close-button" aria-label="Close menu" type="button" data-close>
+			<span aria-hidden="true" class="icon icon-navi-close"></span>
+		</button>
+
+		<ul id="languages-menu" class="menu"><li><a href="/en"><span>EN</span></a></li><li><a href="/fr"><span>FR</span></a></li><li class="is-active"><span>DE</span></li></ul>
+		<div class="menu-hauptnavigation-container"><ul id="primary-menu" class="vertical menu accordion-menu" data-accordion-menu data-submenu-toggle="true"><li id="menu-item-512095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-512095"><a href="https://zewo.ch/de/">Durchblick beim Spenden: Zewo-Gütesiegel für Hilfswerke</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24"><a href="https://zewo.ch/de/fuer-spendende/">Für Spendende</a>
+<ul class="sub-menu">
+	<li id="menu-item-504605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504605"><a href="https://zewo.ch/de/npo-suche/">Zertifizierte NPO finden</a></li>
+	<li id="menu-item-5919212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5919212"><a href="https://zewo.ch/de/liste-zertifizierte-hilfsorganisationen/">Liste Hilfsorganisationen Schweiz – von der Zewo zertifiziert</a></li>
+	<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="https://zewo.ch/de/spenden-von-der-steuer-abziehen/">Spenden von der Steuer abziehen</a></li>
+	<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-240"><a href="https://zewo.ch/de/sinnvoll-schenken/">Sinnvoll schenken</a>
+	<ul class="sub-menu">
+		<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://zewo.ch/de/zeit-oder-sachen-spenden/">Zeit oder Sachen spenden</a></li>
+		<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://zewo.ch/de/erbe-fuer-einen-guten-zweck/">Erbe für einen guten Zweck</a></li>
+		<li id="menu-item-20188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20188"><a href="https://zewo.ch/de/nationaler-sammlungskalender/">Aktuelle nationale Sammlungen</a></li>
+	</ul>
+</li>
+	<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="https://zewo.ch/de/die-wichtigsten-tipps-furs-spenden/">10 Tipps, damit Ihre Spende ankommt</a></li>
+	<li id="menu-item-5786735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5786735"><a href="https://zewo.ch/de/spenden-mit-dem-qr-einzahlungsschein/">Spenden mit dem QR-Einzahlungsschein</a></li>
+	<li id="menu-item-576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-576"><a href="https://zewo.ch/de/spendenmagazin/">Spendenmagazin</a></li>
+	<li id="menu-item-147553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147553"><a href="https://zewo.ch/de/spenden-bei-einer-katastrophe/">Spenden bei einer Katastrophe</a></li>
+	<li id="menu-item-4563758" class="menu-item menu-item-type-post_type menu-item-object-zewo_events menu-item-4563758"><a href="https://zewo.ch/de/spenden-fuer-kinder/">Spenden für Kinder</a></li>
+	<li id="menu-item-4563757" class="menu-item menu-item-type-post_type menu-item-object-zewo_events menu-item-4563757"><a href="https://zewo.ch/de/spenden-fuer-tiere-und-natur/">Spenden für Natur- und Umweltschutz</a></li>
+	<li id="menu-item-82464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82464"><a href="https://zewo.ch/de/neu-zertifiziert/">Neu zertifiziert</a></li>
+	<li id="menu-item-82460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82460"><a href="https://zewo.ch/de/nicht-mehr-zertifiziert/">Nicht mehr zertifiziert</a></li>
+	<li id="menu-item-511468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511468"><a href="https://zewo.ch/de/fusion-von-zertifizierten-npo/">Fusion oder Auflösung</a></li>
+	<li id="menu-item-4582633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4582633"><a href="https://zewo.ch/de/spendenverwendung/">Spendenverwendung</a></li>
+	<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="https://zewo.ch/de/fragen-und-antworten-rund-ums-spenden/">Fragen und Antworten rund ums Spenden</a></li>
+	<li id="menu-item-5937177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5937177"><a href="https://zewo.ch/de/effektiver-altruismus/">Effektiver Altruismus</a></li>
+	<li id="menu-item-2507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2507"><a href="https://zewo.ch/de/augen-auf-bei-patenschaften/">Patenschaften</a></li>
+	<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="https://zewo.ch/de/welcher-spendentyp-bin-ich/">Welcher Spendentyp bin ich?</a></li>
+	<li id="menu-item-14297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14297"><a href="https://zewo.ch/de/hier-raet-die-zewo-vom-spenden-ab/">Zewo rät vom Spenden ab</a></li>
+</ul>
+</li>
+<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-102"><a href="https://zewo.ch/de/fuer-npo/">Für NPO</a>
+<ul class="sub-menu">
+	<li id="menu-item-1148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1148"><a href="https://zewo.ch/de/die-21-zewo-standards/">Die 21 Zewo-Standards</a>
+	<ul class="sub-menu">
+		<li id="menu-item-425652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425652"><a href="https://zewo.ch/de/zewo-methode/">Zewo-Methode</a></li>
+	</ul>
+</li>
+	<li id="menu-item-20213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20213"><a href="https://zewo.ch/de/der-weg-zum-zewo-guetesiegel/">Der Weg zum Zewo-Gütesiegel</a>
+	<ul class="sub-menu">
+		<li id="menu-item-498785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498785"><a href="https://zewo.ch/de/der-weg-zum-zewo-guetesiegel/eignungstest/">Eignungstest</a></li>
+		<li id="menu-item-41037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41037"><a href="https://zewo.ch/de/der-weg-zum-zewo-guetesiegel/unverbindliche-einschaetzung/">Unverbindliche Einschätzung</a></li>
+		<li id="menu-item-41048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41048"><a href="https://zewo.ch/de/der-weg-zum-zewo-guetesiegel/pruefung-beantragen/">Prüfung beantragen</a></li>
+		<li id="menu-item-41062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41062"><a href="https://zewo.ch/de/der-weg-zum-zewo-guetesiegel/guetesiegel-behalten/">Gütesiegel behalten</a></li>
+		<li id="menu-item-41090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41090"><a href="https://zewo.ch/de/der-weg-zum-zewo-guetesiegel/fragen-und-antworten-zur-zertifizierung/">Fragen und Antworten zur Zertifizierung</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5922165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5922165"><a href="https://zewo.ch/de/zewo-impact-tool-wirkung-zeigen/">Zewo Impact Tool – Wirkung zeigen</a></li>
+	<li id="menu-item-5781830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5781830"><a href="https://zewo.ch/de/zewo-tagung/">Zewo-Tagung</a></li>
+	<li id="menu-item-4515622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4515622"><a href="https://zewo.ch/de/ihr-spendenverstaerker/">Online Vorlage Gütesiegel</a></li>
+	<li id="menu-item-5787409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5787409"><a href="https://zewo.ch/de/sammeln-mit-dem-qr-einzahlungsschein/">Sammeln mit dem QR-Einzahlungsschein</a></li>
+	<li id="menu-item-20218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20218"><a href="https://zewo.ch/de/vorteile-und-rabatte/">Vorteile und Rabatte</a></li>
+	<li id="menu-item-3047507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3047507"><a href="https://zewo.ch/de/der-spendenreport/">Spendenreport</a></li>
+	<li id="menu-item-4571760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4571760"><a href="https://zewo.ch/de/spendenstatistik/">Spendenstatistik</a></li>
+	<li id="menu-item-171190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171190"><a href="https://zewo.ch/de/kennzahlen-fuer-npo/">Kennzahlen von Hilfswerken</a></li>
+	<li id="menu-item-2206612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206612"><a href="https://zewo.ch/de/npo-kommunikation-zur-wirkung/">NPO-Kommunikation zur Wirkung</a></li>
+	<li id="menu-item-171187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171187"><a href="https://zewo.ch/de/verguetungsstudie/">Vergütungsstudie</a></li>
+	<li id="menu-item-41076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41076"><a href="https://zewo.ch/de/anlasse-und-kurse/">Anlässe und Kurse</a></li>
+</ul>
+</li>
+<li id="menu-item-52896" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-52896"><a href="https://zewo.ch/de/zewo-news/">Zewo News</a></li>
+<li id="menu-item-1777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1777"><a href="https://zewo.ch/de/npo-news/">Zewo News abonnieren</a></li>
+<li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-594"><a href="https://zewo.ch/de/ueber-die-zewo/">Über die Zewo</a>
+<ul class="sub-menu">
+	<li id="menu-item-20205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20205"><a href="https://zewo.ch/de/zewo-guetesiegel/">Zewo-Gütesiegel</a></li>
+	<li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="https://zewo.ch/de/stiftungsrat/">Stiftungsrat</a></li>
+	<li id="menu-item-1948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1948"><a href="https://zewo.ch/de/geschaeftsstelle/">Geschäftsstelle</a></li>
+	<li id="menu-item-811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-811"><a href="https://zewo.ch/de/zertifizierungsausschuss/">Zertifizierungsausschuss</a></li>
+	<li id="menu-item-814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-814"><a href="https://zewo.ch/de/rekursgericht/">Rekursgericht</a></li>
+	<li id="menu-item-5918807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5918807"><a href="https://zewo.ch/de/jahresbericht-jahresrechnung-und-revisionsbericht/">Jahresbericht, Jahresrechnung und Revisionsbericht</a></li>
+	<li id="menu-item-171197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171197"><a href="https://zewo.ch/de/so-finden-sie-uns/">So finden Sie uns</a></li>
+	<li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837"><a href="https://zewo.ch/de/kontaktformular/">Kontaktformular</a></li>
+	<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://zewo.ch/de/medien/">Medien</a></li>
+	<li id="menu-item-171201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171201"><a href="https://zewo.ch/de/jobs/">Jobs</a></li>
+	<li id="menu-item-177346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177346"><a href="https://zewo.ch/de/fulleranzeigen/">Fülleranzeigen</a></li>
+	<li id="menu-item-821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a href="https://zewo.ch/de/netzwerk/">Netzwerk</a></li>
+</ul>
+</li>
+</ul></div>	</div>
+
+	<!-- Overlay Search -->
+	<div class="search-overlay">
+		<div class="callout clearfix">
+			<input type="text" placeholder="Wie können wir Ihnen helfen?" id="global-search" class="float-left">
+			<button class="search-btn float-left"></button>
+			<div class="close float-right"></div>
+		</div>
+
+		<h3>Was suchen Sie?</h3>
+		<div class="menu-global-search-menue-container"><ul id="menu-global-search-menue" class="menu"><li id="menu-item-527361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527361"><a href="https://zewo.ch/de/npo-suche/">Zertifizierte NPO finden</a></li>
+</ul></div>
+	</div><!-- #main-search --><!-- Global search -->
+	<main id="primary" class="site-main grid-container clearfix">
+		<ul class="breadcrumbs margin-top-1" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://zewo.ch/de/"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span itemprop="name" aria-current="page"><span class="show-for-sr">Current:</span>Error 404</span><meta itemprop="position" content="1" /></li></ul>
+<article id="post-370873" class="post-370873 page type-page status-publish has-post-thumbnail hentry">
+	<div id="contentHolder" class="entry-content">
+		<nav class="sticky-container sticky-menu-vertical show-for-large" data-sticky-container>
+			<div class="sticky" data-sticky data-anchor="contentHolder" data-margin-top="6" data-sticky-on="medium">
+				<ul class="menu vertical menu-vertical"></ul>
+			</div>
+		</nav>
+		
+<h2 class="wp-block-heading">Entschuldigung!</h2>
+
+
+
+<figure class="wp-block-image is-resized"><img fetchpriority="high" decoding="async" src="https://zewo.ch/wp-content/uploads/2019/07/emoji.png" alt="" class="wp-image-419697" width="250" height="238" srcset="https://zewo.ch/wp-content/uploads/2019/07/emoji.png 500w, https://zewo.ch/wp-content/uploads/2019/07/emoji-300x286.png 300w" sizes="(min-width: 960px) 75vw, 100vw" /></figure>
+
+
+
+<p><br>Die gesuchte Seite existiert nicht (mehr).&nbsp;Eventuell haben Sie eine falsche oder eine veraltete URL aufgerufen.&nbsp;Vielleicht können Sie den gewünschten Inhalt über unsere Navigation oder über die Suche oben rechts auf der Seite finden.</p>
+
+
+
+<p>Oder fangen Sie nochmals ganz neu an:<br>Zum Beispiel auf unserer Startseite&nbsp;<a href="#">zewo.ch</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://zewo.ch/de/404-seite-nicht-gefunden/" data-a2a-title="404 – Seite nicht gefunden"><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fzewo.ch%2Fde%2F404-seite-nicht-gefunden%2F&amp;linkname=404%20%E2%80%93%20Seite%20nicht%20gefunden" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fzewo.ch%2Fde%2F404-seite-nicht-gefunden%2F&amp;linkname=404%20%E2%80%93%20Seite%20nicht%20gefunden" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_x" href="https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fzewo.ch%2Fde%2F404-seite-nicht-gefunden%2F&amp;linkname=404%20%E2%80%93%20Seite%20nicht%20gefunden" title="X" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>	</div><!-- .entry-content -->
+
+	</article><!-- #post-370873 -->
+
+
+	<nav class="navigation posts-navigation" aria-label="Beiträge">
+		<h2 class="screen-reader-text">Beitragsnavigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://zewo.ch/de/wp-content/uploads/2019/10/grafik_011.gif/page/2/" >Ältere Beiträge</a></div></div>
+	</nav>
+	</main><!-- #primary -->
+
+
+<footer class="padding-vertical-3">
+	<div class="grid-container">
+		<div class="grid-x">
+			<div class="cell medium-8 large-4 large-order-1 padding-right-1">
+									<span class="hide">Bleiben Sie informiert</span><div class="textwidget custom-html-widget"><h3>Bleiben Sie informiert</h3>
+<p>News für NPO abonnieren</p>
+<div class="wp-block-cgb-block-zewo-block-button ab-block-button"><a href="/de/npo-news/" class="button primary"><span class="button-arrow"></span>Abonnieren</a>
+</div></div>							</div>
+
+			<div class="cell medium-4 large-3 large-order-3">
+									<span class="hide">Kontakt</span><div class="textwidget custom-html-widget"><h3>Kontakt</h3>
+<span itemscope itemtype ="http://schema.org/Organization">
+<span itemprop="legalName">Stiftung Zewo</span> 
+<span itemprop="name" style="display:none;">Stiftung Zewo</span> 
+<span itemprop="image" style="display:none;">https://zewo.ch/wp-content/uploads/2019/08/Zewo_Logo_Claim_D.svg</span>
+<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"> <span itemprop="streetAddress">Pfingstweidstrasse 10</span><br> 
+<span itemprop="postalCode">8005</span> <span itemprop="addressLocality">Zürich</span><br> 
+<span itemprop="addressCountry">Schweiz</span>
+</address><br> 
+Telefon <span itemprop="telephone">+41 44 366 99 55</span><br> 
+<a href="/kontaktformular/">Zum Kontaktformular </a> 
+</span></div>							</div>
+
+			<div class="cell medium-4 medium-offset-8 large-5 large-offset-0 large-order-2">
+									<span class="hide">Zewo auf Social Media folgen</span><div class="textwidget custom-html-widget"><h3 class="show-for-large">Zewo auf Social Media folgen</h3>
+				<ul class="menu social-links-menu">
+					<li><a href="https://de-de.facebook.com/Stiftung.ZEWO/" target="_blank"><span class="icon icon-app-facebook text-color-black"></span><span class="hide">Facebook</span></a></li>
+					<li><a href="https://twitter.com/stiftung_zewo" target="_blank"><span class="icon icon-app-twitter text-color-black"></span><span class="hide">Twitter</span></a></li>
+					<li><a href="https://www.youtube.com/channel/UCzjsVJro12OXcvvx1LQP8tw" target="_blank"><span class="icon icon-app-youtube text-color-black"></span><span class="hide">YouTube</span></a></li>
+					<li><a href="https://www.linkedin.com/company/stiftung-zewo/" target="_blank"><span class="icon icon-app-linkedin text-color-black"></span><span class="hide">Linkedin</span></a></li>
+				</ul></div>							</div>
+
+			<div class="cell large-12 large-order-4 margin-top-7">
+				<div class="grid-x align-bottom">
+					<div class="site-branding cell medium-8 large-9">
+													<div class="site-logo">
+																<a href="https://zewo.ch/de/"><img class="sitelogo" src="https://zewo.ch/wp-content/themes/zewo/images/zewo-logo-rotschwarz-de.svg" alt="site logo" /></a>
+							</div>
+											</div><!-- .site-branding -->
+					<div class="cell medium-4 large-3 copyright">
+													<span class="hide">Copyright DE</span><div class="textwidget custom-html-widget"><p class="margin-0">&copy; Zewo | <a href="/de/impressum-und-datenschutzerklaerung">Impressum und Datenschutz</a></p></div>											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<script type="text/javascript">
+	/* Constants */
+	var ApplicationID = "I6DGRLRCWD";
+	var SearchOnlyAPIKey = "b6f1cd6341cb58435f43ecfcd270385f";
+	var ApiIndex = "zewo_";
+	var minSearchStart = 2;
+	var site_url = "https://zewo.ch";
+	var searchedParam = "";
+	var noResultFoundText = "Keine Daten gefunden";
+	var npoSearchedParam = "";
+	var globalHitsPerPage = 20;
+	var hitsPerPageCount = 100;
+	var currentLanguage = "de";
+	var noNPOFoundText = "Wir konnten zu Ihrem Suchbegriff leider nichts Passendes finden.";
+	var reliefOrg = 'Zertifizierte NPO';
+	var npoDetail = 'https://zewo.ch/de/npo-detail/';
+	var globalSearch = 'https://zewo.ch/de/global-search/';
+	var searchLink = 'https://zewo.ch/de/npo-suche/';
+	var SchweizStr = "Schweiz";
+	var ganzeSchweizStr = "National_operation_area_27";
+
+	/* Tab functionality */
+	function openCity(evt, cityName) {
+		var i, tabcontent, tablinks;
+		tabcontent = document.getElementsByClassName("tabcontent");
+		for (i = 0; i < tabcontent.length; i++) {
+			tabcontent[i].style.display = "none";
+		}
+		tablinks = document.getElementsByClassName("tablinks");
+		for (i = 0; i < tablinks.length; i++) {
+			tablinks[i].className = tablinks[i].className.replace(" active", "");
+		}
+		document.getElementById(cityName).style.display = "block";
+		evt.currentTarget.className += " active";
+	}
+</script>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/de\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/zewo\/*","\/de\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<!-- GTM Container placement set to footer -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PP6MGB" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type="text/javascript">var algolia = {"debug":false,"application_id":"I6DGRLRCWD","search_api_key":"b6f1cd6341cb58435f43ecfcd270385f","powered_by_enabled":false,"insights_enabled":false,"search_hits_per_page":"10","query":"","indices":{"searchable_posts":{"name":"zewo_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]},"posts_post":{"name":"zewo_posts_post","id":"posts_post","enabled":true,"replicas":[]},"posts_page":{"name":"zewo_posts_page","id":"posts_page","enabled":true,"replicas":[]},"posts_attachment":{"name":"zewo_posts_attachment","id":"posts_attachment","enabled":true,"replicas":[]},"posts_relief_organization":{"name":"zewo_posts_relief_organization","id":"posts_relief_organization","enabled":true,"replicas":[]},"terms_category":{"name":"zewo_terms_category","id":"terms_category","enabled":true,"replicas":[]},"terms_significance":{"name":"zewo_terms_significance","id":"terms_significance","enabled":true,"replicas":[]},"terms_benefit_recipient":{"name":"zewo_terms_benefit_recipient","id":"terms_benefit_recipient","enabled":true,"replicas":[]},"terms_benefit":{"name":"zewo_terms_benefit","id":"terms_benefit","enabled":true,"replicas":[]},"terms_international_operation_area":{"name":"zewo_terms_international_operation_area","id":"terms_international_operation_area","enabled":true,"replicas":[]},"terms_national_operation_area":{"name":"zewo_terms_national_operation_area","id":"terms_national_operation_area","enabled":true,"replicas":[]},"terms_relief_organisation_type":{"name":"zewo_terms_relief_organisation_type","id":"terms_relief_organisation_type","enabled":true,"replicas":[]},"terms_field_of_activity":{"name":"zewo_terms_field_of_activity","id":"terms_field_of_activity","enabled":true,"replicas":[]}},"autocomplete":{"sources":[{"index_id":"searchable_posts","index_name":"zewo_searchable_posts","label":"All posts","admin_name":"All posts","position":10,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_post","index_name":"zewo_posts_post","label":"Beitr\u00e4ge","admin_name":"Beitr\u00e4ge","position":10,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_attachment","index_name":"zewo_posts_attachment","label":"Medien","admin_name":"Medien","position":10,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_page","index_name":"zewo_posts_page","label":"Seiten","admin_name":"Seiten","position":10,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_relief_organization","index_name":"zewo_posts_relief_organization","label":"Relief Organizations","admin_name":"Relief Organizations","position":10,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"terms_field_of_activity","index_name":"zewo_terms_field_of_activity","label":"field_of_activity","admin_name":"field_of_activity","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_benefit_recipient","index_name":"zewo_terms_benefit_recipient","label":"benefit_recipient","admin_name":"benefit_recipient","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_relief_organisation_type","index_name":"zewo_terms_relief_organisation_type","label":"relief_organisation_type","admin_name":"relief_organisation_type","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_national_operation_area","index_name":"zewo_terms_national_operation_area","label":"national_operation_area","admin_name":"national_operation_area","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_international_operation_area","index_name":"zewo_terms_international_operation_area","label":"international_operation_area","admin_name":"international_operation_area","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_benefit","index_name":"zewo_terms_benefit","label":"benefit","admin_name":"benefit","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_significance","index_name":"zewo_terms_significance","label":"significance","admin_name":"significance","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true},{"index_id":"terms_category","index_name":"zewo_terms_category","label":"Kategorien","admin_name":"Kategorien","position":20,"max_suggestions":3,"tmpl_suggestion":"autocomplete-term-suggestion","enabled":true}],"input_selector":"input[name='s']:not(.no-autocomplete):not(#adminbar-search)"}};</script>
+<script type="text/html" id="tmpl-autocomplete-header">
+	<div class="autocomplete-header">
+		<div class="autocomplete-header-title">{{{ data.label }}}</div>
+		<div class="clear"></div>
+	</div>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-post-suggestion">
+	<a class="suggestion-link" href="{{ data.permalink }}" title="{{ data.post_title }}">
+		<# if ( data.images.thumbnail ) { #>
+			<img class="suggestion-post-thumbnail" src="{{ data.images.thumbnail.url }}" alt="{{ data.post_title }}">
+		<# } #>
+		<div class="suggestion-post-attributes">
+			<span class="suggestion-post-title">{{{ data._highlightResult.post_title.value }}}</span>
+			<# if ( data._snippetResult['content'] ) { #>
+				<span class="suggestion-post-content">{{{ data._snippetResult['content'].value }}}</span>
+			<# } #>
+		</div>
+			</a>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-term-suggestion">
+	<a class="suggestion-link" href="{{ data.permalink }}" title="{{ data.name }}">
+		<svg viewBox="0 0 21 21" width="21" height="21">
+			<svg width="21" height="21" viewBox="0 0 21 21">
+				<path
+					d="M4.662 8.72l-1.23 1.23c-.682.682-.68 1.792.004 2.477l5.135 5.135c.7.693 1.8.688 2.48.005l1.23-1.23 5.35-5.346c.31-.31.54-.92.51-1.36l-.32-4.29c-.09-1.09-1.05-2.06-2.15-2.14l-4.3-.33c-.43-.03-1.05.2-1.36.51l-.79.8-2.27 2.28-2.28 2.27zm9.826-.98c.69 0 1.25-.56 1.25-1.25s-.56-1.25-1.25-1.25-1.25.56-1.25 1.25.56 1.25 1.25 1.25z"
+					fill-rule="evenodd"></path>
+			</svg>
+		</svg>
+		<span class="suggestion-post-title">{{{ data._highlightResult.name.value }}}</span>
+	</a>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-user-suggestion">
+	<a class="suggestion-link user-suggestion-link" href="{{ data.posts_url }}" title="{{ data.display_name }}">
+		<# if ( data.avatar_url ) { #>
+			<img class="suggestion-user-thumbnail" src="{{ data.avatar_url }}" alt="{{ data.display_name }}">
+		<# } #>
+		<span class="suggestion-post-title">{{{ data._highlightResult.display_name.value }}}</span>
+	</a>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-footer">
+	<div class="autocomplete-footer">
+		<div class="autocomplete-footer-branding">
+			<a href="#" class="algolia-powered-by-link" title="Algolia">
+				<svg width="150px" height="25px" viewBox="0 0 572 64"><path fill="#36395A" d="M16 48.3c-3.4 0-6.3-.6-8.7-1.7A12.4 12.4 0 0 1 1.9 42C.6 40 0 38 0 35.4h6.5a6.7 6.7 0 0 0 3.9 6c1.4.7 3.3 1.1 5.6 1.1 2.2 0 4-.3 5.4-1a7 7 0 0 0 3-2.4 6 6 0 0 0 1-3.4c0-1.5-.6-2.8-1.9-3.7-1.3-1-3.3-1.6-5.9-1.8l-4-.4c-3.7-.3-6.6-1.4-8.8-3.4a10 10 0 0 1-3.3-7.9c0-2.4.6-4.6 1.8-6.4a12 12 0 0 1 5-4.3c2.2-1 4.7-1.6 7.5-1.6s5.5.5 7.6 1.6a12 12 0 0 1 5 4.4c1.2 1.8 1.8 4 1.8 6.7h-6.5a6.4 6.4 0 0 0-3.5-5.9c-1-.6-2.6-1-4.4-1s-3.2.3-4.4 1c-1.1.6-2 1.4-2.6 2.4-.5 1-.8 2-.8 3.1a5 5 0 0 0 1.5 3.6c1 1 2.6 1.7 4.7 1.9l4 .3c2.8.2 5.2.8 7.2 1.8 2.1 1 3.7 2.2 4.9 3.8a9.7 9.7 0 0 1 1.7 5.8c0 2.5-.7 4.7-2 6.6a13 13 0 0 1-5.6 4.4c-2.4 1-5.2 1.6-8.4 1.6Zm35.6 0c-2.6 0-4.8-.4-6.7-1.3a13 13 0 0 1-4.7-3.5 17.1 17.1 0 0 1-3.6-10.4v-1c0-2 .3-3.8 1-5.6a13 13 0 0 1 7.3-8.3 15 15 0 0 1 6.3-1.4A13.2 13.2 0 0 1 64 24.3c1 2.2 1.6 4.6 1.6 7.2V34H39.4v-4.3h21.8l-1.8 2.2c0-2-.3-3.7-.9-5.1a7.3 7.3 0 0 0-2.7-3.4c-1.2-.7-2.7-1.1-4.6-1.1s-3.4.4-4.7 1.3a8 8 0 0 0-2.9 3.6c-.6 1.5-.9 3.3-.9 5.4 0 2 .3 3.7 1 5.3a7.9 7.9 0 0 0 2.8 3.7c1.3.8 3 1.3 5 1.3s3.8-.5 5.1-1.3c1.3-1 2.1-2 2.4-3.2h6a11.8 11.8 0 0 1-7 8.7 16 16 0 0 1-6.4 1.2ZM80 48c-2.2 0-4-.3-5.7-1a8.4 8.4 0 0 1-3.7-3.3 9.7 9.7 0 0 1-1.3-5.2c0-2 .5-3.8 1.5-5.2a9 9 0 0 1 4.3-3.1c1.8-.7 4-1 6.7-1H89v4.1h-7.5c-2 0-3.4.5-4.4 1.4-1 1-1.6 2.1-1.6 3.6s.5 2.7 1.6 3.6c1 1 2.5 1.4 4.4 1.4 1.1 0 2.2-.2 3.2-.7 1-.4 1.9-1 2.6-2 .6-1 1-2.4 1-4.2l1.7 2.1c-.2 2-.7 3.8-1.5 5.2a9 9 0 0 1-3.4 3.3 12 12 0 0 1-5.3 1Zm9.5-.7v-8.8h-1v-10c0-1.8-.5-3.2-1.4-4.1-1-1-2.4-1.4-4.2-1.4a142.9 142.9 0 0 0-10.2.4v-5.6a74.8 74.8 0 0 1 8.6-.4c3 0 5.5.4 7.5 1.2s3.4 2 4.4 3.6c1 1.7 1.4 4 1.4 6.7v18.4h-5Zm12.9 0V17.8h5v12.3h-.2c0-4.2 1-7.4 2.8-9.5a11 11 0 0 1 8.3-3.1h1v5.6h-2a9 9 0 0 0-6.3 2.2c-1.5 1.5-2.2 3.6-2.2 6.4v15.6h-6.4Zm34.4 1a15 15 0 0 1-6.6-1.3c-1.9-.9-3.4-2-4.7-3.5a15.5 15.5 0 0 1-2.7-5c-.6-1.7-1-3.6-1-5.4v-1c0-2 .4-3.8 1-5.6a15 15 0 0 1 2.8-4.9c1.3-1.5 2.8-2.6 4.6-3.5a16.4 16.4 0 0 1 13.3.2c2 1 3.5 2.3 4.8 4a12 12 0 0 1 2 6H144c-.2-1.6-1-3-2.2-4.1a7.5 7.5 0 0 0-5.2-1.7 8 8 0 0 0-4.7 1.3 8 8 0 0 0-2.8 3.6 13.8 13.8 0 0 0 0 10.3c.6 1.5 1.5 2.7 2.8 3.6s2.8 1.3 4.8 1.3c1.5 0 2.7-.2 3.8-.8a7 7 0 0 0 2.6-2c.7-1 1-2 1.2-3.2h6.2a11 11 0 0 1-2 6.2 15.1 15.1 0 0 1-11.8 5.5Zm19.7-1v-40h6.4V31h-1.3c0-3 .4-5.5 1.1-7.6a9.7 9.7 0 0 1 3.5-4.8A9.9 9.9 0 0 1 172 17h.3c3.5 0 6 1.1 7.9 3.5 1.7 2.3 2.6 5.7 2.6 10v16.8h-6.4V29.6c0-2.1-.6-3.8-1.8-5a6.4 6.4 0 0 0-4.8-1.8c-2 0-3.7.7-5 2a7.8 7.8 0 0 0-1.9 5.5v17h-6.4Zm63.8 1a12.2 12.2 0 0 1-10.9-6.2 19 19 0 0 1-1.8-7.3h1.4v12.5h-5.1v-40h6.4v19.8l-2 3.5c.2-3.1.8-5.7 1.9-7.7a11 11 0 0 1 4.4-4.5c1.8-1 3.9-1.5 6.1-1.5a13.4 13.4 0 0 1 12.8 9.1c.7 1.9 1 3.8 1 6v1c0 2.2-.3 4.1-1 6a13.6 13.6 0 0 1-13.2 9.4Zm-1.2-5.5a8.4 8.4 0 0 0 7.9-5c.7-1.5 1.1-3.3 1.1-5.3s-.4-3.8-1.1-5.3a8.7 8.7 0 0 0-3.2-3.6 9.6 9.6 0 0 0-9.2-.2 8.5 8.5 0 0 0-3.3 3.2c-.8 1.4-1.3 3-1.3 5v2.3a9 9 0 0 0 1.3 4.8 9 9 0 0 0 3.4 3c1.4.7 2.8 1 4.4 1Zm27.3 3.9-10-28.9h6.5l9.5 28.9h-6Zm-7.5 12.2v-5.7h4.9c1 0 2-.1 2.9-.4a4 4 0 0 0 2-1.4c.4-.7.9-1.6 1.2-2.7l8.6-30.9h6.2l-9.3 32.4a14 14 0 0 1-2.5 5 8.9 8.9 0 0 1-4 2.8c-1.5.6-3.4.9-5.6.9h-4.4Zm9-12.2v-5.2h6.4v5.2H248Z"></path><path fill="#003DFF" d="M534.4 9.1H528a.8.8 0 0 1-.7-.7V1.8c0-.4.2-.7.6-.8l6.5-1c.4 0 .8.2.9.6v7.8c0 .4-.4.7-.8.7zM428 35.2V.8c0-.5-.3-.8-.7-.8h-.2l-6.4 1c-.4 0-.7.4-.7.8v35c0 1.6 0 11.8 12.3 12.2.5 0 .8-.4.8-.8V43c0-.4-.3-.7-.6-.8-4.5-.5-4.5-6-4.5-7zm106.5-21.8H528c-.4 0-.7.4-.7.8v34c0 .4.3.8.7.8h6.5c.4 0 .8-.4.8-.8v-34c0-.5-.4-.8-.8-.8zm-17.7 21.8V.8c0-.5-.3-.8-.8-.8l-6.5 1c-.4 0-.7.4-.7.8v35c0 1.6 0 11.8 12.3 12.2.4 0 .8-.4.8-.8V43c0-.4-.3-.7-.7-.8-4.4-.5-4.4-6-4.4-7zm-22.2-20.6a16.5 16.5 0 0 1 8.6 9.3c.8 2.2 1.3 4.8 1.3 7.5a19.4 19.4 0 0 1-4.6 12.6 14.8 14.8 0 0 1-5.2 3.6c-2 .9-5.2 1.4-6.8 1.4a21 21 0 0 1-6.7-1.4 15.4 15.4 0 0 1-8.6-9.3 21.3 21.3 0 0 1 0-14.4 15.2 15.2 0 0 1 8.6-9.3c2-.8 4.3-1.2 6.7-1.2s4.6.4 6.7 1.2zm-6.7 27.6c2.7 0 4.7-1 6.2-3s2.2-4.3 2.2-7.8-.7-6.3-2.2-8.3-3.5-3-6.2-3-4.7 1-6.1 3c-1.5 2-2.2 4.8-2.2 8.3s.7 5.8 2.2 7.8 3.5 3 6.2 3zm-88.8-28.8c-6.2 0-11.7 3.3-14.8 8.2a18.6 18.6 0 0 0 4.8 25.2c1.8 1.2 4 1.8 6.2 1.7s.1 0 .1 0h.9c4.2-.7 8-4 9.1-8.1v7.4c0 .4.3.7.8.7h6.4a.7.7 0 0 0 .7-.7V14.2c0-.5-.3-.8-.7-.8h-13.5zm6.3 26.5a9.8 9.8 0 0 1-5.7 2h-.5a10 10 0 0 1-9.2-14c1.4-3.7 5-6.3 9-6.3h6.4v18.3zm152.3-26.5h13.5c.5 0 .8.3.8.7v33.7c0 .4-.3.7-.8.7h-6.4a.7.7 0 0 1-.8-.7v-7.4c-1.2 4-4.8 7.4-9 8h-.1a4.2 4.2 0 0 1-.5.1h-.9a10.3 10.3 0 0 1-7-2.6c-4-3.3-6.5-8.4-6.5-14.2 0-3.7 1-7.2 3-10 3-5 8.5-8.3 14.7-8.3zm.6 28.4c2.2-.1 4.2-.6 5.7-2V21.7h-6.3a9.8 9.8 0 0 0-9 6.4 10.2 10.2 0 0 0 9.1 13.9h.5zM452.8 13.4c-6.2 0-11.7 3.3-14.8 8.2a18.5 18.5 0 0 0 3.6 24.3 10.4 10.4 0 0 0 13 .6c2.2-1.5 3.8-3.7 4.5-6.1v7.8c0 2.8-.8 5-2.2 6.3-1.5 1.5-4 2.2-7.5 2.2l-6-.3c-.3 0-.7.2-.8.5l-1.6 5.5c-.1.4.1.8.5 1h.1c2.8.4 5.5.6 7 .6 6.3 0 11-1.4 14-4.1 2.7-2.5 4.2-6.3 4.5-11.4V14.2c0-.5-.4-.8-.8-.8h-13.5zm6.3 8.2v18.3a9.6 9.6 0 0 1-5.6 2h-1a10.3 10.3 0 0 1-8.8-14c1.4-3.7 5-6.3 9-6.3h6.4zM291 31.5A32 32 0 0 1 322.8 0h30.8c.6 0 1.2.5 1.2 1.2v61.5c0 1.1-1.3 1.7-2.2 1l-19.2-17a18 18 0 0 1-11 3.4 18.1 18.1 0 1 1 18.2-14.8c-.1.4-.5.7-.9.6-.1 0-.3 0-.4-.2l-3.8-3.4c-.4-.3-.6-.8-.7-1.4a12 12 0 1 0-2.4 8.3c.4-.4 1-.5 1.6-.2l14.7 13.1v-46H323a26 26 0 1 0 10 49.7c.8-.4 1.6-.2 2.3.3l3 2.7c.3.2.3.7 0 1l-.2.2a32 32 0 0 1-47.2-28.6z"></path></svg>
+			</a>
+		</div>
+	</div>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-empty">
+	<div class="autocomplete-empty">
+		No results matched your query 		<span class="empty-query">"{{ data.query }}"</span>
+	</div>
+</script>
+
+<script type="text/javascript">
+	window.addEventListener('load', function () {
+
+		/* Initialize Algolia client */
+		var client = algoliasearch( algolia.application_id, algolia.search_api_key );
+
+		/**
+		 * Algolia hits source method.
+		 *
+		 * This method defines a custom source to use with autocomplete.js.
+		 *
+		 * @param object $index Algolia index object.
+		 * @param object $params Options object to use in search.
+		 */
+		var algoliaHitsSource = function( index, params ) {
+			return function( query, callback ) {
+				index
+					.search( query, params )
+					.then( function( response ) {
+						callback( response.hits, response );
+					})
+					.catch( function( error ) {
+						callback( [] );
+					});
+			}
+		}
+
+		/* Setup autocomplete.js sources */
+		var sources = [];
+		algolia.autocomplete.sources.forEach( function( config, i ) {
+			var suggestion_template = wp.template( config[ 'tmpl_suggestion' ] );
+			sources.push( {
+				source: algoliaHitsSource( client.initIndex( config[ 'index_name' ] ), {
+					hitsPerPage: config[ 'max_suggestions' ],
+					attributesToSnippet: [
+						'content:10'
+					],
+					highlightPreTag: '__ais-highlight__',
+					highlightPostTag: '__/ais-highlight__'
+				} ),
+				debounce: config['debounce'],
+				templates: {
+					header: function () {
+						return wp.template( 'autocomplete-header' )( {
+							label: _.escape( config[ 'label' ] )
+						} );
+					},
+					suggestion: function ( hit ) {
+						if ( hit.escaped === true ) {
+							return suggestion_template( hit );
+						}
+						hit.escaped = true;
+
+						for ( var key in hit._highlightResult ) {
+							/* We do not deal with arrays. */
+							if ( typeof hit._highlightResult[ key ].value !== 'string' ) {
+								continue;
+							}
+							hit._highlightResult[ key ].value = _.escape( hit._highlightResult[ key ].value );
+							hit._highlightResult[ key ].value = hit._highlightResult[ key ].value.replace( /__ais-highlight__/g, '<em>' ).replace( /__\/ais-highlight__/g, '</em>' );
+						}
+
+						for ( var key in hit._snippetResult ) {
+							/* We do not deal with arrays. */
+							if ( typeof hit._snippetResult[ key ].value !== 'string' ) {
+								continue;
+							}
+
+							hit._snippetResult[ key ].value = _.escape( hit._snippetResult[ key ].value );
+							hit._snippetResult[ key ].value = hit._snippetResult[ key ].value.replace( /__ais-highlight__/g, '<em>' ).replace( /__\/ais-highlight__/g, '</em>' );
+						}
+
+						return suggestion_template( hit );
+					}
+				}
+			} );
+
+		} );
+
+		/* Setup dropdown menus */
+		document.querySelectorAll( algolia.autocomplete.input_selector ).forEach( function( element ) {
+
+			var config = {
+				debug: algolia.debug,
+				hint: false,
+				openOnFocus: true,
+				appendTo: 'body',
+				templates: {
+					empty: wp.template( 'autocomplete-empty' )
+				}
+			};
+
+			if ( algolia.powered_by_enabled ) {
+				config.templates.footer = wp.template( 'autocomplete-footer' );
+			}
+
+			/* Instantiate autocomplete.js */
+			var autocomplete = algoliaAutocomplete( element, config, sources )
+				.on( 'autocomplete:selected', function ( e, suggestion ) {
+					/* Redirect the user when we detect a suggestion selection. */
+					window.location.href = suggestion.permalink ?? suggestion.posts_url; // Users use the `posts_url` property instead of `permalink`.
+				} );
+
+			/* Force the dropdown to be re-drawn on scroll to handle fixed containers. */
+			window.addEventListener( 'scroll', function() {
+				if ( autocomplete.autocomplete.getWrapper().style.display === "block" ) {
+					autocomplete.autocomplete.close();
+					autocomplete.autocomplete.open();
+				}
+			} );
+		} );
+
+		var algoliaPoweredLink = document.querySelector( '.algolia-powered-by-link' );
+		if ( algoliaPoweredLink ) {
+			algoliaPoweredLink.addEventListener( 'click', function( e ) {
+				e.preventDefault();
+				window.location = "https://www.algolia.com/?utm_source=WordPress&utm_medium=extension&utm_content=" + window.location.hostname + "&utm_campaign=poweredby";
+			} );
+		}
+	});
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.2" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-10-26 03:28:49+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"This contact form is placed in the wrong place.":["Dieses Kontaktformular wurde an der falschen Stelle platziert."],"Error:":["Fehler:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/zewo.ch\/de\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/zewo-block-calculator/frontend/calculator.js?ver=6.8.5" id="zewo_block_calculator-js-js"></script>
+<script type="text/javascript" id="cookie-notice-front-js-extra">
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/zewo.ch\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"7862400","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/zewo-cookie-notice/js/front.min.js?ver=1.2.46" id="cookie-notice-front-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/zewo-event-page//js/zewo-events-page.js?ver=6.8.5" id="zewo-event-page-script-js"></script>
+<script type="text/javascript" id="mootpalphanumeric-js-extra">
+/* <![CDATA[ */
+var mootpalphanumeric = {"input_pattern":"\/[^a-zA-Z0-9]\/g"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/miniorange-otp-verification/includes/js/mootpalphanumeric.min.js?ver=5.3.8" id="mootpalphanumeric-js"></script>
+<script type="text/javascript" id="dlm-xhr-js-extra">
+/* <![CDATA[ */
+var dlmXHRtranslations = {"error":"An error occurred while trying to download the file. Please try again.","not_found":"Download existiert nicht.","no_file_path":"No file path defined.","no_file_paths":"Dateipfad nicht definiert.","filetype":"Download is not allowed for this file type.","file_access_denied":"Access denied to this file.","access_denied":"Access denied. You do not have permission to download this file.","security_error":"Something is wrong with the file path.","file_not_found":"Datei nicht gefunden."};
+/* ]]> */
+</script>
+<script type="text/javascript" id="dlm-xhr-js-before">
+/* <![CDATA[ */
+const dlmXHR = {"xhr_links":{"class":["download-link","download-button"]},"prevent_duplicates":true,"ajaxUrl":"https:\/\/zewo.ch\/wp-admin\/admin-ajax.php"}; dlmXHRinstance = {}; const dlmXHRGlobalLinks = "https://zewo.ch/de/download/"; const dlmNonXHRGlobalLinks = []; dlmXHRgif = "https://zewo.ch/wp-includes/images/spinner.gif"; const dlmXHRProgress = "1"
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=5.1.3" id="dlm-xhr-js"></script>
+<script type="text/javascript" id="dlm-xhr-js-after">
+/* <![CDATA[ */
+document.addEventListener("dlm-xhr-modal-data", function(event) { if ("undefined" !== typeof event.detail.headers["x-dlm-tc-required"]) { event.detail.data["action"] = "dlm_terms_conditions_modal"; event.detail.data["dlm_modal_response"] = "true"; }});
+document.addEventListener("dlm-xhr-modal-data", function(event) {if ("undefined" !== typeof event.detail.headers["x-dlm-members-locked"]) {event.detail.data["action"] = "dlm_members_conditions_modal";event.detail.data["dlm_modal_response"] = "true";event.detail.data["dlm_members_form_redirect"] = "https://zewo.ch/de/wp-content/uploads/2019/10/grafik_011.gif/";}});
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js?ver=1.22.1" id="gtm4wp-contact-form-7-tracker-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js?ver=1.22.1" id="gtm4wp-form-move-tracker-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/themes/zewo/js/libs/jquery-3.4.1.min.js?ver=20191021" id="zewo-jquery-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/themes/zewo/js/libs/what-input.js?ver=20190321" id="zewo-what-input-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/themes/zewo/js/libs/foundation.min.js?ver=20190321" id="zewo-foundation-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/themes/zewo/js/libs/slick.js?ver=20190805" id="zewo-slick-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/selectize@0.12.6/dist/js/standalone/selectize.min.js?ver=20190820" id="zewo-selectize-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/algoliasearch@3.30.0/dist/algoliasearchLite.min.js?ver=20190819" id="zewo-algoliasearchLite-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/instantsearch.js@beta?ver=20190819" id="zewo-instantsearch-production-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/algoliasearch-helper@2.28.0/dist/algoliasearch.helper.min.js?ver=20190819" id="zewo-algolia-helper-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/themes/zewo/js/selectize-plugin-clear.js?ver=20190821" id="zewo-clear-selectize-js"></script>
+<script type="text/javascript" id="zewo-app-js-extra">
+/* <![CDATA[ */
+var zewo_translations = {"show_all":"Show all","read_more":"Weiterlesen","read_less":"Schlie\u00dfen","message_error_tac":"Bitte f\u00fcllen Sie die Pflichtfelder aus.","page":"Seiten","relief_organization":"NPO","post":"Blog-Beitr\u00e4ge","attachment":"Dokumente"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/themes/zewo/js/app.js?ver=20190321" id="zewo-app-js"></script>
+<script type="text/javascript" id="moformidable-js-extra">
+/* <![CDATA[ */
+var moformidable = {"siteURL":"https:\/\/zewo.ch\/wp-admin\/admin-ajax.php","otpType":"mo_frm_form_email_enable","formkey":"emailkey","nonce":"d620526101","buttontext":"Send OTP","imgURL":"https:\/\/zewo.ch\/wp-content\/plugins\/miniorange-otp-verification\/includes\/images\/loader.gif","forms":{"8":{"emailkey":"frm_field_51_container","phonekey":"frm_field__container","verifyKey":"frm_field_53_container","phone_show":"","email_show":"51","verify_show":"53"},"9":{"emailkey":"frm_field_58_container","phonekey":"frm_field__container","verifyKey":"frm_field_60_container","phone_show":"","email_show":"58","verify_show":"60"}},"generateURL":"miniorange_frm_generate_otp"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/miniorange-otp-verification/includes/js/formidable.min.js?ver=5.3.8" id="moformidable-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://zewo.ch/wp-includes/js/wp-util.min.js?ver=6.8.5" id="wp-util-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/wp-search-with-algolia/js/algoliasearch/dist/algoliasearch-lite.umd.js?ver=2.10.3" id="algolia-search-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/wp-search-with-algolia/js/autocomplete.js/dist/autocomplete.min.js?ver=2.10.3" id="algolia-autocomplete-js"></script>
+<script type="text/javascript" src="https://zewo.ch/wp-content/plugins/wp-search-with-algolia/js/autocomplete-noconflict.js?ver=2.10.3" id="algolia-autocomplete-noconflict-js"></script>
+
+			<div id="cookie-notice" role="banner" class="cn-bottom" style="color: #4e4748; background-color: #ffffff;"><div class="cookie-notice-container"><span id="cn-notice-text">Diese Website verwendet Cookies, um Ihnen das bestmögliche Erlebnis während Ihres Besuchs zu bieten. Wenn Sie diese Website weiterhin nutzen, stimmen Sie der Verwendung aller Cookies zu. Weitere Informationen zur Änderungen Ihrer eigenen Einstellungen finden Sie in unserer Datenschutzerklärung.</span><a href="#" id="cn-accept-cookie-close" data-cookie-set="accept" class="cn-set-cookie cn-button"><span class="icon icon-navi-close"><!-- --></span></a><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button">Akzeptieren</a><a href="https://zewo.ch/de/impressum-und-datenschutzerklaerung/" target="_blank" id="cn-more-info" class="cn-more-info cn-button">Datenschutz</a>
+				</div>
+				
+			</div><script type="text/javascript">
+	/* On keyup if submit button is clicked redirect the user to global search results page*/
+	$('#global-search').keyup(function() {
+		var value = this.value;
+		if (event.keyCode === 13) {
+			window.location = globalSearch + '?res=' + value;
+		}
+	});
+	/* On click of search icon redirect the user to global search results page*/
+	$('.search-btn').click(function() {
+		var value = $('#global-search').val();
+		window.location = globalSearch + '?res=' + value;
+	});
+
+	/* On keyup if submit button is clicked redirect the user to NPO search results page*/
+	$('#fsearch').keyup(function() {
+		var value = this.value;
+		if (event.keyCode === 13) {
+			window.location = searchLink + '?fsearch=' + value;
+		}
+	});
+	/* On click of search icon redirect the user to NPO search results page*/
+	$('.search-btn-npo').click(function() {
+		var value = $('#fsearch').val();
+		window.location = searchLink + '?fsearch=' + value;
+	});
+</script>
+<!--
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.visible-hide').hide();
+			$('.visible-show').show();
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.visible-show').hide();
+			$('.visible-hide').show();
+
+			$('#languages-menu li').click(function(e) {
+				localStorage.removeItem('previousdata');
+			});
+		});
+	</script>
+-->
+</body>
+
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: zewo.ch @ 2026-04-14 07:24:05 by W3 Total Cache
+-->
