@@ -99,11 +99,16 @@
   <rect x="288" y="328" width="40" height="20" rx="3" fill="#ffffff"/>
   <text x="308" y="342" text-anchor="middle" fill="#d97706" font-size="12">生长</text>
 
+  <!-- Journal to my-lessons (self-layer refinement) -->
+  <path d="M 350,370 C 500,320 500,220 260,170" stroke="#d97706" stroke-width="1.5" fill="none" marker-end="url(#arrow-amber)"/>
+  <rect x="410" y="302" width="130" height="20" rx="3" fill="#ffffff"/>
+  <text x="475" y="316" text-anchor="middle" fill="#d97706" font-size="11">反思 → my-lessons</text>
+
   <!-- Legend -->
   <line x1="30" y1="705" x2="60" y2="705" stroke="#3b82f6" stroke-width="1.5" marker-end="url(#arrow-blue)"/>
   <text x="68" y="709" fill="#6b7280" font-size="11">知识流动</text>
-  <line x1="150" y1="705" x2="180" y2="705" stroke="#d97706" stroke-width="1.5" marker-end="url(#arrow-amber)"/>
-  <text x="188" y="709" fill="#6b7280" font-size="11">me ↕ Garden（提炼 / 生长）</text>
-  <line x1="400" y1="705" x2="430" y2="705" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="6,3" marker-end="url(#arrow-gray)"/>
-  <text x="438" y="709" fill="#6b7280" font-size="11">回流</text>
+  <line x1="170" y1="705" x2="200" y2="705" stroke="#d97706" stroke-width="1.5" marker-end="url(#arrow-amber)"/>
+  <text x="208" y="709" fill="#6b7280" font-size="11">自我提炼（Journal → my-lessons / me ↔ Garden）</text>
+  <line x1="590" y1="705" x2="620" y2="705" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="6,3" marker-end="url(#arrow-gray)"/>
+  <text x="628" y="709" fill="#6b7280" font-size="11">回流</text>
 </svg>
