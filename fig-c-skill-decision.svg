@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/></marker>
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 22px; font-weight: 700; fill: #111827; }
+      .subtitle { font-family: -apple-system, sans-serif; font-size: 13px; fill: #6b7280; }
+      .h1 { font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 700; fill: #111827; }
+      .h2 { font-family: -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #111827; }
+      .h3 { font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; fill: #374151; }
+      .body { font-family: -apple-system, sans-serif; font-size: 12px; fill: #374151; }
+      .body-mono { font-family: "SF Mono", Monaco, monospace; font-size: 12px; fill: #1f2937; }
+      .note { font-family: -apple-system, sans-serif; font-size: 11px; fill: #6b7280; font-style: italic; }
+      .strike { font-family: -apple-system, sans-serif; font-size: 12px; fill: #9ca3af; text-decoration: line-through; }
+      .badge { font-family: -apple-system, sans-serif; font-size: 11px; font-weight: 600; fill: #ffffff; }
+      .layer-title { font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #111827; }
+      .layer-note { font-family: -apple-system, sans-serif; font-size: 12px; fill: #6b7280; font-style: italic; }
+      .os-label { font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; fill: #4b5563; letter-spacing: 0.5px; }
+      .path { font-family: "SF Mono", Monaco, monospace; font-size: 13px; fill: #1f2937; }
+      .path-faded { font-family: "SF Mono", Monaco, monospace; font-size: 13px; fill: #6b7280; }
+      .annot { font-family: -apple-system, sans-serif; font-size: 11px; fill: #6b7280; }
+      .footer-title { font-family: -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #111827; }
+      .footer-text { font-family: -apple-system, sans-serif; font-size: 12px; fill: #374151; }
+    </style>
+  </defs>
+  <rect width="1200" height="800" fill="#ffffff"/>
+  <text x="60" y="44" class="title">Current Skill 决策</text>
+  <text x="60" y="66" class="subtitle">Current 内 = cast 一个 + 推荐搭配独立 skill — Unix 哲学 do one thing well</text>
+  <line x1="60" y1="92" x2="1140" y2="92" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="450" y="120" width="300" height="80" rx="6" fill="#f9fafb" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <text x="600" y="145" text-anchor="middle" class="h2">ai-onboarding</text>
+  <text x="600" y="165" text-anchor="middle" class="note">公司级 AI 环境初始化 (上游)</text>
+  <text x="600" y="183" text-anchor="middle" class="body">注册 marketplace + 引导装 cast</text>
+  <line x1="600" y1="210" x2="600" y2="240" stroke="#6b7280" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="615" y="228" class="note">推荐安装 cast</text>
+  <rect x="350" y="250" width="500" height="240" rx="10" fill="#fef9c3" stroke="#ca8a04" stroke-width="2.5" stroke-dasharray="10,5"/>
+  <rect x="350" y="250" width="180" height="32" rx="10" fill="#ca8a04"/>
+  <text x="365" y="272" class="h2" fill="#ffffff">Current 产品边界</text>
+  <rect x="450" y="320" width="300" height="120" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2.5"/>
+  <text x="600" y="350" text-anchor="middle" class="h1">cast skill</text>
+  <text x="600" y="372" text-anchor="middle" class="note">Current 唯一 skill (极纯化)</text>
+  <text x="600" y="395" text-anchor="middle" class="body">桥 + 安全网 + 极简导览员</text>
+  <text x="600" y="415" text-anchor="middle" class="body-mono">npm: current-cast</text>
+  <text x="600" y="475" text-anchor="middle" class="note">Current = cast 一个 skill + 用户数据约定 + 协作哲学</text>
+  <text x="600" y="525" text-anchor="middle" class="h2">不在 Current 内, 推荐搭配 / 关联</text>
+  <rect x="80" y="550" width="280" height="120" rx="6" fill="#ecfdf5" stroke="#059669" stroke-width="1.5"/>
+  <text x="220" y="578" text-anchor="middle" class="h2">thinking-partner</text>
+  <text x="220" y="598" text-anchor="middle" class="note">已独立 plugin (1.0→2.0 拆)</text>
+  <text x="220" y="620" text-anchor="middle" class="body">激发式对话工具</text>
+  <text x="220" y="640" text-anchor="middle" class="body">不给答案给问题</text>
+  <text x="220" y="660" text-anchor="middle" class="h3" fill="#059669">→ 推荐用户搭配</text>
+  <rect x="460" y="550" width="280" height="120" rx="6" fill="#fafafa" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <text x="600" y="578" text-anchor="middle" class="h2">reflect</text>
+  <text x="600" y="598" text-anchor="middle" class="note">未来独立 skill (待开发)</text>
+  <text x="600" y="620" text-anchor="middle" class="body">反思日志写作场景</text>
+  <text x="600" y="640" text-anchor="middle" class="body">(my-lessons 写入暂留 cast)</text>
+  <text x="600" y="660" text-anchor="middle" class="h3" fill="#6b7280">→ 真痛点出现再独立</text>
+  <rect x="840" y="550" width="280" height="120" rx="6" fill="#fdf4ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="980" y="578" text-anchor="middle" class="h2">ahoy / current-report</text>
+  <text x="980" y="598" text-anchor="middle" class="note">当前 webapp, 未来 desktop app</text>
+  <text x="980" y="620" text-anchor="middle" class="body">瞭望台 / 个人入口</text>
+  <text x="980" y="640" text-anchor="middle" class="body">数据共享 + state 独立</text>
+  <text x="980" y="660" text-anchor="middle" class="h3" fill="#a855f7">→ 探索阶段</text>
+  <line x1="60" y1="700" x2="1140" y2="700" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="60" y="722" class="h3" fill="#6b7280">已砍掉 (不独立成 skill):</text>
+  <text x="60" y="745" class="strike">• ~~current-onboard~~ → cast SKILL.md 极简 trigger + reference/onboarding.md 详细</text>
+  <text x="60" y="765" class="strike">• ~~current-coach~~ → cast 里本就没有真正的 "coach"; 范式向导散到 reference 按需</text>
+</svg>
