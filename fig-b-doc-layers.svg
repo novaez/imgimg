@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700">
+  <defs>    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 22px; font-weight: 700; fill: #111827; }
+      .subtitle { font-family: -apple-system, sans-serif; font-size: 13px; fill: #6b7280; }
+      .h1 { font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 700; fill: #111827; }
+      .h2 { font-family: -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #111827; }
+      .h3 { font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; fill: #374151; }
+      .body { font-family: -apple-system, sans-serif; font-size: 12px; fill: #374151; }
+      .body-mono { font-family: "SF Mono", Monaco, monospace; font-size: 12px; fill: #1f2937; }
+      .note { font-family: -apple-system, sans-serif; font-size: 11px; fill: #6b7280; font-style: italic; }
+      .strike { font-family: -apple-system, sans-serif; font-size: 12px; fill: #9ca3af; text-decoration: line-through; }
+      .badge { font-family: -apple-system, sans-serif; font-size: 11px; font-weight: 600; fill: #ffffff; }
+      .layer-title { font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #111827; }
+      .layer-note { font-family: -apple-system, sans-serif; font-size: 12px; fill: #6b7280; font-style: italic; }
+      .os-label { font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; fill: #4b5563; letter-spacing: 0.5px; }
+      .path { font-family: "SF Mono", Monaco, monospace; font-size: 13px; fill: #1f2937; }
+      .path-faded { font-family: "SF Mono", Monaco, monospace; font-size: 13px; fill: #6b7280; }
+      .annot { font-family: -apple-system, sans-serif; font-size: 11px; fill: #6b7280; }
+      .footer-title { font-family: -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #111827; }
+      .footer-text { font-family: -apple-system, sans-serif; font-size: 12px; fill: #374151; }
+    </style></defs>
+  <rect width="1200" height="700" fill="#ffffff"/>
+  <text x="60" y="44" class="title">Current 文档分层</text>
+  <text x="60" y="66" class="subtitle">三层不交叠, 边界清晰 — 过程留 stream, 产品/用户文档留 code project, 方法上沉到 team harbor</text>
+  <line x1="60" y1="92" x2="1140" y2="92" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="60" y="120" width="350" height="510" rx="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <rect x="60" y="120" width="350" height="40" rx="8" fill="#d97706"/>
+  <rect x="60" y="150" width="350" height="10" fill="#d97706"/>
+  <text x="75" y="146" class="h2" fill="#ffffff">协作 stream</text>
+  <text x="75" y="182" class="h3">过程文档 — 协作产物</text>
+  <text x="75" y="202" class="note">位置: vault stream / GitLab stream repo</text>
+  <line x1="75" y1="216" x2="395" y2="216" stroke="#9ca3af" stroke-dasharray="3,2" stroke-width="1"/>
+  <text x="75" y="238" class="h3">为什么这样选 (设计思考过程)</text>
+  <text x="75" y="265" class="body">• 设计决策对照记</text>
+  <text x="75" y="287" class="body">• 整体设计修订 SPEC (本文)</text>
+  <text x="75" y="309" class="body">• tests/&lt;NN&gt;-... 测试方案 + 反馈</text>
+  <text x="75" y="331" class="body">• open-questions/</text>
+  <text x="75" y="353" class="body">• design/ (探索草稿)</text>
+  <line x1="75" y1="580" x2="395" y2="580" stroke="#9ca3af" stroke-dasharray="3,2" stroke-width="1"/>
+  <text x="75" y="602" class="note">规则: 内部使用, 不对外发布</text>
+  <rect x="425" y="120" width="350" height="510" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <rect x="425" y="120" width="350" height="40" rx="8" fill="#2563eb"/>
+  <rect x="425" y="150" width="350" height="10" fill="#2563eb"/>
+  <text x="440" y="146" class="h2" fill="#ffffff">code project</text>
+  <text x="440" y="182" class="h3">产品本身 + 用户/开发者文档</text>
+  <text x="440" y="202" class="note">位置: 独立 GitLab repo (在 team group namespace)</text>
+  <line x1="440" y1="216" x2="760" y2="216" stroke="#9ca3af" stroke-dasharray="3,2" stroke-width="1"/>
+  <text x="440" y="238" class="h3">产品自带文档 — 跟代码一起发布</text>
+  <text x="440" y="265" class="body">【用户向】docs/user/ 或根目录:</text>
+  <text x="440" y="287" class="body">  install.sh / user-manual.md</text>
+  <text x="440" y="309" class="body">  philosophy.md / ai-onboarding.md</text>
+  <text x="440" y="331" class="body">【开发者向】docs/dev/ 或独立文件:</text>
+  <text x="440" y="353" class="body">  ARCHITECTURE.md / CONTRIBUTING.md</text>
+  <text x="440" y="375" class="body">  test-plan.md / API reference</text>
+  <line x1="440" y1="580" x2="760" y2="580" stroke="#9ca3af" stroke-dasharray="3,2" stroke-width="1"/>
+  <text x="440" y="602" class="note">规则: 默认公开, 入口不混 (README 用户向)</text>
+  <rect x="790" y="120" width="350" height="510" rx="8" fill="#dcfce7" stroke="#059669" stroke-width="2"/>
+  <rect x="790" y="120" width="350" height="40" rx="8" fill="#059669"/>
+  <rect x="790" y="150" width="350" height="10" fill="#059669"/>
+  <text x="805" y="146" class="h2" fill="#ffffff">team harbor</text>
+  <text x="805" y="182" class="h3">组织能力 — 跨项目可复用</text>
+  <text x="805" y="202" class="note">位置: team context/ (在 team harbor repo)</text>
+  <line x1="805" y1="216" x2="1125" y2="216" stroke="#9ca3af" stroke-dasharray="3,2" stroke-width="1"/>
+  <text x="805" y="238" class="h3">怎么造产品的方法 (不是产品本身)</text>
+  <text x="805" y="265" class="body">• lessons/ — 经验/教训</text>
+  <text x="805" y="287" class="body">• workflows/ — 方法论/工作流</text>
+  <text x="805" y="309" class="body">• standards/ — 规范/标准</text>
+  <text x="805" y="331" class="body"></text>
+  <text x="805" y="353" class="body">(workflows / standards 按需建)</text>
+  <line x1="805" y1="580" x2="1125" y2="580" stroke="#9ca3af" stroke-dasharray="3,2" stroke-width="1"/>
+  <text x="805" y="602" class="note">规则: 团队成员都读 — 共享知识资产</text>
+  <line x1="60" y1="650" x2="1140" y2="650" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="60" y="672" class="note">✗ 砍掉 team &lt;team&gt;/products/ — 产品不属于组织能力层; 要看团队有哪些产品 → 通过 GitLab group/namespace 浏览</text>
+</svg>
