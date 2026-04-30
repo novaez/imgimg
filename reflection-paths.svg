@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 720" font-family="PingFang SC, Hiragino Sans GB, Helvetica Neue, Arial, sans-serif">
+  <defs>
+    <marker id="arr-green" markerWidth="11" markerHeight="8" refX="10" refY="4" orient="auto">
+      <polygon points="0 0, 11 4, 0 8" fill="#059669"/>
+    </marker>
+    <marker id="arr-gray" markerWidth="11" markerHeight="8" refX="10" refY="4" orient="auto">
+      <polygon points="0 0, 11 4, 0 8" fill="#6b7280"/>
+    </marker>
+  </defs>
+  <rect width="1400" height="720" fill="#ffffff"/>
+  <text x="700" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">反思路径 · 双向流动</text>
+  <text x="700" y="58" text-anchor="middle" font-size="12" fill="#64748b">明线 (事 → 人 抽象, 上图所示) + 暗线 (人 → 事 决策, 下方示意)</text>
+  <text x="40" y="100" font-size="14" font-weight="bold" fill="#059669">Path 1 · 个人项目维度</text>
+  <text x="200" y="100" font-size="11" fill="#64748b" font-style="italic">事 → 人, 提取"我对这事的精华理解"</text>
+  <rect x="30" y="120" width="220" height="80" rx="8" fill="#f0fdf4" stroke="#059669" stroke-width="2"/>
+  <text x="140" y="150" text-anchor="middle" font-size="14" font-weight="bold" fill="#14532d">Stream</text>
+  <text x="140" y="170" text-anchor="middle" font-size="11" fill="#475569">协作现场</text>
+  <text x="140" y="188" text-anchor="middle" font-size="9" fill="#94a3b8" font-style="italic">起点 (反思源)</text>
+  <rect x="310" y="120" width="220" height="80" rx="8" fill="#f0f9ff" stroke="#0284c7" stroke-width="2"/>
+  <text x="420" y="148" text-anchor="middle" font-size="13" font-weight="bold" fill="#0c4a6e">30 Projects/[项目]/</text>
+  <text x="420" y="168" text-anchor="middle" font-size="11" fill="#475569">事内反思</text>
+  <text x="420" y="186" text-anchor="middle" font-size="9" fill="#94a3b8" font-style="italic">"我对这事的 thinking"</text>
+  <rect x="590" y="120" width="220" height="80" rx="8" fill="#f0f9ff" stroke="#0284c7" stroke-width="2"/>
+  <text x="700" y="150" text-anchor="middle" font-size="14" font-weight="bold" fill="#0c4a6e">Garden 🌱</text>
+  <text x="700" y="170" text-anchor="middle" font-size="11" fill="#475569">跨事洞察</text>
+  <text x="700" y="188" text-anchor="middle" font-size="9" fill="#94a3b8" font-style="italic">跨项目可复用框架</text>
+  <rect x="870" y="120" width="220" height="80" rx="8" fill="#f0f9ff" stroke="#0284c7" stroke-width="2"/>
+  <text x="980" y="150" text-anchor="middle" font-size="14" font-weight="bold" fill="#0c4a6e">my-lessons</text>
+  <text x="980" y="170" text-anchor="middle" font-size="11" fill="#475569">四段反思 (关于人)</text>
+  <text x="980" y="188" text-anchor="middle" font-size="9" fill="#94a3b8" font-style="italic">在 Me ⚓ 桥下</text>
+  <rect x="1150" y="120" width="220" height="80" rx="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="1260" y="150" text-anchor="middle" font-size="14" font-weight="bold" fill="#78350f">Me ⚓ 锚点</text>
+  <text x="1260" y="170" text-anchor="middle" font-size="11" fill="#475569">使命/身份/信念/能力</text>
+  <text x="1260" y="188" text-anchor="middle" font-size="9" fill="#94a3b8" font-style="italic">完整的我</text>
+  <line x1="250" y1="160" x2="308" y2="160" stroke="#059669" stroke-width="2.5" marker-end="url(#arr-green)"/>
+  <rect x="262" y="144" width="36" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="280" y="155" text-anchor="middle" font-size="10" fill="#059669">事内反思</text>
+  <line x1="530" y1="160" x2="588" y2="160" stroke="#059669" stroke-width="2.5" marker-end="url(#arr-green)"/>
+  <rect x="542" y="144" width="36" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="560" y="155" text-anchor="middle" font-size="10" fill="#059669">跨事抽象</text>
+  <line x1="810" y1="160" x2="868" y2="160" stroke="#059669" stroke-width="2.5" marker-end="url(#arr-green)"/>
+  <rect x="826" y="144" width="29" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="840" y="155" text-anchor="middle" font-size="10" fill="#059669">关于人</text>
+  <line x1="1090" y1="160" x2="1148" y2="160" stroke="#059669" stroke-width="2.5" marker-end="url(#arr-green)"/>
+  <rect x="1102" y="144" width="36" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="1120" y="155" text-anchor="middle" font-size="10" fill="#059669">更新锚点</text>
+  <text x="40" y="270" font-size="14" font-weight="bold" fill="#059669">Path 2 · 团队维度</text>
+  <text x="200" y="270" font-size="11" fill="#64748b" font-style="italic">事 → 人, 提取"我作为团队成员学到的精华"</text>
+  <rect x="30" y="290" width="220" height="80" rx="8" fill="#f0fdf4" stroke="#059669" stroke-width="2"/>
+  <text x="140" y="320" text-anchor="middle" font-size="14" font-weight="bold" fill="#14532d">Stream</text>
+  <text x="140" y="340" text-anchor="middle" font-size="11" fill="#475569">协作现场</text>
+  <text x="140" y="358" text-anchor="middle" font-size="9" fill="#94a3b8" font-style="italic">起点 (同上)</text>
+  <rect x="450" y="290" width="220" height="80" rx="8" fill="#f0fdf4" stroke="#059669" stroke-width="2"/>
+  <text x="560" y="318" text-anchor="middle" font-size="14" font-weight="bold" fill="#14532d">Harbor</text>
+  <text x="560" y="338" text-anchor="middle" font-size="11" fill="#475569">团队精华</text>
+  <text x="560" y="356" text-anchor="middle" font-size="9" fill="#94a3b8" font-style="italic">lessons/workflows/standards</text>
+  <rect x="870" y="290" width="220" height="80" rx="8" fill="#f0f9ff" stroke="#0284c7" stroke-width="2"/>
+  <text x="980" y="320" text-anchor="middle" font-size="14" font-weight="bold" fill="#0c4a6e">my-lessons</text>
+  <text x="980" y="340" text-anchor="middle" font-size="11" fill="#475569">四段反思 (关于人)</text>
+  <text x="980" y="358" text-anchor="middle" font-size="9" fill="#94a3b8" font-style="italic">同上 (共享)</text>
+  <rect x="1150" y="290" width="220" height="80" rx="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="1260" y="320" text-anchor="middle" font-size="14" font-weight="bold" fill="#78350f">Me ⚓ 锚点</text>
+  <text x="1260" y="340" text-anchor="middle" font-size="11" fill="#475569">使命/身份/信念/能力</text>
+  <text x="1260" y="358" text-anchor="middle" font-size="9" fill="#94a3b8" font-style="italic">完整的我 (同上)</text>
+  <line x1="250" y1="330" x2="448" y2="330" stroke="#059669" stroke-width="2.5" marker-end="url(#arr-green)"/>
+  <rect x="325" y="314" width="50" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="350" y="325" text-anchor="middle" font-size="10" fill="#059669">团队精华抽象</text>
+  <line x1="670" y1="330" x2="868" y2="330" stroke="#059669" stroke-width="2.5" marker-end="url(#arr-green)"/>
+  <rect x="742" y="314" width="57" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="770" y="325" text-anchor="middle" font-size="10" fill="#059669">我作为团队成员</text>
+  <line x1="1090" y1="330" x2="1148" y2="330" stroke="#059669" stroke-width="2.5" marker-end="url(#arr-green)"/>
+  <rect x="1102" y="314" width="36" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="1120" y="325" text-anchor="middle" font-size="10" fill="#059669">更新锚点</text>
+  <path d="M 980 200 L 980 290" stroke="#94a3b8" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+  <rect x="940" y="237" width="80" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="980" y="248" text-anchor="middle" font-size="9" font-style="italic" fill="#64748b">两路汇于此</text>
+  <line x1="40" y1="430" x2="1360" y2="430" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="40" y="460" font-size="14" font-weight="bold" fill="#6b7280">暗线 · 人 → 事 决策流</text>
+  <text x="220" y="460" font-size="11" fill="#64748b" font-style="italic">认知层流动 · 不显示在文件/链接 · 系统的动力源</text>
+  <rect x="1150" y="490" width="220" height="70" rx="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="1260" y="518" text-anchor="middle" font-size="13" font-weight="bold" fill="#78350f">Me ⚓ 锚点</text>
+  <text x="1260" y="540" text-anchor="middle" font-size="10" fill="#64748b">使命/价值观/能力</text>
+  <rect x="660" y="490" width="220" height="70" rx="8" fill="#f0f9ff" stroke="#0284c7" stroke-width="2"/>
+  <text x="770" y="518" text-anchor="middle" font-size="13" font-weight="bold" fill="#0c4a6e">30 Projects</text>
+  <text x="770" y="540" text-anchor="middle" font-size="10" fill="#64748b">设计判断</text>
+  <rect x="30" y="490" width="220" height="70" rx="8" fill="#f0fdf4" stroke="#059669" stroke-width="2"/>
+  <text x="140" y="518" text-anchor="middle" font-size="13" font-weight="bold" fill="#14532d">Stream</text>
+  <text x="140" y="540" text-anchor="middle" font-size="10" fill="#64748b">协作选择</text>
+  <line x1="1150" y1="525" x2="882" y2="525" stroke="#6b7280" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#arr-gray)"/>
+  <rect x="970" y="509" width="80" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="1010" y="520" text-anchor="middle" font-size="10" fill="#6b7280">指导设计</text>
+  <line x1="660" y1="525" x2="252" y2="525" stroke="#6b7280" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#arr-gray)"/>
+  <rect x="395" y="509" width="80" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="435" y="520" text-anchor="middle" font-size="10" fill="#6b7280">指导协作</text>
+  <rect x="40" y="600" width="1320" height="100" rx="6" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="60" y="624" font-size="12" font-weight="bold" fill="#374151">关键设计点</text>
+  <text x="60" y="646" font-size="11" fill="#475569">· Stream 不需要"自己的"反思沉淀地——它是反思的<tspan font-weight="bold">起点</tspan>, 反思要流出去 (到 vault project / harbor / me)</text>
+  <text x="60" y="664" font-size="11" fill="#475569">· Path 2 cast 已 partial 实现 ("二次创作"原则); Path 1 缺——需 odyssey skill (待设计) 引导 stream → vault project 回流</text>
+  <text x="60" y="682" font-size="11" fill="#475569">· 暗线不需要工具支持 (是认知过程); 任何 architecture 决策回到"这服务于人做事吗"</text>
+</svg>
