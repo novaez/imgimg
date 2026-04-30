@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 920" font-family="PingFang SC, Hiragino Sans GB, Helvetica Neue, Arial, sans-serif">
+  <defs>
+    <marker id="arr-blue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2563eb"/>
+    </marker>
+    <marker id="arr-green" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#059669"/>
+    </marker>
+    <marker id="arr-purple" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#7c3aed"/>
+    </marker>
+    <marker id="arr-gray" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
+    </marker>
+    <marker id="arr-orange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#ea580c"/>
+    </marker>
+    <marker id="arr-teal" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#0d9488"/>
+    </marker>
+  </defs>
+  <rect width="1400" height="920" fill="#ffffff"/>
+  <text x="700" y="35" text-anchor="middle" font-size="22" font-weight="bold" fill="#0f172a">Odyssey 全景架构</text>
+  <text x="700" y="58" text-anchor="middle" font-size="13" fill="#64748b">Obsidian × Me 桥 × Current × Code 四层协作</text>
+  <rect x="40" y="80" width="420" height="740" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.7"/>
+  <text x="250" y="108" text-anchor="middle" font-size="16" font-weight="bold" fill="#0c4a6e">Obsidian (跟人走 · 跨终身)</text>
+  <rect x="480" y="80" width="80" height="740" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.7"/>
+  <text x="520" y="108" text-anchor="middle" font-size="14" font-weight="bold" fill="#78350f">Me 桥</text>
+  <rect x="580" y="80" width="420" height="740" rx="12" fill="#f0fdf4" stroke="#059669" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.7"/>
+  <text x="790" y="108" text-anchor="middle" font-size="16" font-weight="bold" fill="#14532d">Current (公司 · 团队协作)</text>
+  <rect x="1020" y="80" width="340" height="740" rx="12" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.7"/>
+  <text x="1190" y="108" text-anchor="middle" font-size="16" font-weight="bold" fill="#7f1d1d">Code (实施 · 给用户)</text>
+  <text x="250" y="135" text-anchor="middle" font-size="11" font-style="italic" fill="#64748b">人 cluster (关于"我")</text>
+  <rect x="180" y="148" width="140" height="48" rx="6" fill="#ffffff" stroke="#0284c7" stroke-width="2"/>
+  <text x="250" y="170" text-anchor="middle" font-size="14" font-weight="bold" fill="#0c4a6e">Me ⚓</text>
+  <text x="250" y="186" text-anchor="middle" font-size="10" fill="#64748b">锚点</text>
+  <rect x="180" y="214" width="140" height="48" rx="6" fill="#ffffff" stroke="#0284c7" stroke-width="1.5"/>
+  <text x="250" y="236" text-anchor="middle" font-size="14" font-weight="bold" fill="#0c4a6e">Garden 🌱</text>
+  <text x="250" y="252" text-anchor="middle" font-size="10" fill="#64748b">跨事洞察</text>
+  <rect x="180" y="280" width="140" height="48" rx="6" fill="#ffffff" stroke="#0284c7" stroke-width="1.5"/>
+  <text x="250" y="302" text-anchor="middle" font-size="14" font-weight="bold" fill="#0c4a6e">Journal 📓</text>
+  <text x="250" y="318" text-anchor="middle" font-size="10" fill="#64748b">日常碎片</text>
+  <path d="M 130 304 L 130 172" stroke="#7c3aed" stroke-width="1.5" fill="none" marker-end="url(#arr-purple)"/>
+  <rect x="100" y="231" width="40" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="120" y="242" text-anchor="middle" font-size="10" fill="#7c3aed">抽象</text>
+  <text x="250" y="358" text-anchor="middle" font-size="11" font-style="italic" fill="#64748b">事 cluster (关于"事")</text>
+  <rect x="60" y="372" width="120" height="48" rx="6" fill="#ffffff" stroke="#0284c7" stroke-width="1.5"/>
+  <text x="120" y="394" text-anchor="middle" font-size="13" font-weight="bold" fill="#0c4a6e">Inbox 📥</text>
+  <text x="120" y="410" text-anchor="middle" font-size="10" fill="#64748b">外部原料</text>
+  <rect x="200" y="372" width="120" height="48" rx="6" fill="#ffffff" stroke="#0284c7" stroke-width="1.5"/>
+  <text x="260" y="394" text-anchor="middle" font-size="13" font-weight="bold" fill="#0c4a6e">Wiki 📖</text>
+  <text x="260" y="410" text-anchor="middle" font-size="10" fill="#64748b">事的知识</text>
+  <path d="M 180 396 L 200 396" stroke="#ea580c" stroke-width="1.5" fill="none" marker-end="url(#arr-orange)"/>
+  <rect x="172" y="378" width="40" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="192" y="389" text-anchor="middle" font-size="10" fill="#ea580c">/compile</text>
+  <path d="M 260 372 L 260 262" stroke="#7c3aed" stroke-width="1.5" fill="none" marker-end="url(#arr-purple)"/>
+  <rect x="265" y="310" width="40" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="285" y="321" text-anchor="middle" font-size="10" fill="#7c3aed">吸收</text>
+  <path d="M 320 396 C 360 396, 380 430, 400 442" stroke="#0d9488" stroke-width="1.5" fill="none" marker-end="url(#arr-teal)"/>
+  <path d="M 320 238 C 410 238, 415 442, 392 442" stroke="#0d9488" stroke-width="1.5" fill="none" marker-end="url(#arr-teal)"/>
+  <path d="M 320 304 C 430 304, 425 444, 405 444" stroke="#0d9488" stroke-width="1.5" fill="none" marker-end="url(#arr-teal)"/>
+  <rect x="383" y="368" width="68" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="417" y="379" text-anchor="middle" font-size="10" font-weight="bold" fill="#0d9488">支持创作</text>
+  <rect x="60" y="445" width="380" height="345" rx="8" fill="#ffffff" stroke="#0284c7" stroke-width="2"/>
+  <text x="250" y="468" text-anchor="middle" font-size="14" font-weight="bold" fill="#0c4a6e">30 Projects 🎯 / 31 Areas 🔄</text>
+  <text x="250" y="484" text-anchor="middle" font-size="10" fill="#64748b">事的创作 (个人设计室)</text>
+  <rect x="80" y="500" width="340" height="100" rx="6" fill="#fafafa" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3,2"/>
+  <text x="98" y="520" font-size="12" font-weight="bold" fill="#475569">"我"层  (默认)</text>
+  <text x="98" y="538" font-size="10" fill="#64748b">trace / daily / 圆桌 / 思考随笔</text>
+  <text x="98" y="554" font-size="10" fill="#64748b">— 给"未来的我"看</text>
+  <text x="98" y="578" font-size="9" font-style="italic" fill="#94a3b8">不预先标记；publish 动作把</text>
+  <text x="98" y="591" font-size="9" font-style="italic" fill="#94a3b8">某篇升为"我们"层</text>
+  <rect x="80" y="615" width="340" height="160" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text x="98" y="635" font-size="12" font-weight="bold" fill="#1e3a8a">"我们"层 (canonical)</text>
+  <text x="98" y="653" font-size="10" fill="#1e40af">设计纲领 / 决策对照 / 命名根源</text>
+  <text x="98" y="669" font-size="10" fill="#1e40af">架构 spec / 哲学</text>
+  <text x="98" y="687" font-size="10" fill="#475569">— 团队需要的精华</text>
+  <text x="98" y="711" font-size="9" font-style="italic" fill="#64748b">canonical 持续活</text>
+  <text x="98" y="725" font-size="9" font-style="italic" fill="#64748b">每次版本演化 publish</text>
+  <text x="98" y="739" font-size="9" font-style="italic" fill="#64748b">一份带日期 snapshot 到 stream</text>
+  <text x="98" y="753" font-size="9" font-style="italic" fill="#64748b">(不是 sync)</text>
+  <text x="520" y="180" text-anchor="middle" font-size="11" fill="#78350f">cast 触角</text>
+  <text x="520" y="200" text-anchor="middle" font-size="9" fill="#92400e">物理 me_dir</text>
+  <text x="520" y="214" text-anchor="middle" font-size="9" fill="#92400e">在 vault 内</text>
+  <text x="520" y="540" text-anchor="middle" font-size="9" fill="#92400e" font-style="italic">从工作里的</text>
+  <text x="520" y="554" text-anchor="middle" font-size="9" fill="#92400e" font-style="italic">我 → 完整的我</text>
+  <rect x="620" y="148" width="340" height="80" rx="6" fill="#ffffff" stroke="#059669" stroke-width="2"/>
+  <text x="790" y="172" text-anchor="middle" font-size="14" font-weight="bold" fill="#14532d">Harbor (团队 harbor)</text>
+  <text x="790" y="190" text-anchor="middle" font-size="10" fill="#475569">team.md / context/</text>
+  <text x="790" y="208" text-anchor="middle" font-size="10" fill="#64748b">lessons / workflows / standards</text>
+  <rect x="620" y="280" width="340" height="510" rx="6" fill="#ffffff" stroke="#059669" stroke-width="2"/>
+  <text x="790" y="304" text-anchor="middle" font-size="14" font-weight="bold" fill="#14532d">Stream (项目协作)</text>
+  <text x="790" y="320" text-anchor="middle" font-size="10" fill="#64748b">— 协作现场 + 设计文档家</text>
+  <rect x="640" y="340" width="300" height="38" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="660" y="357" font-size="11" font-weight="bold" fill="#14532d">brief.md</text>
+  <text x="660" y="372" font-size="10" fill="#64748b">cast 自动建</text>
+  <rect x="640" y="387" width="300" height="38" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="660" y="404" font-size="11" font-weight="bold" fill="#14532d">INDEX.md</text>
+  <text x="660" y="419" font-size="10" fill="#64748b">决策事件</text>
+  <rect x="640" y="434" width="300" height="38" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="660" y="451" font-size="11" font-weight="bold" fill="#14532d">design/</text>
+  <text x="660" y="466" font-size="10" fill="#64748b">vault publish snapshots</text>
+  <rect x="640" y="481" width="300" height="38" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="660" y="498" font-size="11" font-weight="bold" fill="#14532d">specs/</text>
+  <text x="660" y="513" font-size="10" fill="#64748b">技术规格 / RFC</text>
+  <rect x="640" y="528" width="300" height="38" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="660" y="545" font-size="11" font-weight="bold" fill="#14532d">tests/</text>
+  <text x="660" y="560" font-size="10" fill="#64748b">测试文档</text>
+  <rect x="640" y="575" width="300" height="38" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="660" y="592" font-size="11" font-weight="bold" fill="#14532d">feedback/</text>
+  <text x="660" y="607" font-size="10" fill="#64748b">跨人传内容</text>
+  <rect x="640" y="622" width="300" height="38" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="660" y="639" font-size="11" font-weight="bold" fill="#14532d">discussions/</text>
+  <text x="660" y="654" font-size="10" fill="#64748b">议题 / open Qs</text>
+  <rect x="640" y="669" width="300" height="38" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="660" y="686" font-size="11" font-weight="bold" fill="#14532d">reflections/</text>
+  <text x="660" y="701" font-size="10" fill="#64748b">反思入口 artifact</text>
+  <rect x="640" y="716" width="300" height="38" rx="4" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+  <text x="660" y="733" font-size="11" font-weight="bold" fill="#14532d">retro.md</text>
+  <text x="660" y="748" font-size="10" fill="#64748b">stream end 自动</text>
+  <rect x="1060" y="280" width="260" height="80" rx="6" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+  <text x="1190" y="304" text-anchor="middle" font-size="14" font-weight="bold" fill="#7f1d1d">代码</text>
+  <text x="1190" y="324" text-anchor="middle" font-size="10" fill="#64748b">~/aiws/current-system</text>
+  <text x="1190" y="342" text-anchor="middle" font-size="10" fill="#64748b">~/aiws/cast</text>
+  <rect x="1060" y="385" width="260" height="120" rx="6" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+  <text x="1190" y="409" text-anchor="middle" font-size="14" font-weight="bold" fill="#7f1d1d">用户文档</text>
+  <text x="1190" y="429" text-anchor="middle" font-size="10" fill="#64748b">user-manual.md</text>
+  <text x="1190" y="445" text-anchor="middle" font-size="10" fill="#64748b">create-pat.md</text>
+  <text x="1190" y="461" text-anchor="middle" font-size="10" fill="#64748b">plugin-upgrade.md</text>
+  <text x="1190" y="477" text-anchor="middle" font-size="10" fill="#64748b">invite-flow.md</text>
+  <text x="1190" y="493" text-anchor="middle" font-size="10" font-style="italic" fill="#94a3b8">(给最终用户)</text>
+  <text x="1190" y="540" text-anchor="middle" font-size="11" font-weight="bold" fill="#7f1d1d">不进 code:</text>
+  <text x="1190" y="558" text-anchor="middle" font-size="10" fill="#64748b">设计文档 / 测试 / RFC</text>
+  <text x="1190" y="574" text-anchor="middle" font-size="10" fill="#64748b">— 留 stream</text>
+  <path d="M 320 172 Q 470 172 480 188 L 580 188" stroke="#6b7280" stroke-width="2" fill="none" stroke-dasharray="6,4" marker-end="url(#arr-gray)"/>
+  <rect x="385" y="148" width="100" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="435" y="159" text-anchor="middle" font-size="10" fill="#6b7280">cast 加载 me</text>
+  <path d="M 420 695 L 540 695 L 540 433 L 640 433" stroke="#2563eb" stroke-width="2.5" fill="none" marker-end="url(#arr-blue)"/>
+  <rect x="464" y="555" width="120" height="16" fill="#ffffff" opacity="0.95"/>
+  <text x="524" y="567" text-anchor="middle" font-size="11" font-weight="bold" fill="#2563eb">publish snapshot</text>
+  <path d="M 940 433 L 1000 433 L 1000 425 L 1060 425" stroke="#2563eb" stroke-width="2.5" fill="none" marker-end="url(#arr-blue)"/>
+  <rect x="1000" y="408" width="60" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="1030" y="419" text-anchor="middle" font-size="10" font-weight="bold" fill="#2563eb">publish</text>
+  <path d="M 640 770 Q 540 830 460 800 L 440 770" stroke="#059669" stroke-width="2.5" fill="none" marker-end="url(#arr-green)"/>
+  <rect x="475" y="813" width="130" height="16" fill="#ffffff" opacity="0.95"/>
+  <text x="540" y="825" text-anchor="middle" font-size="11" font-weight="bold" fill="#059669">反思 (Path 1+2)</text>
+  <path d="M 790 280 L 790 230" stroke="#059669" stroke-width="1.5" fill="none" marker-end="url(#arr-green)"/>
+  <rect x="800" y="248" width="60" height="14" fill="#ffffff" opacity="0.95"/>
+  <text x="830" y="259" text-anchor="middle" font-size="10" fill="#059669">Path 2</text>
+  <rect x="40" y="845" width="1320" height="60" rx="6" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="60" y="867" font-size="12" font-weight="bold" fill="#374151">图例:</text>
+  <line x1="130" y1="863" x2="160" y2="863" stroke="#2563eb" stroke-width="2"/>
+  <text x="168" y="867" font-size="11" fill="#374151">publish (rewrite snapshot)</text>
+  <line x1="380" y1="863" x2="410" y2="863" stroke="#059669" stroke-width="2"/>
+  <text x="418" y="867" font-size="11" fill="#374151">反思回流 (事 → 人)</text>
+  <line x1="580" y1="863" x2="610" y2="863" stroke="#6b7280" stroke-width="2" stroke-dasharray="6,4"/>
+  <text x="618" y="867" font-size="11" fill="#374151">cast 加载 (暗线)</text>
+  <line x1="800" y1="863" x2="830" y2="863" stroke="#7c3aed" stroke-width="2"/>
+  <text x="838" y="867" font-size="11" fill="#374151">数据吸收 / 抽象</text>
+  <line x1="970" y1="863" x2="1000" y2="863" stroke="#0d9488" stroke-width="2"/>
+  <text x="1008" y="867" font-size="11" fill="#374151">支持创作 (人 → 事)</text>
+  <line x1="1180" y1="863" x2="1210" y2="863" stroke="#ea580c" stroke-width="2"/>
+  <text x="1218" y="867" font-size="11" fill="#374151">编译 / 触发</text>
+  <text x="60" y="895" font-size="10" font-style="italic" fill="#64748b">明线 (上图所示): 事 → 人 反思 + 跨区域 publish + 人 cluster 支持事的创作.   暗线 (不显示): 人 → 事 决策流——系统的动力源.</text>
+</svg>
