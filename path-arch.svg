@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1140" width="1200" height="1140">
+  <defs>    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 22px; font-weight: 700; fill: #111827; }
+      .subtitle { font-family: -apple-system, sans-serif; font-size: 13px; fill: #6b7280; }
+      .h1 { font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 700; fill: #111827; }
+      .h2 { font-family: -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #111827; }
+      .h3 { font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; fill: #374151; }
+      .body { font-family: -apple-system, sans-serif; font-size: 12px; fill: #374151; }
+      .body-mono { font-family: "SF Mono", Monaco, monospace; font-size: 12px; fill: #1f2937; }
+      .note { font-family: -apple-system, sans-serif; font-size: 11px; fill: #6b7280; font-style: italic; }
+      .strike { font-family: -apple-system, sans-serif; font-size: 12px; fill: #9ca3af; text-decoration: line-through; }
+      .badge { font-family: -apple-system, sans-serif; font-size: 11px; font-weight: 600; fill: #ffffff; }
+      .layer-title { font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #111827; }
+      .layer-note { font-family: -apple-system, sans-serif; font-size: 12px; fill: #6b7280; font-style: italic; }
+      .os-label { font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; fill: #4b5563; letter-spacing: 0.5px; }
+      .path { font-family: "SF Mono", Monaco, monospace; font-size: 13px; fill: #1f2937; }
+      .path-faded { font-family: "SF Mono", Monaco, monospace; font-size: 13px; fill: #6b7280; }
+      .annot { font-family: -apple-system, sans-serif; font-size: 11px; fill: #6b7280; }
+      .footer-title { font-family: -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #111827; }
+      .footer-text { font-family: -apple-system, sans-serif; font-size: 12px; fill: #374151; }
+    </style></defs>
+  <rect width="1200" height="1140" fill="#ffffff"/>
+  <text x="60" y="44" class="title">Current 整体路径架构</text>
+  <text x="60" y="66" class="subtitle">三层路径 × 跨平台等价(macOS/Linux ↔ Windows) — 2026-04-30 SPEC</text>
+  <line x1="60" y1="92" x2="1140" y2="92" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="120" y="116" class="os-label">macOS / Linux</text>
+  <text x="660" y="116" class="os-label">Windows</text>
+  <rect x="60" y="140" width="1080" height="130" rx="8" fill="#fafafa" stroke="#d1d5db" stroke-width="1.2" stroke-dasharray="6,4"/>
+  <text x="80" y="164" class="layer-title" fill="#6b7280">Skills 安装层</text>
+  <text x="80" y="184" class="layer-note">Claude Code 管理(不归 Current 管,跨平台 Claude Code 自己处理)</text>
+  <rect x="100" y="198" width="500" height="56" rx="4" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="120" y="222" class="path-faded">~/.claude/plugins/cache/...</text>
+  <text x="120" y="242" class="annot">cast / 其他 plugin 都装在这(含 thinking-partner 等)</text>
+  <rect x="640" y="198" width="480" height="56" rx="4" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="660" y="222" class="path-faded">%USERPROFILE%\.claude\plugins\cache\...</text>
+  <text x="660" y="242" class="annot">同左(dotfile in home,跨平台一致)</text>
+  <rect x="60" y="294" width="1080" height="240" rx="8" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+  <text x="80" y="318" class="layer-title">Current 工具 state 层</text>
+  <text x="80" y="338" class="layer-note">cast 自己用 — Unix-style dotfile in home(跨平台一致)</text>
+  <rect x="100" y="352" width="500" height="166" rx="4" fill="#ffffff" stroke="#bfdbfe"/>
+  <text x="120" y="376" class="path">~/.current/</text>
+  <text x="120" y="398" class="path">├── config.json       — 配置(前 ~/Current/.config/cast.config.json)</text>
+  <text x="120" y="420" class="path">├── token              — PAT</text>
+  <text x="120" y="442" class="path">├── teams.json         — 用户参与的团队列表(前 my-teams.md)</text>
+  <text x="120" y="464" class="path">├── cache/             — last-token-check / last-plugin-check 等</text>
+  <text x="120" y="486" class="path">└── state/             — onboard-intent.json 等一次性状态</text>
+  <rect x="640" y="352" width="480" height="166" rx="4" fill="#ffffff" stroke="#bfdbfe"/>
+  <text x="660" y="376" class="path">%USERPROFILE%\.current\</text>
+  <text x="660" y="398" class="path">├── config.json</text>
+  <text x="660" y="420" class="path">├── token</text>
+  <text x="660" y="442" class="path">├── teams.json</text>
+  <text x="660" y="464" class="path">├── cache\</text>
+  <text x="660" y="486" class="path">└── state\</text>
+  <rect x="60" y="558" width="1080" height="410" rx="8" fill="#f0fdf4" stroke="#059669" stroke-width="1.8"/>
+  <text x="80" y="582" class="layer-title">Current 用户数据层(default)</text>
+  <text x="80" y="602" class="layer-note">笔记、协作产物 — first-run 引导可改任意位置(数据盘、外置盘、云盘、vault 子目录...)</text>
+  <rect x="100" y="616" width="500" height="334" rx="4" fill="#ffffff" stroke="#bbf7d0"/>
+  <text x="120" y="640" class="path">~/Documents/Current/</text>
+  <text x="120" y="656" class="path">├── profile/                  — 个人工作镜像(3 类)</text>
+  <text x="120" y="672" class="path">│   ├── how-i-work.md         — 元规则(首屏加载)</text>
+  <text x="120" y="688" class="path">│   ├── people/&lt;name&gt;.md      — 对人的看法(按需)</text>
+  <text x="120" y="704" class="path">│   └── subjects/&lt;topic&gt;.md   — 对事的看法(按需)</text>
+  <text x="120" y="720" class="path">│</text>
+  <text x="120" y="736" class="path">├── teams/&lt;slug&gt;/             — 团队 harbor</text>
+  <text x="120" y="752" class="path">│   ├── team.md               — 成员表(首屏加载)</text>
+  <text x="120" y="768" class="path">│   ├── mission.md            — 团队使命(按需)</text>
+  <text x="120" y="784" class="path">│   ├── values.md             — 团队价值观(按需)</text>
+  <text x="120" y="800" class="path">│   ├── how-we-work/          — 工作方式(按需)</text>
+  <text x="120" y="816" class="path">│   ├── lessons/              — 经验沉淀(按需)</text>
+  <text x="120" y="832" class="path">│   ├── workflows/            — 方法论(按需建)</text>
+  <text x="120" y="848" class="path">│   └── standards/            — 规范标准(按需建)</text>
+  <text x="120" y="864" class="path">│</text>
+  <text x="120" y="880" class="path">└── streams/&lt;slug&gt;/           — 项目协作过程</text>
+  <text x="120" y="896" class="path">    ├── brief.md              — 项目入口</text>
+  <text x="120" y="912" class="path">    ├── INDEX.md              — 关键决策汇总</text>
+  <text x="120" y="928" class="path">    └── retro.md 等           — AI 按场景生成</text>
+  <rect x="640" y="616" width="480" height="334" rx="4" fill="#ffffff" stroke="#bbf7d0"/>
+  <text x="660" y="640" class="path">%USERPROFILE%\Documents\Current\</text>
+  <text x="660" y="656" class="path">├── profile\</text>
+  <text x="660" y="672" class="path">│   ├── how-i-work.md</text>
+  <text x="660" y="688" class="path">│   ├── people\</text>
+  <text x="660" y="704" class="path">│   └── subjects\</text>
+  <text x="660" y="720" class="path">│</text>
+  <text x="660" y="736" class="path">├── teams\&lt;slug&gt;\</text>
+  <text x="660" y="752" class="path">│   ├── team.md</text>
+  <text x="660" y="768" class="path">│   ├── mission.md</text>
+  <text x="660" y="784" class="path">│   ├── values.md</text>
+  <text x="660" y="800" class="path">│   ├── how-we-work\</text>
+  <text x="660" y="816" class="path">│   ├── lessons\</text>
+  <text x="660" y="832" class="path">│   ├── workflows\</text>
+  <text x="660" y="848" class="path">│   └── standards\</text>
+  <text x="660" y="864" class="path">│</text>
+  <text x="660" y="880" class="path">└── streams\&lt;slug&gt;\</text>
+  <text x="660" y="896" class="path">    ├── brief.md</text>
+  <text x="660" y="912" class="path">    ├── INDEX.md</text>
+  <text x="660" y="928" class="path">    └── retro.md</text>
+  <line x1="60" y1="986" x2="1140" y2="986" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="60" y="1006" class="footer-title">解耦关系</text>
+  <text x="60" y="1028" class="footer-text">• vault 完整 me (Obsidian 00 Me ⚓/) 跟 Current profile/ 解耦:用户可选择性 link(不是 mount/identity 关系)</text>
+  <text x="60" y="1048" class="footer-text">• ahoy webapp 跟 cast: 数据层共享(同一个 ~/Documents/Current/) + state 层独立(ahoy 自己的 ~/.ahoy/)</text>
+</svg>
