@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" width="960" height="720">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif; }
+    .title { font-size: 22px; font-weight: 600; fill: #111827; }
+    .subtitle { font-size: 13px; fill: #6b7280; }
+    .type-label { font-size: 11px; fill: #9ca3af; font-weight: 500; letter-spacing: 0.08em; }
+    .node-label { font-size: 14px; font-weight: 500; fill: #111827; }
+    .node-sub { font-size: 12px; fill: #6b7280; }
+    .arrow-label { font-size: 12px; fill: #374151; }
+    .arrow-label-bg { fill: #ffffff; }
+  </style>
+  <defs>
+    <marker id="arrow-blue" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0,0 8,3 0,6" fill="#3b82f6"/>
+    </marker>
+  </defs>
+  <rect width="960" height="720" fill="#ffffff"/>
+  <text x="480" y="48" text-anchor="middle" class="title">Current ≠ AI</text>
+  <text x="480" y="74" text-anchor="middle" class="subtitle">Current 不是另一个 AI, 是给 AI 加一层 "团队协作能力"</text>
+  <rect x="380" y="106" width="200" height="44" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="480" y="134" text-anchor="middle" class="node-label">用户跟谁说话?</text>
+  <line x1="480" y1="160" x2="480" y2="194" stroke="#3b82f6" stroke-width="1.5" marker-end="url(#arrow-blue)"/>
+  <rect x="60" y="206" width="840" height="180" rx="4" fill="none" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4,3"/>
+  <rect x="80" y="196" width="100" height="22" rx="3" fill="#ffffff"/>
+  <text x="92" y="212" class="type-label">AI AGENT</text>
+  <text x="80" y="244" class="node-sub">这才是 "AI"——听你说话、写东西、回答你的, 都是它</text>
+  <rect x="100" y="270" width="170" height="78" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="185" y="305" text-anchor="middle" class="node-label">Claude Code</text>
+  <text x="185" y="328" text-anchor="middle" class="node-sub">AI Agent</text>
+  <rect x="305" y="270" width="170" height="78" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="390" y="305" text-anchor="middle" class="node-label">Codex</text>
+  <text x="390" y="328" text-anchor="middle" class="node-sub">AI Agent</text>
+  <rect x="510" y="270" width="170" height="78" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="595" y="305" text-anchor="middle" class="node-label">Gemini</text>
+  <text x="595" y="328" text-anchor="middle" class="node-sub">AI Agent</text>
+  <rect x="715" y="270" width="170" height="78" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="800" y="305" text-anchor="middle" class="node-label">Copilot</text>
+  <text x="800" y="328" text-anchor="middle" class="node-sub">AI Agent</text>
+  <line x1="480" y1="392" x2="480" y2="468" stroke="#3b82f6" stroke-width="1.5" marker-end="url(#arrow-blue)"/>
+  <rect x="298" y="416" width="364" height="22" class="arrow-label-bg"/>
+  <text x="480" y="432" text-anchor="middle" class="arrow-label">装了 Current → 在 AI 之上加一层 "团队协作能力"</text>
+  <rect x="60" y="478" width="840" height="216" rx="4" fill="none" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4,3"/>
+  <rect x="80" y="468" width="240" height="22" rx="3" fill="#ffffff"/>
+  <text x="92" y="484" class="type-label">CURRENT (AI 的扩展层, 不是 AI)</text>
+  <text x="80" y="516" class="node-sub">不另起一个 AI, 而是让你现有的 AI 学会跟团队协作</text>
+  <rect x="100" y="540" width="220" height="130" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="210" y="578" text-anchor="middle" class="node-label">cast (skill)</text>
+  <text x="210" y="616" text-anchor="middle" class="node-sub">让 AI 知道</text>
+  <text x="210" y="636" text-anchor="middle" class="node-sub">协作信号怎么处理</text>
+  <rect x="380" y="540" width="220" height="130" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="490" y="578" text-anchor="middle" class="node-label">me / harbor / stream</text>
+  <text x="490" y="616" text-anchor="middle" class="node-sub">让 AI 知道</text>
+  <text x="490" y="636" text-anchor="middle" class="node-sub">协作信息写到哪</text>
+  <rect x="660" y="540" width="220" height="130" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="770" y="578" text-anchor="middle" class="node-label">团队 GitLab repo</text>
+  <text x="770" y="616" text-anchor="middle" class="node-sub">团队成员的 AI</text>
+  <text x="770" y="636" text-anchor="middle" class="node-sub">能共享读到</text>
+</svg>
