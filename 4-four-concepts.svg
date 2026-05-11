@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" width="960" height="480">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif; }
+    .title { font-size: 22px; font-weight: 600; fill: #111827; }
+    .subtitle { font-size: 13px; fill: #6b7280; }
+    .col-header { font-size: 11px; font-weight: 500; fill: #9ca3af; letter-spacing: 0.08em; }
+    .col-header-strong { font-size: 14px; font-weight: 600; fill: #111827; }
+    .row-label { font-size: 13px; font-weight: 500; fill: #374151; }
+    .cell-text { font-size: 13px; fill: #111827; }
+    .cell-muted { font-size: 13px; fill: #9ca3af; }
+    .footer-note { font-size: 13px; fill: #6b7280; }
+    .emphasis-quote { font-size: 18px; font-weight: 600; fill: #111827; }
+  </style>
+  <style>
+    .term-name { font-size: 18px; font-weight: 700; fill: #111827; }
+  </style>
+  <rect width="960" height="480" fill="#ffffff"/>
+  <text x="480" y="48" text-anchor="middle" class="title">4 个核心概念</text>
+  <text x="480" y="72" text-anchor="middle" class="subtitle">用最普通的话讲 · 跟普通用户介绍时按场景一个个引出</text>
+  <rect x="40" y="100" width="160" height="44" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="120" y="128" text-anchor="middle" class="col-header">术语</text>
+  <rect x="210" y="100" width="380" height="44" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="400" y="128" text-anchor="middle" class="col-header">用最普通的话</text>
+  <rect x="600" y="100" width="320" height="44" rx="4" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="760" y="128" text-anchor="middle" class="col-header">类比</text>
+  <rect x="40" y="156" width="160" height="70" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="120" y="197" text-anchor="middle" class="term-name">Current</text>
+  <rect x="210" y="156" width="380" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="230" y="184" class="cell-text">整套系统的名字. 让一群 AI 助手</text>
+  <text x="230" y="206" class="cell-muted">能记住团队、互通有无的总和</text>
+  <rect x="600" y="156" width="320" height="70" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="620" y="184" class="cell-text">"团队协作的那套机制"</text>
+  <rect x="40" y="232" width="160" height="70" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="120" y="273" text-anchor="middle" class="term-name">harbor</text>
+  <rect x="210" y="232" width="380" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="230" y="260" class="cell-text">团队的 "港湾"——团队的共同空间,</text>
+  <text x="230" y="282" class="cell-muted">装团队是谁、价值观、能力、上下文</text>
+  <rect x="600" y="232" width="320" height="70" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="620" y="260" class="cell-text">"团队的共享笔记本"</text>
+  <rect x="40" y="308" width="160" height="70" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="120" y="349" text-anchor="middle" class="term-name">stream</text>
+  <rect x="210" y="308" width="380" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="230" y="336" class="cell-text">"一起做的事"——一条具体协作的流,</text>
+  <text x="230" y="358" class="cell-muted">一个项目, 一个议题</text>
+  <rect x="600" y="308" width="320" height="70" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="620" y="336" class="cell-text">一个项目的协作记录</text>
+  <rect x="40" y="384" width="160" height="70" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="120" y="425" text-anchor="middle" class="term-name">cast</text>
+  <rect x="210" y="384" width="380" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="230" y="412" class="cell-text">把想法 "投" 进流里的小帮手</text>
+  <text x="230" y="434" class="cell-muted">(当前是个 AI skill, 在背后干活)</text>
+  <rect x="600" y="384" width="320" height="70" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="620" y="412" class="cell-text">"自动整理放进去的那只手"</text>
+</svg>
