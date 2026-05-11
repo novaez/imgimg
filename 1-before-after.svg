@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif; }
+    .title { font-size: 22px; font-weight: 600; fill: #111827; }
+    .subtitle { font-size: 13px; fill: #6b7280; }
+    .col-header { font-size: 11px; font-weight: 500; fill: #9ca3af; letter-spacing: 0.08em; }
+    .col-header-strong { font-size: 14px; font-weight: 600; fill: #111827; }
+    .row-label { font-size: 13px; font-weight: 500; fill: #374151; }
+    .cell-text { font-size: 13px; fill: #111827; }
+    .cell-muted { font-size: 13px; fill: #9ca3af; }
+    .footer-note { font-size: 13px; fill: #6b7280; }
+    .emphasis-quote { font-size: 18px; font-weight: 600; fill: #111827; }
+  </style>
+  <rect width="960" height="640" fill="#ffffff"/>
+  <text x="480" y="48" text-anchor="middle" class="title">装 Current 之前 vs 装 Current 之后</text>
+  <text x="480" y="72" text-anchor="middle" class="subtitle">最普通用户视角 · 5 个日常场景的对照</text>
+  <rect x="40" y="100" width="140" height="44" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="110" y="128" text-anchor="middle" class="col-header">维度</text>
+  <rect x="200" y="100" width="350" height="44" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="375" y="128" text-anchor="middle" class="col-header-strong">装 Current 之前</text>
+  <rect x="570" y="100" width="350" height="44" rx="4" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="745" y="128" text-anchor="middle" class="col-header-strong">装 Current 之后</text>
+  <rect x="40" y="156" width="140" height="70" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="110" y="196" text-anchor="middle" class="row-label">跟 AI 聊事</text>
+  <rect x="200" y="156" width="350" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="220" y="184" class="cell-text">AI 临时帮我做事</text>
+  <text x="220" y="206" class="cell-muted">做完关掉, 没了</text>
+  <rect x="570" y="156" width="350" height="70" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="590" y="184" class="cell-text">AI 还是临时帮我</text>
+  <text x="590" y="206" class="cell-muted">但聊的关键事被记下来</text>
+  <rect x="40" y="232" width="140" height="70" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="110" y="272" text-anchor="middle" class="row-label">AI 知道我是谁?</text>
+  <rect x="200" y="232" width="350" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="220" y="260" class="cell-text">不知道</text>
+  <text x="220" y="282" class="cell-muted">每次重新解释身份</text>
+  <rect x="570" y="232" width="350" height="70" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="590" y="260" class="cell-text">知道</text>
+  <text x="590" y="282" class="cell-muted">读得到 "我是谁、团队干嘛"</text>
+  <rect x="40" y="308" width="140" height="70" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="110" y="348" text-anchor="middle" class="row-label">跟团队同步</text>
+  <rect x="200" y="308" width="350" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="220" y="336" class="cell-text">主动开会 / IM / 邮件</text>
+  <text x="220" y="358" class="cell-muted">常忘 / 漏 / 不完整</text>
+  <rect x="570" y="308" width="350" height="70" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="590" y="336" class="cell-text">AI 聊到决策时</text>
+  <text x="590" y="358" class="cell-muted">团队的 AI 自动接住</text>
+  <rect x="40" y="384" width="140" height="70" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="110" y="424" text-anchor="middle" class="row-label">新人入职</text>
+  <rect x="200" y="384" width="350" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="220" y="412" class="cell-text">leader 一对一开讲</text>
+  <text x="220" y="434" class="cell-muted">讲完 Y 时已忘了 X</text>
+  <rect x="570" y="384" width="350" height="70" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="590" y="412" class="cell-text">leader 不用反复讲</text>
+  <text x="590" y="434" class="cell-muted">新人的 AI 自己讲</text>
+  <rect x="40" y="460" width="140" height="70" rx="4" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="110" y="500" text-anchor="middle" class="row-label">换台电脑 / 换 AI</text>
+  <rect x="200" y="460" width="350" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="220" y="488" class="cell-text">AI 又 "白板" 了</text>
+  <text x="220" y="510" class="cell-muted">重头来</text>
+  <rect x="570" y="460" width="350" height="70" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="590" y="488" class="cell-text">团队记忆在 GitLab</text>
+  <text x="590" y="510" class="cell-muted">新 AI 装 Current 立刻接上</text>
+  <text x="480" y="574" text-anchor="middle" class="emphasis-quote">"AI 突然变成了 '我们团队的 AI'"</text>
+  <text x="480" y="596" text-anchor="middle" class="subtitle">不再是 "我一个人的 AI"</text>
+</svg>
