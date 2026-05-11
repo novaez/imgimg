@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif; }
+    .title { font-size: 22px; font-weight: 600; fill: #111827; }
+    .subtitle { font-size: 13px; fill: #6b7280; }
+    .col-header { font-size: 11px; font-weight: 500; fill: #9ca3af; letter-spacing: 0.08em; }
+    .col-header-strong { font-size: 14px; font-weight: 600; fill: #111827; }
+    .row-label { font-size: 13px; font-weight: 500; fill: #374151; }
+    .cell-text { font-size: 13px; fill: #111827; }
+    .cell-muted { font-size: 13px; fill: #9ca3af; }
+    .footer-note { font-size: 13px; fill: #6b7280; }
+    .emphasis-quote { font-size: 18px; font-weight: 600; fill: #111827; }
+  </style>
+  <rect width="960" height="600" fill="#ffffff"/>
+  <text x="480" y="48" text-anchor="middle" class="title">想给用户的三件事</text>
+  <text x="480" y="72" text-anchor="middle" class="subtitle">Vision 的三段式 · 跨 scope 体现</text>
+  <rect x="40" y="96" width="110" height="48" rx="4" fill="#ffffff" stroke="none"/>
+  <rect x="160" y="96" width="240" height="48" rx="4" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="280" y="118" text-anchor="middle" class="col-header-strong">想清楚</text>
+  <text x="280" y="136" text-anchor="middle" class="subtitle">内省 / 对自己</text>
+  <rect x="415" y="96" width="240" height="48" rx="4" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="535" y="118" text-anchor="middle" class="col-header-strong">讲明白</text>
+  <text x="535" y="136" text-anchor="middle" class="subtitle">输出 / 对他人</text>
+  <rect x="670" y="96" width="240" height="48" rx="4" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="790" y="118" text-anchor="middle" class="col-header-strong">理解清楚</text>
+  <text x="790" y="136" text-anchor="middle" class="subtitle">接收 / 被他人懂</text>
+  <rect x="40" y="156" width="110" height="110" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="95" y="216" text-anchor="middle" class="row-label">跟自己</text>
+  <rect x="160" y="156" width="240" height="110" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="180" y="186" class="cell-text">me / profile 让</text>
+  <text x="180" y="206" class="cell-text">AI 真懂 "你是谁"</text>
+  <rect x="415" y="156" width="240" height="110" rx="4" fill="#fafafa" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="535" y="219" text-anchor="middle" class="cell-muted">—</text>
+  <rect x="670" y="156" width="240" height="110" rx="4" fill="#fafafa" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="790" y="219" text-anchor="middle" class="cell-muted">—</text>
+  <rect x="40" y="274" width="110" height="110" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="95" y="334" text-anchor="middle" class="row-label">跟当下团队</text>
+  <rect x="160" y="274" width="240" height="110" rx="4" fill="#fafafa" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="280" y="337" text-anchor="middle" class="cell-muted">—</text>
+  <rect x="415" y="274" width="240" height="110" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="435" y="304" class="cell-text">决策 / 反思</text>
+  <text x="435" y="324" class="cell-text">自动沉淀到团队</text>
+  <text x="435" y="344" class="cell-text">能看到的地方</text>
+  <rect x="670" y="274" width="240" height="110" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="690" y="304" class="cell-text">团队成员看相关</text>
+  <text x="690" y="324" class="cell-text">项目时能读到</text>
+  <text x="690" y="344" class="cell-text">上下文</text>
+  <rect x="40" y="392" width="110" height="110" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="95" y="452" text-anchor="middle" class="row-label">跨时间</text>
+  <rect x="160" y="392" width="240" height="110" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="180" y="422" class="cell-text">fresh session</text>
+  <text x="180" y="442" class="cell-text">接续上次状态</text>
+  <text x="180" y="462" class="cell-text">(不用复述)</text>
+  <rect x="415" y="392" width="240" height="110" rx="4" fill="#fafafa" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="535" y="455" text-anchor="middle" class="cell-muted">—</text>
+  <rect x="670" y="392" width="240" height="110" rx="4" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+  <text x="690" y="422" class="cell-text">新人 onboarding</text>
+  <text x="690" y="442" class="cell-text">AI 自动接住,</text>
+  <text x="690" y="462" class="cell-text">leader 不反复讲</text>
+  <text x="480" y="544" text-anchor="middle" class="footer-note">跨度: 跨 agent (Claude / Codex / Copilot) · 跨设备 (GitLab 同步)</text>
+</svg>
