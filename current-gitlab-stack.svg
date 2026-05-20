@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="currentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+    <linearGradient id="gitlabGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fc6d26"/>
+      <stop offset="100%" stop-color="#fca326"/>
+    </linearGradient>
+    <linearGradient id="oidcGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="dropshadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity="0.15"/>
+    </filter>
+    <marker id="downArrow" markerWidth="12" markerHeight="10" refX="6" refY="10" orient="auto">
+      <path d="M 0,0 L 12,0 L 6,10 z" fill="#475569"/>
+    </marker>
+    <style>text { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; }</style>
+  </defs>
+  <rect width="1200" height="800" fill="#f8f6f3"/>
+  <text x="600" y="48" text-anchor="middle" font-size="26" font-weight="700" fill="#0f172a">Current 跟 GitLab 的关系 · 分层架构</text>
+  <text x="600" y="76" text-anchor="middle" font-size="13" fill="#64748b" font-style="italic">Current 是建立在 GitLab 上的 Context Infrastructure</text>
+  <text x="120" y="125" font-size="13" font-weight="600" fill="#475569">产品论根源:</text>
+  <rect x="240" y="105" width="200" height="35" rx="6" ry="6" fill="#ecfeff" stroke="#06b6d4" stroke-width="1.5"/>
+  <text x="340" y="128" text-anchor="middle" font-size="13" font-weight="600" fill="#0e7490">Bohm 深度汇谈意象</text>
+  <rect x="460" y="105" width="200" height="35" rx="6" ry="6" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <text x="560" y="128" text-anchor="middle" font-size="13" font-weight="600" fill="#b45309">Slack 用户主权哲学</text>
+  <text x="680" y="128" font-size="13" fill="#94a3b8">+ Senge 第五项修炼</text>
+  <line x1="600" y1="145" x2="600" y2="170" stroke="#475569" stroke-width="2" marker-end="url(#downArrow)"/>
+  <rect x="60" y="180" width="1080" height="180" rx="14" ry="14" fill="#ecfdf5" stroke="url(#currentGrad)" stroke-width="3" filter="url(#dropshadow)"/>
+  <text x="100" y="215" font-size="22" font-weight="700" fill="#065f46">Current 2.6</text>
+  <text x="100" y="237" font-size="13" fill="#047857" font-style="italic">Context Infrastructure · 团队协作系统</text>
+  <text x="100" y="270" font-size="13" font-weight="600" fill="#0f766e">元语层 (3 个):</text>
+  <rect x="240" y="255" width="120" height="35" rx="6" ry="6" fill="#fff" stroke="#0f766e" stroke-width="2"/>
+  <text x="300" y="278" text-anchor="middle" font-size="13" font-weight="600" fill="#0f766e">profile</text>
+  <rect x="380" y="255" width="120" height="35" rx="6" ry="6" fill="#fff" stroke="#0f766e" stroke-width="2"/>
+  <text x="440" y="278" text-anchor="middle" font-size="13" font-weight="600" fill="#0f766e">harbor</text>
+  <rect x="520" y="255" width="120" height="35" rx="6" ry="6" fill="#fff" stroke="#0f766e" stroke-width="2"/>
+  <text x="580" y="278" text-anchor="middle" font-size="13" font-weight="600" fill="#0f766e">stream</text>
+  <text x="100" y="320" font-size="13" font-weight="600" fill="#0f766e">cast 应用层补充:</text>
+  <rect x="240" y="305" width="280" height="35" rx="6" ry="6" fill="#fff" stroke="#0f766e" stroke-width="2"/>
+  <text x="380" y="328" text-anchor="middle" font-size="12" font-weight="600" fill="#0f766e">Notification Level (订阅偏好)</text>
+  <rect x="540" y="305" width="220" height="35" rx="6" ry="6" fill="#fff" stroke="#0f766e" stroke-width="2"/>
+  <text x="650" y="328" text-anchor="middle" font-size="12" font-weight="600" fill="#0f766e">identity.md (Lookup)</text>
+  <rect x="780" y="305" width="180" height="35" rx="6" ry="6" fill="#fff" stroke="#0f766e" stroke-width="2"/>
+  <text x="870" y="328" text-anchor="middle" font-size="12" font-weight="600" fill="#0f766e">default_watches</text>
+  <line x1="600" y1="370" x2="600" y2="410" stroke="#475569" stroke-width="2.5" marker-end="url(#downArrow)"/>
+  <rect x="640" y="378" width="200" height="22" rx="11" ry="11" fill="#fff" stroke="#475569" stroke-width="1.5"/>
+  <text x="740" y="394" text-anchor="middle" font-size="12" font-weight="600" fill="#475569">借力 (复用 + topic 区分)</text>
+  <rect x="60" y="420" width="1080" height="200" rx="14" ry="14" fill="#fff7ed" stroke="url(#gitlabGrad)" stroke-width="3" filter="url(#dropshadow)"/>
+  <text x="100" y="455" font-size="22" font-weight="700" fill="#9a3412">GitLab CE</text>
+  <text x="100" y="477" font-size="13" fill="#c2410c" font-style="italic">代码协作平台 · 存储 + 元语层</text>
+  <text x="100" y="510" font-size="13" font-weight="600" fill="#c2410c">元语 (6 个):</text>
+  <rect x="220" y="495" width="100" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="270" y="518" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">User</text>
+  <rect x="335" y="495" width="100" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="385" y="518" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">Group</text>
+  <rect x="450" y="495" width="100" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="500" y="518" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">Project</text>
+  <rect x="565" y="495" width="100" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="615" y="518" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">Topic</text>
+  <rect x="680" y="495" width="130" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="745" y="518" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">Membership</text>
+  <rect x="825" y="495" width="130" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="890" y="518" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">Group Share</text>
+  <text x="100" y="565" font-size="13" font-weight="600" fill="#c2410c">服务能力:</text>
+  <rect x="220" y="550" width="120" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="280" y="573" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">Webhooks</text>
+  <rect x="355" y="550" width="160" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="435" y="573" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">Request Access</text>
+  <rect x="530" y="550" width="160" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="610" y="573" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">Protected Branch</text>
+  <rect x="705" y="550" width="160" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="785" y="573" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">Git push/pull</text>
+  <rect x="880" y="550" width="160" height="35" rx="6" ry="6" fill="#fff" stroke="#c2410c" stroke-width="1.5"/>
+  <text x="960" y="573" text-anchor="middle" font-size="12" font-weight="600" fill="#c2410c">REST API</text>
+  <line x1="600" y1="630" x2="600" y2="660" stroke="#475569" stroke-width="2.5" marker-end="url(#downArrow)"/>
+  <rect x="640" y="635" width="160" height="22" rx="11" ry="11" fill="#fff" stroke="#475569" stroke-width="1.5"/>
+  <text x="720" y="651" text-anchor="middle" font-size="12" font-weight="600" fill="#475569">身份源 (OIDC)</text>
+  <rect x="60" y="670" width="1080" height="100" rx="14" ry="14" fill="#f5f3ff" stroke="url(#oidcGrad)" stroke-width="3" filter="url(#dropshadow)"/>
+  <text x="100" y="705" font-size="22" font-weight="700" fill="#5b21b6">公司 OA / OIDC IDP</text>
+  <text x="100" y="727" font-size="13" fill="#7c3aed" font-style="italic">员工身份源 · 灌 GitLab identities[] (工号 + 真名)</text>
+  <rect x="600" y="690" width="170" height="32" rx="6" ry="6" fill="#fff" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="685" y="711" text-anchor="middle" font-size="12" font-weight="600" fill="#5b21b6">工号 (extern_uid)</text>
+  <rect x="785" y="690" width="170" height="32" rx="6" ry="6" fill="#fff" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="870" y="711" text-anchor="middle" font-size="12" font-weight="600" fill="#5b21b6">中文真名 (real_name)</text>
+  <rect x="600" y="730" width="355" height="32" rx="6" ry="6" fill="#fff" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="777" y="751" text-anchor="middle" font-size="12" font-weight="600" fill="#5b21b6">入职 / 离职 / 调岗 (admin batch PUT)</text>
+</svg>
