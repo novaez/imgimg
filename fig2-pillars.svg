@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">控制塔三支柱</title>
+  <desc id="desc">三根手绘支柱撑起无人盯防但不自欺的系统，小黑在柱间拧紧支撑结构。</desc>
+  <defs>
+    <style>
+      text { font-family: "PingFang SC", "Noto Sans CJK SC", sans-serif; letter-spacing: 0; fill: #111; }
+      .line { fill: none; stroke: #111; stroke-width: 3.2; stroke-linecap: round; stroke-linejoin: round; }
+      .thin { fill: none; stroke: #111; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      .orange { fill: none; stroke: #f28c28; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .blue { fill: #2f70b7; }
+      .red { fill: #d94835; }
+      .heading { font-size: 25px; font-weight: 700; }
+      .body { font-size: 19px; }
+      .beam { font-size: 30px; font-weight: 700; }
+      .note { font-size: 19px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="#fff"/>
+
+  <!-- top beam -->
+  <path class="line" d="M212 88 C329 72 899 72 1065 90 C1082 107 1080 151 1060 165 C883 177 381 174 215 163 C198 138 199 108 212 88 Z"/>
+  <path class="thin" opacity="0.35" d="M224 99 C424 87 842 88 1054 101"/>
+  <text x="640" y="133" text-anchor="middle" class="beam">一个没人盯着、也不对自己撒谎的系统</text>
+
+  <!-- pillar 1 -->
+  <g transform="translate(0 0)">
+    <path class="line" d="M147 210 C194 198 341 199 384 211 C397 282 397 507 381 580 C322 592 197 592 146 579 C132 500 131 287 147 210 Z"/>
+    <path class="thin" opacity="0.45" d="M164 226 C207 218 322 220 367 229"/>
+    <path class="orange" d="M175 268 C195 326 188 459 171 535"/>
+    <path class="orange" d="M355 270 C334 348 344 464 363 537"/>
+    <text x="176" y="258" class="heading">支柱一</text>
+    <text x="176" y="292" class="heading">确定性骨架</text>
+    <g class="body">
+      <text x="176" y="351">编排是 daemon</text>
+      <text x="176" y="379">不是 agent</text>
+      <text x="176" y="428">poll / claim / reconcile</text>
+      <text x="176" y="456">dispatch 写死</text>
+      <text x="176" y="512">控制塔上下文极薄</text>
+    </g>
+    <text x="184" y="612" transform="rotate(-4 184 612)" class="note blue">daemon loop</text>
+  </g>
+
+  <!-- pillar 2 -->
+  <g transform="translate(0 0)">
+    <path class="line" d="M470 211 C528 199 686 200 733 212 C746 292 744 508 727 580 C665 593 528 593 472 579 C455 506 455 287 470 211 Z"/>
+    <path class="thin" opacity="0.45" d="M486 226 C541 219 667 219 717 230"/>
+    <path class="orange" d="M497 271 C520 338 514 463 495 536"/>
+    <path class="orange" d="M704 271 C680 345 689 470 710 537"/>
+    <text x="502" y="258" class="heading">支柱二</text>
+    <text x="502" y="292" class="heading">判断区 fan-out</text>
+    <g class="body">
+      <text x="502" y="351">多 agent 只在</text>
+      <text x="502" y="379">worker craft</text>
+      <text x="502" y="407">+ 验证 run</text>
+      <text x="502" y="462">收敛回单一</text>
+      <text x="502" y="490">diff / verdict</text>
+    </g>
+    <text x="575" y="612" transform="rotate(3 575 612)" class="note blue">verdict</text>
+  </g>
+
+  <!-- pillar 3 -->
+  <g transform="translate(0 0)">
+    <path class="line" d="M803 211 C860 197 1015 199 1068 213 C1081 286 1079 508 1065 580 C998 593 862 592 804 579 C788 506 789 289 803 211 Z"/>
+    <path class="thin" opacity="0.45" d="M819 226 C884 217 1005 220 1051 230"/>
+    <path class="orange" d="M832 270 C856 346 849 462 830 535"/>
+    <path class="orange" d="M1038 272 C1012 347 1022 470 1044 538"/>
+    <text x="835" y="258" class="heading">支柱三</text>
+    <text x="835" y="292" class="heading">第二意见不可伪造</text>
+    <g class="body">
+      <text x="835" y="351">异构 vendor gate</text>
+      <text x="835" y="407">禁止同 vendor 自证</text>
+      <text x="835" y="462">0 self-cert 双门</text>
+    </g>
+    <path class="thin" d="M986 489 C1030 488 1053 508 1051 539 C1008 551 971 535 966 508 C970 498 976 492 986 489 Z"/>
+    <text x="914" y="612" transform="rotate(-5 914 612)" class="note red">0 self-cert</text>
+  </g>
+
+  <!-- xiaohei tightening the scaffold -->
+  <g>
+    <path class="thin" d="M268 575 C367 615 500 630 608 594"/>
+    <path class="thin" d="M608 594 C713 632 847 615 940 575"/>
+    <path class="orange" d="M265 575 C407 622 492 624 608 594 C730 626 838 622 943 575"/>
+    <path d="M588 508 C574 523 573 559 588 579 C603 599 642 596 656 577 C672 555 666 522 648 508 C630 495 602 493 588 508 Z" fill="#111"/>
+    <circle cx="610" cy="539" r="4.4" fill="#fff"/>
+    <circle cx="633" cy="538" r="4.4" fill="#fff"/>
+    <path class="thin" d="M592 555 C560 563 540 574 520 595"/>
+    <path class="thin" d="M652 553 C682 563 705 575 727 596"/>
+    <path class="thin" d="M604 584 C602 604 596 619 586 633"/>
+    <path class="thin" d="M636 583 C642 604 648 619 660 633"/>
+    <circle cx="609" cy="594" r="15" fill="none" stroke="#111" stroke-width="2"/>
+    <path class="thin" d="M594 594 L626 594"/>
+    <path class="thin" d="M610 579 L610 609"/>
+    <text x="480" y="672" transform="rotate(1 480 672)" class="note red">小黑只拧骨架，不替 worker 做判断</text>
+  </g>
+
+  <!-- loose base line -->
+  <path class="thin" opacity="0.5" d="M112 642 C302 627 498 645 669 636 C855 626 1005 644 1159 632"/>
+</svg>
