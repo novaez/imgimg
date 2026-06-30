@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">控制塔三层状态</title>
+  <desc id="desc">知识面、work-state、orchestrator claim 三层状态按权威归属分开，小黑在中层守住任务看板的唯一写入权。</desc>
+  <defs>
+    <style>
+      text { font-family: "PingFang SC", "Noto Sans CJK SC", sans-serif; letter-spacing: 0; fill: #111; }
+      .line { fill: none; stroke: #111; stroke-width: 3.1; stroke-linecap: round; stroke-linejoin: round; }
+      .thin { fill: none; stroke: #111; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      .orange { fill: none; stroke: #f28c28; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .red { fill: #d94835; }
+      .blue { fill: #2f70b7; }
+      .layer { font-size: 30px; font-weight: 700; }
+      .body { font-size: 23px; }
+      .small { font-size: 18px; }
+      .note { font-size: 21px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="#fff"/>
+
+  <!-- layer 1 -->
+  <g>
+    <path class="line" d="M119 109 C267 95 964 96 1128 112 C1144 142 1141 218 1124 239 C948 252 264 251 118 237 C102 202 103 139 119 109 Z"/>
+    <path class="thin" opacity="0.38" d="M139 127 C330 111 934 114 1105 128"/>
+    <text x="160" y="161" class="layer">知识面</text>
+    <text x="412" y="160" class="body">谁是权威：人</text>
+    <text x="724" y="160" class="body">住文档系统</text>
+    <path class="thin" d="M915 185 C954 174 1010 178 1039 196 C1012 215 951 216 915 202 Z"/>
+    <path class="thin" d="M927 200 C967 190 1006 193 1034 207"/>
+    <path class="thin" d="M930 216 C971 204 1012 207 1042 222"/>
+    <text x="230" y="217" transform="rotate(-2 230 217)" class="small blue">why / 设计 / 决策叙事</text>
+  </g>
+
+  <!-- layer 2 -->
+  <g>
+    <path class="line" d="M121 285 C300 270 956 271 1127 287 C1143 323 1143 394 1125 421 C945 435 299 435 121 419 C103 384 104 318 121 285 Z"/>
+    <path class="thin" opacity="0.38" d="M139 304 C350 287 918 290 1107 304"/>
+    <text x="160" y="339" class="layer">work-state</text>
+    <text x="412" y="338" class="body">谁是权威：任务看板</text>
+    <text x="724" y="338" class="body red">只有控制塔能写</text>
+    <text x="184" y="393" class="small blue">worker 只发结构化事件</text>
+
+    <!-- paper event and write gate -->
+    <path class="thin" d="M335 371 L415 348 L397 382 Z"/>
+    <path class="thin" d="M415 348 C448 351 480 356 514 368"/>
+    <path class="orange" d="M414 350 C471 349 512 358 553 377"/>
+    <path class="line" d="M560 332 C580 343 582 392 560 405"/>
+    <text x="542" y="322" transform="rotate(-6 542 322)" class="note red">单一写入者</text>
+
+    <!-- task board -->
+    <path class="thin" d="M870 353 C918 342 1011 346 1052 360 C1056 382 1054 403 1046 414 C992 422 916 419 872 410 C866 389 865 370 870 353 Z"/>
+    <path class="thin" d="M888 371 L1036 371"/>
+    <path class="thin" d="M891 391 L1031 391"/>
+    <path class="thin" d="M908 358 L908 411"/>
+    <path class="thin" d="M961 354 L961 416"/>
+    <path class="thin" d="M1008 356 L1008 415"/>
+  </g>
+
+  <!-- xiaohei as the control tower writer -->
+  <g>
+    <path d="M636 333 C622 348 621 383 636 402 C651 421 688 418 702 399 C716 380 710 348 693 334 C677 321 649 320 636 333 Z" fill="#111"/>
+    <circle cx="657" cy="363" r="4.2" fill="#fff"/>
+    <circle cx="681" cy="362" r="4.2" fill="#fff"/>
+    <path class="thin" d="M697 376 C730 372 760 366 794 352"/>
+    <path class="orange" d="M789 352 C824 343 848 346 875 360"/>
+    <path class="thin" d="M651 405 C648 423 641 437 631 449"/>
+    <path class="thin" d="M685 405 C693 423 701 436 713 449"/>
+    <path class="thin" d="M796 350 L814 342"/>
+    <path class="thin" d="M811 343 L818 357"/>
+    <text x="620" y="462" transform="rotate(3 620 462)" class="small blue">控制塔在这里落笔</text>
+  </g>
+
+  <!-- layer 3 -->
+  <g>
+    <path class="line" d="M121 468 C293 453 957 454 1128 470 C1144 507 1143 578 1124 604 C945 618 299 618 121 602 C103 566 104 501 121 468 Z"/>
+    <path class="thin" opacity="0.38" d="M141 487 C350 470 927 473 1106 488"/>
+    <text x="160" y="522" class="layer">orchestrator claim</text>
+    <text x="510" y="521" class="body">谁是权威：daemon runtime journal / WAL</text>
+    <text x="184" y="576" class="small blue">活跃 claim、lease、完成通道写进运行日志</text>
+
+    <!-- journal roll -->
+    <path class="thin" d="M883 541 C914 520 984 524 1016 548 C992 574 916 575 884 555 Z"/>
+    <path class="thin" d="M887 555 C926 545 977 547 1011 565"/>
+    <path class="thin" d="M922 529 C918 548 920 563 928 581"/>
+    <text x="963" y="592" transform="rotate(-5 963 592)" class="note red">WAL 兜底</text>
+  </g>
+
+  <!-- separation scratches and Major Tom note -->
+  <path class="thin" opacity="0.45" d="M170 261 C336 249 563 263 730 255 C881 248 995 260 1120 252"/>
+  <path class="thin" opacity="0.45" d="M166 445 C346 432 565 447 737 439 C887 432 1000 444 1125 436"/>
+  <text x="856" y="668" transform="rotate(-3 856 668)" class="note red">为了不丢 Major Tom</text>
+  <path class="orange" d="M850 676 C947 661 1054 662 1138 674"/>
+</svg>
