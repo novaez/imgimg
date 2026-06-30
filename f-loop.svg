@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 820">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Helvetica Neue',Arial,sans-serif}</style>
+<defs>
+<marker id="ac" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><polygon points="0 0, 9 4, 0 8" fill="#5a5a5a"/></marker>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#0000001a"/></filter>
+</defs>
+<rect width="1000" height="820" fill="#f8f6f3"/>
+<text x="500" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1a1a1a">控制塔的确定性循环</text>
+<text x="500" y="70" text-anchor="middle" font-size="14" fill="#5a5a5a">确定性骨架 + 判断区 fan-out</text>
+<rect x="60" y="120" width="620" height="540" rx="16" fill="none" stroke="#4a4a4a" stroke-width="2" stroke-dasharray="8,6"/>
+<text x="82" y="148" font-size="13" font-weight="700" fill="#5a5a5a">确定性骨架 · 机器拥有</text>
+<text x="82" y="166" font-size="12" fill="#5a5a5a">poll / claim / reconcile / dispatch 写死，无 agent 临场决策</text>
+<rect x="100" y="202" width="150" height="66" rx="12" fill="#f4e4c1" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="175" y="233" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a1a">① 读任务看板</text>
+<text x="175" y="253" text-anchor="middle" font-size="13" fill="#5a5a5a">discovery · poll</text>
+<rect x="295" y="202" width="150" height="66" rx="12" fill="#f4e4c1" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="370" y="233" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a1a">② 认领 claim</text>
+<text x="370" y="253" text-anchor="middle" font-size="13" fill="#5a5a5a">写 runtime journal / WAL</text>
+<rect x="490" y="202" width="150" height="66" rx="12" fill="#9dd4c7" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="565" y="233" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a1a">③ 派 worker</text>
+<text x="565" y="253" text-anchor="middle" font-size="13" fill="#5a5a5a">dispatch</text>
+<rect x="490" y="527" width="150" height="66" rx="12" fill="#f4e4c1" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="565" y="558" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a1a">④ 收完成事件</text>
+<text x="565" y="578" text-anchor="middle" font-size="13" fill="#5a5a5a">done-event</text>
+<rect x="295" y="527" width="150" height="66" rx="12" fill="#9dd4c7" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="370" y="558" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a1a">⑤ 验证 gate</text>
+<text x="370" y="578" text-anchor="middle" font-size="13" fill="#5a5a5a">异构 review + fresh-test</text>
+<rect x="100" y="527" width="150" height="66" rx="12" fill="#f4e4c1" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="175" y="558" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a1a">⑥ closeout 收口</text>
+<text x="175" y="578" text-anchor="middle" font-size="13" fill="#5a5a5a">更新看板</text>
+<line x1="251" y1="235" x2="289" y2="235" stroke="#5a5a5a" stroke-width="2.2" marker-end="url(#ac)"/>
+<line x1="446" y1="235" x2="489" y2="235" stroke="#5a5a5a" stroke-width="2.2" marker-end="url(#ac)"/>
+<line x1="565" y1="268" x2="565" y2="527" stroke="#5a5a5a" stroke-width="2.2" marker-end="url(#ac)"/>
+<line x1="489" y1="560" x2="451" y2="560" stroke="#5a5a5a" stroke-width="2.2" marker-end="url(#ac)"/>
+<line x1="294" y1="560" x2="251" y2="560" stroke="#5a5a5a" stroke-width="2.2" marker-end="url(#ac)"/>
+<line x1="175" y1="527" x2="175" y2="268" stroke="#5a5a5a" stroke-width="2.2" marker-end="url(#ac)"/>
+<rect x="727" y="176" width="250" height="118" rx="12" fill="#dcefe8" stroke="#4a4a4a" stroke-width="2.5" stroke-dasharray="6,4" filter="url(#sh)"/>
+<text x="852" y="233" text-anchor="middle" font-size="14" font-weight="600" fill="#1a1a1a">判断区 · worker craft</text>
+<text x="852" y="253" text-anchor="middle" font-size="13" fill="#5a5a5a">agent 判断只在 worker 内</text>
+<text x="852" y="271" text-anchor="middle" font-size="13" fill="#5a5a5a">广度大可 fan-out 成并行 sub-agent</text>
+<text x="852" y="289" text-anchor="middle" font-size="13" fill="#5a5a5a">→ 收敛回一份 diff + 一个 event</text>
+<line x1="640" y1="235" x2="725" y2="235" stroke="#5a5a5a" stroke-width="2.2" stroke-dasharray="6,4" marker-end="url(#ac)"/>
+<rect x="205" y="694" width="360" height="96" rx="12" fill="#dcefe8" stroke="#4a4a4a" stroke-width="2.5" stroke-dasharray="6,4" filter="url(#sh)"/>
+<text x="385" y="740" text-anchor="middle" font-size="14" font-weight="600" fill="#1a1a1a">判断区 · 验证 run</text>
+<text x="385" y="760" text-anchor="middle" font-size="13" fill="#5a5a5a">异构 vendor（验证者 ≠ 实现者）· 多 lens 可并行</text>
+<text x="385" y="778" text-anchor="middle" font-size="13" fill="#5a5a5a">→ 聚合成一个 verdict（同 vendor 不算第二意见）</text>
+<line x1="370" y1="593" x2="370" y2="696" stroke="#5a5a5a" stroke-width="2.2" stroke-dasharray="6,4" marker-end="url(#ac)"/>
+<rect x="708" y="417" width="260" height="116" rx="12" fill="#e8e6e3" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="838" y="473" text-anchor="middle" font-size="14" font-weight="600" fill="#1a1a1a">单一写入者</text>
+<text x="838" y="493" text-anchor="middle" font-size="13" fill="#5a5a5a">只有控制塔写任务看板</text>
+<text x="838" y="511" text-anchor="middle" font-size="13" fill="#5a5a5a">worker 只发 done-event、不碰看板</text>
+<text x="838" y="529" text-anchor="middle" font-size="13" fill="#5a5a5a">→ 状态不打架</text>
+</svg>
