@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 820">
+<style>text{font-family:'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif}</style>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><path d="M0,0 L10,3.5 L0,7 z" fill="#2563eb"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><path d="M0,0 L10,3.5 L0,7 z" fill="#ea580c"/></marker>
+</defs>
+<rect x="0" y="0" width="1000" height="820" fill="#ffffff"/>
+<text x="500" y="42" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">控制塔的确定性循环</text>
+<text x="500" y="68" text-anchor="middle" font-size="14" fill="#64748b">确定性骨架 + 判断区 fan-out</text>
+<rect x="60" y="120" width="620" height="540" rx="16" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="8,5"/>
+<text x="80" y="146" font-size="13" font-weight="700" fill="#475569">确定性骨架 · 机器拥有</text>
+<text x="80" y="164" font-size="11" fill="#64748b">poll / claim / reconcile / dispatch 写死，无 agent 临场决策</text>
+<rect x="100" y="203" width="150" height="64" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<text x="175" y="231" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">① 读任务看板</text>
+<text x="175" y="250" text-anchor="middle" font-size="11" fill="#475569">discovery · poll</text>
+<rect x="295" y="203" width="150" height="64" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<text x="370" y="231" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">② 认领 claim</text>
+<text x="370" y="250" text-anchor="middle" font-size="11" fill="#475569">写 runtime journal / WAL</text>
+<rect x="490" y="203" width="150" height="64" rx="10" fill="#fff7ed" stroke="#ea580c" stroke-width="2" stroke-dasharray="6,3"/>
+<text x="565" y="231" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">③ 派 worker</text>
+<text x="565" y="250" text-anchor="middle" font-size="11" fill="#475569">dispatch</text>
+<rect x="490" y="528" width="150" height="64" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<text x="565" y="556" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">④ 收完成事件</text>
+<text x="565" y="575" text-anchor="middle" font-size="11" fill="#475569">done-event</text>
+<rect x="295" y="528" width="150" height="64" rx="10" fill="#fff7ed" stroke="#ea580c" stroke-width="2" stroke-dasharray="6,3"/>
+<text x="370" y="556" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">⑤ 验证 gate</text>
+<text x="370" y="575" text-anchor="middle" font-size="11" fill="#475569">异构 review + fresh-test</text>
+<rect x="100" y="528" width="150" height="64" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+<text x="175" y="556" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">⑥ closeout 收口</text>
+<text x="175" y="575" text-anchor="middle" font-size="11" fill="#475569">更新看板</text>
+<line x1="250" y1="235" x2="288" y2="235" stroke="#2563eb" stroke-width="2.2" marker-end="url(#ab)"/>
+<line x1="445" y1="235" x2="488" y2="235" stroke="#2563eb" stroke-width="2.2" marker-end="url(#ab)"/>
+<line x1="565" y1="267" x2="565" y2="525" stroke="#2563eb" stroke-width="2.2" marker-end="url(#ab)"/>
+<line x1="488" y1="560" x2="452" y2="560" stroke="#2563eb" stroke-width="2.2" marker-end="url(#ab)"/>
+<line x1="295" y1="560" x2="252" y2="560" stroke="#2563eb" stroke-width="2.2" marker-end="url(#ab)"/>
+<line x1="175" y1="528" x2="175" y2="270" stroke="#2563eb" stroke-width="2.2" marker-end="url(#ab)"/>
+<rect x="730" y="175" width="245" height="120" rx="10" fill="#fff7ed" stroke="#ea580c" stroke-width="1.6" stroke-dasharray="6,3"/>
+<text x="742" y="200" font-size="13" font-weight="700" fill="#c2410c">判断区 · worker craft</text>
+<text x="742" y="223" font-size="11.5" fill="#7c2d12">agent 判断只发生在 worker 内</text>
+<text x="742" y="244" font-size="11.5" fill="#7c2d12">广度大可 fan-out 成并行 sub-agent</text>
+<text x="742" y="265" font-size="11.5" fill="#7c2d12">→ 收敛回一份 diff + 一个 event</text>
+<line x1="640" y1="235" x2="728" y2="235" stroke="#ea580c" stroke-width="1.8" stroke-dasharray="5,3" marker-end="url(#ao)"/>
+<rect x="200" y="700" width="370" height="100" rx="10" fill="#fff7ed" stroke="#ea580c" stroke-width="1.6" stroke-dasharray="6,3"/>
+<text x="216" y="726" font-size="13" font-weight="700" fill="#c2410c">判断区 · 验证 run</text>
+<text x="216" y="749" font-size="11.5" fill="#7c2d12">异构 vendor（验证者 ≠ 实现者）· 多 lens 可并行</text>
+<text x="216" y="770" font-size="11.5" fill="#7c2d12">→ 聚合成一个 verdict（同 vendor 不算第二意见）</text>
+<line x1="370" y1="592" x2="370" y2="698" stroke="#ea580c" stroke-width="1.8" stroke-dasharray="5,3" marker-end="url(#ao)"/>
+<rect x="700" y="500" width="275" height="95" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.6"/>
+<text x="714" y="525" font-size="13" font-weight="700" fill="#334155">单一写入者</text>
+<text x="714" y="547" font-size="11.5" fill="#475569">只有控制塔写任务看板</text>
+<text x="714" y="567" font-size="11.5" fill="#475569">worker 只发 done-event、不碰看板</text>
+<text x="714" y="585" font-size="11" fill="#94a3b8">→ 状态不打架</text>
+<rect x="60" y="700" width="120" height="22" rx="4" fill="#eff6ff" stroke="#2563eb" stroke-width="1.6"/>
+<text x="120" y="715" text-anchor="middle" font-size="11" fill="#1e40af">确定性 · 机器</text>
+<rect x="60" y="730" width="120" height="22" rx="4" fill="#fff7ed" stroke="#ea580c" stroke-width="1.6" stroke-dasharray="6,3"/>
+<text x="120" y="745" text-anchor="middle" font-size="11" fill="#c2410c">判断区 · agent</text>
+</svg>
