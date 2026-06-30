@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">控制流交给谁</title>
+  <desc id="desc">任务结构作为控制流，从中间分岔到 dynamic workflows 和控制塔两条路，小黑站在分岔口拉动选择杆。</desc>
+  <defs>
+    <style>
+      text { font-family: "PingFang SC", "Noto Sans CJK SC", sans-serif; letter-spacing: 0; fill: #111; }
+      .line { fill: none; stroke: #111; stroke-width: 3.2; stroke-linecap: round; stroke-linejoin: round; }
+      .thin { fill: none; stroke: #111; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      .orange { fill: none; stroke: #f28c28; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .red { fill: #d94835; }
+      .blue { fill: #2f70b7; }
+      .heading { font-size: 30px; font-weight: 700; }
+      .body { font-size: 22px; }
+      .small { font-size: 18px; }
+      .note { font-size: 20px; font-weight: 600; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="#fff"/>
+
+  <!-- root box -->
+  <path class="line" d="M278 62 C348 53 877 55 1005 66 C1018 82 1017 114 1002 129 C878 139 409 136 276 128 C262 109 262 79 278 62 Z"/>
+  <path class="thin" opacity="0.35" d="M286 68 C421 59 856 61 995 70"/>
+  <text x="640" y="105" text-anchor="middle" class="body" font-weight="700">任务结构 = 控制流（poll / 分派 / 验证 / 收口 / 循环）</text>
+
+  <!-- fork lines -->
+  <path class="orange" d="M640 136 C639 165 642 190 641 218"/>
+  <path class="orange" d="M640 218 C555 230 437 250 327 286"/>
+  <path class="orange" d="M640 218 C729 230 844 249 958 286"/>
+  <path class="thin" d="M637 138 C633 171 636 196 635 218"/>
+  <path class="thin" d="M637 221 C535 235 448 254 332 292"/>
+  <path class="thin" d="M644 221 C734 234 853 256 954 292"/>
+
+  <!-- xiaohei at the fork -->
+  <g transform="translate(0 0)">
+    <path d="M606 190 C594 205 593 239 605 257 C617 275 655 271 667 251 C678 232 671 199 655 188 C641 178 618 177 606 190 Z" fill="#111"/>
+    <circle cx="626" cy="219" r="4.2" fill="#fff"/>
+    <circle cx="648" cy="218" r="4.2" fill="#fff"/>
+    <path class="thin" d="M610 236 C575 234 552 229 526 220"/>
+    <path class="thin" d="M663 236 C696 233 724 230 755 220"/>
+    <path class="thin" d="M622 263 C618 280 614 292 607 306"/>
+    <path class="thin" d="M651 263 C655 281 661 293 671 305"/>
+    <path class="thin" d="M529 218 C529 207 536 200 547 198"/>
+    <path class="thin" d="M755 219 C761 209 772 205 783 209"/>
+    <text x="640" y="328" text-anchor="middle" class="note red">别让概率脑袋握方向盘</text>
+  </g>
+
+  <!-- left hand panel -->
+  <g transform="translate(0 0)">
+    <path class="line" d="M80 292 C143 279 485 282 555 296 C571 365 567 555 552 622 C462 638 155 637 77 622 C62 544 63 366 80 292 Z"/>
+    <path class="thin" opacity="0.45" d="M95 306 C196 298 446 299 539 310"/>
+    <text x="120" y="338" class="heading">dynamic workflows</text>
+    <path class="thin" d="M119 350 C218 343 309 344 395 352"/>
+
+    <g class="body">
+      <text x="124" y="392">让 model 现写一段 JS harness</text>
+      <text x="124" y="434">agent() / pipeline() / parallel()</text>
+      <text x="124" y="476">控制流 = model 写的、用完即散</text>
+      <text x="124" y="518">session 内 fan-out</text>
+      <text x="124" y="560">同 vendor sub-agent</text>
+    </g>
+
+    <path class="thin" d="M438 365 C471 359 507 368 521 396 C500 411 468 414 437 406 C433 390 433 376 438 365 Z"/>
+    <path class="thin" d="M450 384 C468 379 496 381 512 393"/>
+    <text x="466" y="456" transform="rotate(-8 466 456)" class="note red">跑完散</text>
+    <text x="106" y="609" transform="rotate(2 106 609)" class="small blue">灵活，但 harness 不留下来</text>
+  </g>
+
+  <!-- right hand panel -->
+  <g transform="translate(0 0)">
+    <path class="line" d="M720 294 C796 280 1130 281 1195 298 C1210 376 1210 550 1190 621 C1099 636 800 638 722 622 C706 548 705 363 720 294 Z"/>
+    <path class="thin" opacity="0.45" d="M734 309 C856 297 1076 299 1178 313"/>
+    <text x="760" y="338" class="heading">控制塔（本文）</text>
+    <path class="thin" d="M758 350 C846 342 933 344 1018 352"/>
+
+    <g class="body">
+      <text x="764" y="392">把控制流钉成确定性代码</text>
+      <text x="764" y="434">一个一直在跑的 headless daemon</text>
+      <text x="764" y="476">控制流 = 机器拥有的、持久</text>
+      <text x="764" y="518">跨 session</text>
+      <text x="764" y="560">异构 vendor 验证</text>
+    </g>
+
+    <path class="thin" d="M1094 365 C1127 368 1148 391 1143 425 C1114 432 1085 421 1076 394 C1078 378 1083 369 1094 365 Z"/>
+    <path class="thin" d="M1108 358 L1114 438"/>
+    <path class="thin" d="M1082 398 L1147 395"/>
+    <circle cx="1114" cy="396" r="8" fill="#f28c28"/>
+    <text x="1028" y="456" transform="rotate(6 1028 456)" class="note red">钉住</text>
+    <text x="925" y="609" transform="rotate(-2 925 609)" class="small blue">持久循环，不靠临场想象</text>
+  </g>
+
+  <!-- small ground scratches -->
+  <path class="thin" opacity="0.5" d="M260 655 C370 642 457 653 542 646"/>
+  <path class="thin" opacity="0.5" d="M760 650 C871 640 1006 655 1127 644"/>
+</svg>
