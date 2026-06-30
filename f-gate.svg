@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Helvetica Neue',Arial,sans-serif}</style>
+<defs>
+<marker id="ac" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><polygon points="0 0, 9 4, 0 8" fill="#5a5a5a"/></marker>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#0000001a"/></filter>
+</defs>
+<rect width="1000" height="520" fill="#f8f6f3"/>
+<text x="500" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1a1a1a">第二意见不可伪造 · 异构双门</text>
+<rect x="56" y="204" width="168" height="92" rx="12" fill="#9dd4c7" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="140" y="248" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a1a">worker（实现）</text>
+<text x="140" y="268" text-anchor="middle" font-size="13" fill="#5a5a5a">vendor A</text>
+<rect x="320" y="204" width="180" height="92" rx="12" fill="#a8c5e6" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="410" y="248" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a1a">review（审）</text>
+<text x="410" y="268" text-anchor="middle" font-size="13" fill="#5a5a5a">必须 vendor B ≠ A</text>
+<rect x="593" y="204" width="150" height="92" rx="12" fill="#f4e4c1" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="668" y="248" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a1a">fresh-test</text>
+<text x="668" y="268" text-anchor="middle" font-size="13" fill="#5a5a5a">独立 run</text>
+<rect x="805" y="210" width="140" height="80" rx="12" fill="#e8e6e3" stroke="#4a4a4a" stroke-width="2.5" filter="url(#sh)"/>
+<text x="875" y="255" text-anchor="middle" font-size="16" font-weight="600" fill="#1a1a1a">ship / Done</text>
+<line x1="224" y1="250" x2="318" y2="250" stroke="#5a5a5a" stroke-width="2.2" marker-end="url(#ac)"/>
+<text x="271" y="240" text-anchor="middle" font-size="13" fill="#5a5a5a">diff</text>
+<line x1="500" y1="250" x2="591" y2="250" stroke="#5a5a5a" stroke-width="2.2" marker-end="url(#ac)"/>
+<text x="545" y="240" text-anchor="middle" font-size="13" fill="#5a5a5a">ready</text>
+<line x1="743" y1="250" x2="803" y2="250" stroke="#5a5a5a" stroke-width="2.2" marker-end="url(#ac)"/>
+<text x="773" y="240" text-anchor="middle" font-size="13" fill="#5a5a5a">pass</text>
+<path d="M 410,296 C 410,380 140,380 140,300" fill="none" stroke="#5a5a5a" stroke-width="2.2" stroke-dasharray="6,4" marker-end="url(#ac)"/>
+<text x="275" y="395" text-anchor="middle" font-size="13" fill="#5a5a5a">not-ready + must_fix（fixer run）</text>
+<rect x="245" y="88" width="330" height="64" rx="12" fill="#f3dada" stroke="#4a4a4a" stroke-width="2.5" stroke-dasharray="6,4" filter="url(#sh)"/>
+<text x="410" y="118" text-anchor="middle" font-size="14" font-weight="600" fill="#1a1a1a">同 vendor 自评 → 硬性拒绝</text>
+<text x="410" y="138" text-anchor="middle" font-size="13" fill="#5a5a5a">代码里 hard-throw：不算一次 review</text>
+<line x1="410" y1="152" x2="410" y2="202" stroke="#5a5a5a" stroke-width="2.2" stroke-dasharray="6,4" marker-end="url(#ac)"/>
+<rect x="60" y="430" width="880" height="66" rx="12" fill="#e8e6e3" stroke="#4a4a4a" stroke-width="2"/>
+<text x="500" y="458" text-anchor="middle" font-size="14" font-weight="600" fill="#1a1a1a">双门 = 异构 review + 独立 fresh-test · 0 self-certified gate</text>
+<text x="500" y="480" text-anchor="middle" font-size="13" fill="#5a5a5a">单人 + 自改的系统没有第二个人能当第二意见 → 诚实只能压在这道异构 gate 上</text>
+</svg>
